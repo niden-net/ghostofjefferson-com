@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main class="list">
+    {% for post in paginator.posts %}
+    <section class="article-list">
+        <div class="categories">
+            {% for category in post.categories %}
+            <a href="/categories/{{ category }}">{{ category }}</a>
+            {% endfor %}
+        </div>
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <div class="date-author">
+            <span class="author">{{ post.author }}</span> /
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </div>
+        <div class="summary">
+            {{ post.excerpt }}
+        </div>
+    </section>
+    {% endfor %}
+</main>

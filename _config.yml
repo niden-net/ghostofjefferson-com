@@ -1,0 +1,29 @@
+name: 'The Spirit of Jefferson'
+author: ''
+description: 'The Spirit of Jefferson - We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.'
+keywords: 'jefferson, spirit, jefferson county, west virginia'
+email: ''
+facebook:
+rss: 'soj'
+analytics: ''
+
+paginate: 6
+paginate_path: '/page-:num'
+include:
+  - _redirects
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+
+
+
