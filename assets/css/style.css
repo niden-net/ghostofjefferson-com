@@ -50,7 +50,7 @@ main {
 }
 
 .banner {
-    font-family: 'Meie Script', cursive;
+    font-family: 'Pinyon Script', cursive;
 }
 
 .banner .text {
@@ -290,4 +290,13 @@ tr:nth-child(even) {
 .footnotes hr {
     width: 50%;
     margin-left: 0;
+}
+
+
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+blockquote {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Libre Baskerville', serif;
 }
