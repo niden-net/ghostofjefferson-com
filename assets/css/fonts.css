@@ -11,3 +11,11 @@ pre code {
   font-family: "Lucida Console", Monaco, 'STKaiti', 'KaiTi', 'SimKai', monospace;
   font-size: .85em;
 }
+
+@font-face {
+  font-family: "Civilian";
+  src:
+    local('civilian'),
+    url('/assets/fonts/civilian.ttf')
+    format('truetype');
+}

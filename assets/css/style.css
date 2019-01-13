@@ -28,6 +28,7 @@ main { margin-bottom: 15px; }
 }
 .header, .list section, article { background: #fff; }
 .banner { font-size: 4em; }
+.banner { font-family: "civilian", sans-serif; }
 .banner .text {
   display: block;
   line-height: 1em;
