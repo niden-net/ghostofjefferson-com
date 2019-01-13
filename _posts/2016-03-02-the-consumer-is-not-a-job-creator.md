@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeff Leek counted to infinity. Twice.
+title: The consumer is not a job creator
 author: Elliot Simon
 date: '2016-03-02T09:00:00-05:00'
 categories:
