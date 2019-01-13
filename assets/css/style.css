@@ -31,7 +31,7 @@ main { margin-bottom: 15px; }
 .banner { font-family: "civilian", sans-serif; }
 .banner .text {
   display: block;
-  line-height: 1em;
+  line-height: 1.5em;
 }
 .list {
   display: flex;
