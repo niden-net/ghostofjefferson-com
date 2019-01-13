@@ -49,4 +49,4 @@ From the very left-leaning magazine Mother Jones comes this headline, "Fallen Po
     
 The Philadelphia police union included in its statement criticizing the DNC, "It's time for politicians so cynical as to pick sides against the rule of law and due process to make the right choice and stand with the men and women of law enforcement and to stop shameful rhetoric." Amen. And that statement applies to all of us.
  
- Elliot Simon writes from Harpers Ferry
+_Elliot Simon; Harpers Ferry_

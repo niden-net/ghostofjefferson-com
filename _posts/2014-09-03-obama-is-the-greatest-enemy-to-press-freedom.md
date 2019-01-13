@@ -11,7 +11,7 @@ tags:
   - Free Speech
 ---
 In the early 19th century, British soldiers who were in engaged in battle during the Napoleonic wars used to toast one another with the expression "Confusion to the French." Lately I'm seeing some confusion on the part of scandal-fatigued supporters of the current administration. There are some that would lead you to believe that the Benghazi coverup, Operation "Fast and Furious," the Solyndra debacle and the IRS targeting of conservative groups are fictions created by partisans motivated solely by partisan politics. The fact is that even the mainstream media has found that it can't ignore them - try as they might. Yes Virginia, they are real - and that isn't even the complete list.
-<!--more-->
+
 The current administration notwithstanding, scandals and missteps in the White House aren't anything new. One of the most famous - or infamous - in all of American history was Watergate, and I remember it well. That was back when investigative journalism was a time-honored and respected pursuit. Reporters Bob Woodward and Carl Bernstein famously broke the story and became the heroes of the movie "All the President's Men." Today, the mainstream media has little use for it - it apparently causes them too much confusion.
 
 When the Watergate scandal broke in 1972, the Senate formed an investigative committee that was comprised of three Democrats and two Republicans and was chaired by the late Sen. Sam Ervin, a Democrat from North Carolina. He described himself as a "country lawyer" and had a record that included supporting Jim Crow laws and racial segregation. He also was known for his work on the investigation in 1954 that brought down Sen. Joe McCarthy. The Ervin Committee, as it came to be known, held public hearings, some of which were broadcast on network television. CSPAN did not exist.
@@ -36,4 +36,4 @@ While some Americans still remain confused, others are starting to see the light
 
 When all is said and done, President Obama may yet have another thing in common with Dick Cheney. Upon leaving office, the former Vice President's approval rating was an astonishingly low 13 percent. President Obama isn't all that far behind and appears to be on a solid trajectory to catch him. This could only cause more "confusion to the liberals."
 
-Elliot Simon writes from Harpers Ferry
+_Elliot Simon; Harpers Ferry_
