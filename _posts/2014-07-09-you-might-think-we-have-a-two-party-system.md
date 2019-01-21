@@ -2,7 +2,7 @@
 layout: post
 title: You might think we have a two-party system
 author: Elliot Simon
-date: '2014-07-09T00:00:00-04:0'
+date: '2014-07-09 00:00:00'
 categories:
   - Opinion
 tags:

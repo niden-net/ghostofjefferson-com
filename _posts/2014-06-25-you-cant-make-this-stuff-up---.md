@@ -1,11 +1,12 @@
 ---
 layout: post
 title: You Can't Make This Stuff Up
-author: esimon
-categories: Opinion
+author: 'esimon'
+date: '2014-06-25 00:00:00'
+categories:
+  - Opinion
 tags:
   - Politics
-date: '2014-06-25 03:47:00'
 ---
 As a youngster growing up, values, moral and ethical were an important part of any discussion with clergy, teachers, coaches, parents and friends. Television shows of the day were almost as inane as they are today. Except that I remember, perhaps nostalgically, that often shows attempted to incorporate a "moral to the story" into the script or attempted to grapple with an ethical problem. I remember in particular Sheriff Andy Taylor teaching his son values like honesty, integrity, respect for a person's property, respect for the rule of law, due process - as well as respect for the value of human life. Call me old fashioned - I don't mind. Values seem to be mere quaint notions today. I've come across so many outrageous stories lately that it is difficult for me to reconcile them with my upbringing. I'll share with you a few:
 

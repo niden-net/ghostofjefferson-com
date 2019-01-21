@@ -5,7 +5,7 @@ author: esimon
 categories: Opinion
 tags:
   - Politics
-date: '2015-12-09 03:56:00'
+date: '2015-12-09 00:00:00'
 ---
 In breaking news, the winner of the Time Magazine readers' poll for Person of the Year is Bernie Sanders with "a little more than 10% of the vote". That was nearly double the second place winner, Pakistani girls' education activist, Malala Yousefzai and nearly triple the vote garnered by Pope Francis and President Obama. Lately I'm having some interesting, if not downright fun conversations with Bernie Sanders fans. 
 
