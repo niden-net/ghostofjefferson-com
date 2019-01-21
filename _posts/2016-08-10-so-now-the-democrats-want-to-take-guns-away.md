@@ -1,13 +1,13 @@
 ---
 layout: post
 title: So now the Democrats want to take guns away from the police?
-author: esimon
-date: '2016-08-10 00:00:00'
+author: Elliot Simon
 categories:
   - Opinion
 tags:
   - Democrats
   - Gun Control
+date: '2016-08-10'
 ---
 According to the Associated Press on July 21: "_Philadelphia's police union is condemning Hillary Clinton for allowing relatives of people killed by police to speak at the Democratic National Convention without giving equal time to families of fallen officers. John McNesby, president of the Fraternal Order of Police Lodge No. 5, said the union is insulted by the decision to exclude families of officers killed in the line of duty._"
 
@@ -48,3 +48,5 @@ It all goes to show how wrong headed the DNC and their presidential candidate ar
 From the very left-leaning magazine Mother Jones comes this headline, "Fallen Police Officers Will Finally Be Recognized at the Democratic Convention. Better late than never." The article notes: "Although convention organizers say this was part of the plan all along, the tribute wasn't on any of the planned speakers lists until Thursday morning."  How embarrassing.
     
 The Philadelphia police union included in its statement criticizing the DNC, "It's time for politicians so cynical as to pick sides against the rule of law and due process to make the right choice and stand with the men and women of law enforcement and to stop shameful rhetoric." Amen. And that statement applies to all of us.
+ 
+_Elliot Simon; Harpers Ferry_
