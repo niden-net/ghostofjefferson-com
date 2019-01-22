@@ -2,8 +2,7 @@
 layout: post
 title: So now the Democrats want to take guns away from the police?
 author: Elliot Simon
-categories:
-  - Opinion
+categories: Opinion
 tags:
   - Democrats
   - Gun Control
