@@ -9,7 +9,7 @@ collections:
   - name: "post"
     label: "Post"
     folder: "_posts"
-    sort: "date:asc"
+    sort: "date:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
