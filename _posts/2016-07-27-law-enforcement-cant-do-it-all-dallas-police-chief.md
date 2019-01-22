@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Law Enforcement Can''t Do It All: Dallas Police Chief'
+title: Law Enforcement Can't Do It All: Dallas Police Chief
 author: esimon
 categories: Opinion
 tags:
