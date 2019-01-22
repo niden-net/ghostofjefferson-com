@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Follow Ups: JCESA and Common Core
+title: "Two Follow Ups: JCESA and Common Core"
 author: esimon
 categories: Opinion
 tags:
