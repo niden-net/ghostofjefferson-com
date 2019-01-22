@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ezekiel Emanuel: No Healthcare For You! If You''re 75 Or Older...'
+title: "Ezekiel Emanuel: No Healthcare For You! If You''re 75 Or Older..."
 author: esimon
 categories: Opinion
 tags:

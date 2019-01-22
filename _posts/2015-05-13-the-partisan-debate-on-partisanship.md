@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Partisan Debate on Partisanship'
+title: The Partisan Debate on Partisanship
 author: esimon
 date: '2015-05-13 00:00:00'
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sweden: Bernie's Paradise
+title: "Sweden: Bernie's Paradise"
 author: esimon
 categories: Opinion
 tags:
