@@ -11,7 +11,7 @@ date: '2016-10-05 00:00:00'
 They're ba-ack!
 
 With apologies to Poltergeist II (did that movie really come out 30 years ago?) it looks to me like a zombie reincarnation from the last election cycle has emerged from the swamp of campaign finance. It's called "West Virginia Family Values". It is a brand new "liberal SuperPAC". Or is it?
-
+<!--more-->
 During the last election cycle, in October of 2014, I wrote about what the watchdog organization Opensecrets had labeled a "Liberal SuperPAC" called "Honest West Virginians." Here's what I had to say then: "Here in West Virginia, during this current election cycle there has emerged what is described by Opensecrets as a Liberal SuperPac. It's called ‘Honest West Virginians.' I'll bet you've never heard of it, but according to the Charleston Gazette, ‘Honest West Virginians: The pro-Democrat committee run by labor interests raised about $645,600 last quarter and $896,100 altogether.' It goes on to say, ‘Honest West Virginians has spent tens of thousands of dollars on TV ads against state Republican candidates, according to TV station political disclosures.'"
 
 As it turned out, "Honest West Virginians" spent hundreds of thousands, not "tens of thousands" on ads attacking Republicans. The final tally of what they raised was in excess of $1.4 Million. And as I reported in 2014, one of the races that "Honest West Virginians" had targeted was in the 63rd Delegate District in Berkeley County. Their classless attack ad displayed incumbent Republican Delegate Mike Folk against a backdrop of the old "Looney Tunes" cartoons, saying "Our Delegate Mike Folk is Looney". However, voters realized who the truly looney were. Folk won by a wide margin garnering more than 60% of the vote.
