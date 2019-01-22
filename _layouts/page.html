@@ -1,0 +1,38 @@
+---
+layout: default
+---
+                <!-- blog -->
+                <div class="blog single-item">
+                    <!-- page -->
+                    <div class="item">
+                        <div class="clearfix">
+                            <!-- blog item header -->
+                            <div class="item-header">
+                                <h2><a href="{{ post.url }}">{{ page.title | strip }}</a></h2>
+                            </div>
+                            <!--/blog item header -->
+                            <!-- content -->
+                            <div class="content">
+                                <p>{{ page.content }}</p>
+                            </div>
+                            <!--/content-->
+                            <span class="tag-links">
+                                {% for tag in page.tags %}
+                                <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
+                                {% endfor %}
+                            </span>
+                            <!-- item footer -->
+                            <div class="item-footer">
+                                <span>share on:</span>
+                                <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                                <div class="tags">
+                                </div>
+                            </div>
+                            <!--/item footer -->
+                        </div>
+                    </div>
+                    <!--/page -->
+                </div>
+                <!--/blog -->
