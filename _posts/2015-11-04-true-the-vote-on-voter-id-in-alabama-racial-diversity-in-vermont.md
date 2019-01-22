@@ -1,7 +1,7 @@
 ---
 layout: post
 title: True the Vote on Voter ID in Alabama - Racial Diversity in Vermont
-author: 'esimon'
+author: esimon
 date: '2015-11-04 00:00:00'
 categories:
   - Opinion

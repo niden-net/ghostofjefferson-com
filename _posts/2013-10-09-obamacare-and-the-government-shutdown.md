@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obamacare and the Government Shutdown
-author: 'esimon'
+author: esimon
 date: '2013-10-09 00:00:00'
 categories:
   - Opinion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Progressivism's Population Redux
-author: 'esimon'
+author: esimon
 date: '2014-10-15 00:00:00'
 categories:
   - Opinion

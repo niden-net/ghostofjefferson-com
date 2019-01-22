@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nullification Goes Mainstream
-author: 'esimon'
+author: esimon
 date: '2015-09-16 00:00:00'
 categories:
   - Opinion

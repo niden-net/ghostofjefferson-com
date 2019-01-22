@@ -28,4 +28,3 @@ But wait, there's more. Cochran's donors include former New York City Mayor Mich
 
 As the Democrats have moved determinedly and markedly left along the traditional political spectrum, it is strange, to say the least, to see Republicans recruiting Democrats to vote in a Republican primary. It's ironic that so many voters would rather register independent. Ron Paul was once asked if he felt there was room in American politics for a third party. He responded that we haven't tried the two-party system yet. It got a good laugh at the time.
 
-_Elliot Simon; Harpers Ferry_

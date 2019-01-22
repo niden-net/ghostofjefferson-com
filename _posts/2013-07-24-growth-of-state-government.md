@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Growth of State Government
-author: 'esimon'
+author: esimon
 date: '2013-07-24 00:00:00'
 categories:
   - Opinion

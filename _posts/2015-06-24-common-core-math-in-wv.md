@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Core Math in WV'
-author: 'esimon'
+author: esimon
 date: '2015-06-24 00:00:00'
 categories:
   - Opinion

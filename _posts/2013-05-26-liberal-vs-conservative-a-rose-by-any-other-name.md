@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Liberal vs Conservative: A Rose By Any Other Name...'
+title: Liberal vs Conservative: A Rose By Any Other Name...'
 author: esimon
 categories: Opinion
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanksgiving at Plymouth Rock
-author: 'esimon'
+author: esimon
 date: '2013-11-27 00:00:00'
 categories:
   - Opinion

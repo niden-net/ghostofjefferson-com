@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mailgate Revisited
-author: 'esimon'
+author: esimon
 date: '2014-07-23 00:00:00'
 categories:
   - Opinion

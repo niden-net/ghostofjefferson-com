@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Debt Ceiling Also Rises
-author: 'esimon'
+author: esimon
 date: '2013-10-23 00:00:00'
 categories:
   - Opinion

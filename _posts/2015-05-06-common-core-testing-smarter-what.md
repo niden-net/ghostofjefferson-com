@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Common Core Testing: Smarter What? '
+title: Common Core Testing: Smarter What?
 author: esimon
 categories: Opinion
 tags:

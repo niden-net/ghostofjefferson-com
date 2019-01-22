@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clarksburg's Demolition Derby
-author: 'esimon'
+author: esimon
 date: '2014-07-16 00:00:00'
 categories:
   - Opinion

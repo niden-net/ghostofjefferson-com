@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The consumer is not a job creator
-author: Elliot Simon
-date: '2016-03-02T09:00:00-05:00'
+author: esimon
+date: '2016-03-02 00:00:00'
 categories:
   - Opinion
 tags:
@@ -33,4 +33,3 @@ I remember attending a meeting back in 2010 down in Charleston regarding prevail
 
 Clearly the prevailing wage law did not work as intended. That's why it belongs in the Robert Reich/Bernie Sanders School of Economics.
         
-_Elliot Simon; Harpers Ferry_

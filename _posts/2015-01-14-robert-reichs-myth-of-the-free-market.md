@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robert Reich's "Myth" of the Free Market
-author: 'esimon'
+author: esimon
 date: '2015-01-14 00:00:00'
 categories:
   - Opinion

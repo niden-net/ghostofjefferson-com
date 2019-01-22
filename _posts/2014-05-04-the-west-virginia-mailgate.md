@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The West Virginia Mailgate'
-author: 'esimon'
+author: esimon
 date: '2014-05-04 00:00:00'
 categories:
   - Opinion

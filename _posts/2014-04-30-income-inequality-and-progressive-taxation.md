@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Income Inequality and "Progressive" Taxation
-author: 'esimon'
+author: esimon
 date: '2014-04-30 00:00:00'
 categories:
   - Opinion

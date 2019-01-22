@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BET and the NAACP
-author: 'esimon'
+author: esimon
 date: '2012-11-21 00:00:00'
 categories:
   - Opinion

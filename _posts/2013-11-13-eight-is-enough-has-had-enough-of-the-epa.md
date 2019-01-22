@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eight is Enough has Had Enough of the EPA'
-author: 'esimon'
+author: esimon
 date: '2013-11-13 00:00:00'
 categories:
   - Opinion

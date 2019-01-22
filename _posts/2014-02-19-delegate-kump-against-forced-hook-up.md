@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delegate Kump Against Forced Hook Up'
-author: 'esimon'
+author: esimon
 date: '2014-02-19 00:00:00'
 categories:
   - Opinion

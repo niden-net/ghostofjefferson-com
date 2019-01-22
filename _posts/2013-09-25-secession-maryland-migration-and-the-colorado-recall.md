@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secession, Maryland Migration and the Colorado Recall
-author: 'esimon'
+author: esimon
 date: '2013-09-25 00:00:00'
 categories:
   - Opinion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Democrats Cross Over to Vote in Republican Primary
-author: 'esimon'
+author: esimon
 date: '2014-07-09 00:00:00'
 categories:
   - Opinion

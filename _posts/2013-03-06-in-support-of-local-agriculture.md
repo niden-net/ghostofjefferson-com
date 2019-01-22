@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Support of Local Agriculture 
-author: 'esimon'
+author: esimon
 date: '2013-03-06 00:00:00'
 categories:
   - Opinion

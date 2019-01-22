@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assault With a Deadly Crayon
-author: 'esimon'
+author: esimon
 date: '2014-12-10 00:00:00'
 categories:
   - Opinion

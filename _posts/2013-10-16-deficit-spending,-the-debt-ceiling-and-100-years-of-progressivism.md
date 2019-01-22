@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deficit Spending, The Debt Ceiling and 100 Years of Progressivism
-author: 'esimon'
+author: esimon
 date: '2013-10-16 00:00:00'
 categories:
   - Opinion

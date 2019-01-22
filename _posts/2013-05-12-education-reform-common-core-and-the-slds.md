@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education Reform Common Core and the SLDS
-author: 'esimon'
+author: esimon
 date: '2013-05-12 00:00:00'
 categories:
   - Opinion

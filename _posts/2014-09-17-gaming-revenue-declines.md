@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaming Revenue Declines'
-author: 'esimon'
+author: esimon
 date: '2014-09-17 00:00:00'
 categories:
   - Opinion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Governor Tomblin Vetoes Raw Milk Bill
-author: 'esimon'
+author: esimon
 date: '2015-04-08 00:00:00'
 categories:
   - Opinion

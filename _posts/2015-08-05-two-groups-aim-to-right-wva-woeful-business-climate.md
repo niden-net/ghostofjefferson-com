@@ -32,4 +32,3 @@ This year's EPBA chair is local businessman Jim Ruland, who describes the group 
 
 Everyone deserves the opportunity to succeed. It's pretty clear that the policies of the last several decades have created a climate that discourages opportunity in West Virginia.  Our work force participation rates and unemployment rates bear this out. It would be great for more West Virginians to be able to work in West Virginia. The recent legislative session was a modest but positive start. I'll be attending the Policy and Progress Forum on Wednesday to hear what the next steps might be. I hope to see you there.
 
-_Elliot Simon; Harpers Ferry_

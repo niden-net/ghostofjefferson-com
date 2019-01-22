@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Core and SLDS Data Mining
-author: 'esimon'
+author: esimon
 date: '2014-01-29 00:00:00'
 categories:
   - Opinion

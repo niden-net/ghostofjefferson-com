@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Popflation" and Uncle Sam '
+title: "Popflation" and Uncle Sam '
 author: esimon
 categories: Opinion
 tags:

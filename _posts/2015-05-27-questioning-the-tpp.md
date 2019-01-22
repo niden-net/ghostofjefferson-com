@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questioning the TPP
-author: 'esimon'
+author: esimon
 date: '2015-05-27 00:00:00'
 categories:
   - Opinion

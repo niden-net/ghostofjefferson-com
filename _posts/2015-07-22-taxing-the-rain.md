@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taxing the Rain'
-author: 'esimon'
+author: esimon
 date: '2015-07-22 00:00:00'
 categories:
   - Opinion

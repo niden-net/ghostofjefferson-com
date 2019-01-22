@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Anti-Morrisey Bill
-author: 'esimon'
+author: esimon
 date: '2014-05-12 00:00:00'
 categories:
   - Opinion

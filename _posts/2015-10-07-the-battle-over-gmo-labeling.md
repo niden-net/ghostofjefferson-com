@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Battle Over GMO Labeling'
-author: 'esimon'
+author: esimon
 date: '2015-10-07 00:00:00'
 categories:
   - Opinion

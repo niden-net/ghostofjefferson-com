@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And the State Ranked "Most Socialist" Is...
-author: 'esimon'
+author: esimon
 date: '2014-12-03 00:00:00'
 categories:
   - Opinion

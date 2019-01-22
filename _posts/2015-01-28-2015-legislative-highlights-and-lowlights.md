@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Legislative Highlights (and Lowlights)
-author: 'esimon'
+author: esimon
 date: '2015-01-28 00:00:00'
 categories:
   - Opinion

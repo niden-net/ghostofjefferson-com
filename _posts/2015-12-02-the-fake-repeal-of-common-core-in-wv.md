@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fake Repeal of Common Core in WV
-author: 'esimon'
+author: esimon
 date: '2015-12-02 00:00:00'
 categories:
   - Opinion

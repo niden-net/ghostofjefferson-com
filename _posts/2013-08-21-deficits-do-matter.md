@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deficits Do Matter
-author: 'esimon'
+author: esimon
 date: '2013-08-21 00:00:00'
 categories:
   - Opinion

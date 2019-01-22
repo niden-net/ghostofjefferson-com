@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Swasey: Common Core is Education Without Respresentation'
+title: Swasey: Common Core is Education Without Respresentation'
 author: esimon
 categories: Opinion
 tags:

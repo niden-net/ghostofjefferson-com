@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questioning the Patriot Act
-author: 'esimon'
+author: esimon
 date: '2015-06-03 00:00:00'
 categories:
   - Opinion

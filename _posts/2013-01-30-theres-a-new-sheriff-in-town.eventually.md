@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There's a New Sheriff In Town...Eventually
-author: 'esimon'
+author: esimon
 date: '2013-01-30 00:00:00'
 categories:
   - Opinion

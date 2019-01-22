@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obama vs Whistleblowers
-author: 'esimon'
+author: esimon
 date: '2014-09-03 00:00:00'
 categories:
   - Opinion

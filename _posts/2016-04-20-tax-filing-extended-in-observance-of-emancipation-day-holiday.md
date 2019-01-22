@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tax filing extended in observance of Emancipation Day holiday
-author: Elliot Simon
+author: esimon
 categories: Opinion
 tags:
   - Emancipation Day
@@ -30,4 +30,4 @@ The IRS has been at the center of a number of controversies in recent years and 
 
 John Williams is an economist who publishes a website called [shadowstats.com](https://shadowstats.com). He crunches many of the numbers issued by the federal government, including unemployment, inflation, budget numbers and others. According to him, if you kept federal spending at current levels and taxed everyone in the United States 100 percent, you would not balance the budget - the U.S. would still have a budget deficit. Read that again and let it sink in. More on that revolutionary piece of information next time.
 
-_Elliot Simon; Harpers Ferry_
+

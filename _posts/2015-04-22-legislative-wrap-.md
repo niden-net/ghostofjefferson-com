@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legislative Wrap
-author: 'esimon'
+author: esimon
 date: '2015-04-22 00:00:00'
 categories:
   - Opinion
