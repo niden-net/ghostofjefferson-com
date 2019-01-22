@@ -3,7 +3,7 @@ layout: post
 title: WVGOP Platform Convention
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-07-29 00:00:00'

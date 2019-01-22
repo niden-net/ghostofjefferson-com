@@ -4,7 +4,7 @@ title: BET and the NAACP
 author: esimon
 date: '2012-11-21 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

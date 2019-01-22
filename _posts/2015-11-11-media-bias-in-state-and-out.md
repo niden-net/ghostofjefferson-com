@@ -4,7 +4,7 @@ title: Media Bias In State and Out
 author: esimon
 date: '2015-11-11 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

@@ -4,7 +4,7 @@ title: CISPA, The Blood Bill and our Right to Privacy
 author: esimon
 date: '2013-04-24 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

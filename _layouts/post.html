@@ -6,15 +6,6 @@ layout: default
                     <!-- post -->
                     <div class="item">
                         <div class="clearfix">
-                            {% if page.image %}
-                            <!-- media block -->
-                            <div class="media-block">
-                                <div class="video">
-                                    <img src="/{{ page.image }}/-/resize/1170x731/" alt="{{ page.title | strip }}">
-                                </div>
-                            </div>
-                            <!-- blog item header -->
-                            {% endif %}
                             <div class="item-header">
                                 <h2><a href="{{ post.url }}">{{ page.title | strip }}</a></h2>
                                 <h3><a href="{{ post.url }}">{{ page.subtitle | strip }}</a></h3>

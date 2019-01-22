@@ -3,10 +3,11 @@ layout: post
 title: The West Virginia Budget Includes Tax Increases
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-06-15 00:00:00'
+image: 'https://ucarecdn.com/50888e1a-b380-4cbe-b001-b17fc3807257/'
 ---
 Well, the legislature appears to have acquiesced to the governor and has passed a budget that includes additional taxes and spending. That is disappointing. According to a Twitter post by Delegate Mike Folk (R – Berkeley), the new General Revenue budget contains $100 Million in new taxes and $98 Million in new spending. This increase will be reflected in the West Virginia general revenue budget, raising it from approximately $4.088 billion to around $4.188 billion. 
 

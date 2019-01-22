@@ -3,10 +3,11 @@ layout: post
 title: WV Budget Includes Tax Increases
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-06-01 00:00:00'
+image: 'https://ucarecdn.com/50888e1a-b380-4cbe-b001-b17fc3807257/'
 ---
 In a recent essay posted to the Mises Institute website, Lewellyn Rockwell writes, "In 2012, Barack Obama warned that the United States would fall into a depression if Ron Paul's plan to cut $1 trillion from the federal budget were enacted. Wait, I beg your pardon. It wasn't Obama who warned that budget cuts would lead to a depression. It was Mitt Romney. Romney went on to become the nominee of the self-described free-market party. An ideological rout is complete when both sides of respectable opinion take its basic ideas for granted."
 

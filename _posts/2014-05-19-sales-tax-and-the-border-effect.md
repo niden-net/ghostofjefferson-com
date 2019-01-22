@@ -4,7 +4,7 @@ title: Sales Tax and the Border Effect'
 author: esimon
 date: '2014-05-19 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

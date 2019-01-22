@@ -3,7 +3,7 @@ layout: post
 title: 2016 Legislative Session Wrap Up
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-03-16 00:00:00'

@@ -4,7 +4,7 @@ title: Robert Reich's "Myth" of the Free Market
 author: esimon
 date: '2015-01-14 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 permalink: '"/2015/01/14/robert-reichs-myth-of-the-free-market'

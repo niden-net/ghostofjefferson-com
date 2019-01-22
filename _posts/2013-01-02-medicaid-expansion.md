@@ -4,7 +4,7 @@ title: Medicaid Expansion
 author: esimon
 date: '2013-01-02 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

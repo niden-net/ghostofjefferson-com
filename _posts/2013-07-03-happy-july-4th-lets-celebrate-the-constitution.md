@@ -5,7 +5,7 @@ subtitle: The Constitution
 author: esimon
 date: '2013-07-03 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
   - Constitution

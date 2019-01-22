@@ -5,7 +5,7 @@ subtitle: Krugman to Cheney
 author: esimon
 date: '2013-08-21 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
   - Debt

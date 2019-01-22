@@ -4,7 +4,7 @@ title: Questioning Obamacare'
 author: esimon
 date: '2015-06-17 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

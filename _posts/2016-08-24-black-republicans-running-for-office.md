@@ -3,7 +3,7 @@ layout: post
 title: Black Republicans Running for Office
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-08-24 00:00:00'

@@ -4,7 +4,7 @@ title: First GOP Controlled Legislative Session in 80 Years
 author: esimon
 date: '2015-03-25 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

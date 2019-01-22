@@ -2,7 +2,7 @@
 layout: post
 title: "Two Follow Ups: JCESA and Common Core"
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2015-03-04 00:00:00'

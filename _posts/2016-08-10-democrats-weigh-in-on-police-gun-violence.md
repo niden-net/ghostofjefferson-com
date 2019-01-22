@@ -3,7 +3,7 @@ layout: post
 title: Democrats Weigh in on Police Gun Violence
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Democrats
   - Gun Control

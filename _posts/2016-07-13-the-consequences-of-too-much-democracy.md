@@ -3,7 +3,7 @@ layout: post
 title: The Consequences of Too Much Democracy
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-07-13 00:00:00'

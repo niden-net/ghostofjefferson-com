@@ -3,7 +3,7 @@ layout: post
 title: There are No Quick Fixes to System Problems
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-05-18 00:00:00'

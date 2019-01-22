@@ -4,7 +4,7 @@ title: Home Rule Equals Higher Taxes
 author: esimon
 date: '2012-12-12 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

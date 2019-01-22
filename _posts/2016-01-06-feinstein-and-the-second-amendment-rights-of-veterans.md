@@ -3,7 +3,7 @@ layout: post
 title: Feinstein and the Second Amendment Rights of Veterans
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-01-06 00:00:00'

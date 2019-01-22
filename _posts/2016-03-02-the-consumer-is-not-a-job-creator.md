@@ -4,7 +4,7 @@ title: The consumer is not a job creator
 author: esimon
 date: '2016-03-02 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
 ---
 Political economist Robert Reich has produced a series of videos that purport to educate the public on, well, "the dismal science." According to Wikipedia, the dismal science is a "derogatory alternative name for economics coined by the Victorian historian Thomas Carlyle in the 19th century." The entry continues: "Many at the time and afterward have understood the phrase in relation to the grim predictions drawn from the principles of 19th-century 'political economy.'"

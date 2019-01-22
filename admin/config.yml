@@ -19,7 +19,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "select", options: ["News", "Opinion"]}
+      - {label: "Categories", name: "categories", widget: "select", options: ["News", "Opinion", "Archives"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Image", name: "image", widget: "image", required: false }

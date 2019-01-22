@@ -5,7 +5,7 @@ subtitle: MD Refugees in WV
 author: esimon
 date: '2013-09-25 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

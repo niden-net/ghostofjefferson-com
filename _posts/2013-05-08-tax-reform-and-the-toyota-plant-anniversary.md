@@ -4,7 +4,7 @@ title: Tax Reform and the Toyota Plant Anniversary
 author: esimon
 date: '2013-05-08 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

@@ -4,7 +4,7 @@ title: Both Major Parties Lose Membership
 author: esimon
 date: '2014-01-22 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

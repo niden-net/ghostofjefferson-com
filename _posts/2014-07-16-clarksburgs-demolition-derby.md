@@ -4,7 +4,7 @@ title: Clarksburg's Demolition Derby
 author: esimon
 date: '2014-07-16 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 permalink: '/2014/07/16/clarksburgs-demolition-derby'

@@ -2,7 +2,7 @@
 layout: post
 title: Little ROI Making Your Home Energy Efficient
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2015-07-01 04:00:00'

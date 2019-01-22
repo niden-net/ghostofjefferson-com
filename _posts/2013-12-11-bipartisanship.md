@@ -4,7 +4,7 @@ title: Bipartisanship
 author: esimon
 date: '2013-12-11 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

@@ -4,7 +4,7 @@ title: Individual Privacy vs Government Secrecy
 author: esimon
 date: '2013-08-07 00:00:00'
 categories:
- - Opinion
+ - Archives
 tags:
  - Politics
  - Secrecy

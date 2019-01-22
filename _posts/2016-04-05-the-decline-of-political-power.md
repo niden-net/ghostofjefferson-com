@@ -3,7 +3,7 @@ layout: post
 title: The Decline of Political Power
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-04-05 00:00:00'

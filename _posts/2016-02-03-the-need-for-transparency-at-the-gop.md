@@ -3,7 +3,7 @@ layout: post
 title: The Need For Transparency at the GOP
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-02-03 00:00:00'

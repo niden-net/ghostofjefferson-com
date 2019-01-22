@@ -4,7 +4,7 @@ title: Two groups aim to right W.Va.'s woeful business climate
 author: Elliot Simon
 date: '2015-08-05T09:00:00-04:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - West Virginia
   - Business

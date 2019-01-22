@@ -4,7 +4,7 @@ title: Census Population vs Voter Population
 author: esimon
 date: '2015-10-14 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

@@ -4,7 +4,7 @@ title: Elizabeth Warren Visits Shepherdstown
 author: esimon
 date: '2014-07-30 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

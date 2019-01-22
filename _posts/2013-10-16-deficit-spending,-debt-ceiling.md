@@ -5,7 +5,7 @@ subtitle: 100 years of Progressivism
 author: esimon
 date: '2013-10-16 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
   - Deficit

@@ -4,7 +4,7 @@ title: WV Election is a Sea Change from Blue to Red
 author: esimon
 date: '2014-11-12 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

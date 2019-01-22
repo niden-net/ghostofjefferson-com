@@ -3,7 +3,7 @@ layout: post
 title: Tax Emancipation Day
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-04-20 00:00:00'

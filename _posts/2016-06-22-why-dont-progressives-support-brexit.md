@@ -3,7 +3,7 @@ layout: post
 title: Why Don't Progressives Support Brexit?
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-06-22 00:00:00'

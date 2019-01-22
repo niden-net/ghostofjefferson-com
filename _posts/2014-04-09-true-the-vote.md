@@ -4,7 +4,7 @@ title: True the Vote
 author: esimon
 date: '2014-04-09 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

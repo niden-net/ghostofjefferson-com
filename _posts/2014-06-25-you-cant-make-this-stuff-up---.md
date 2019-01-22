@@ -4,7 +4,7 @@ title: You Can't Make This Stuff Up
 author: esimon
 date: '2014-06-25 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

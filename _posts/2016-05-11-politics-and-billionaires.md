@@ -3,7 +3,7 @@ layout: post
 title: Politics and Billionaires
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-05-11 00:00:00'

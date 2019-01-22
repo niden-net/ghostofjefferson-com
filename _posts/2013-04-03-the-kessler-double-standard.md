@@ -4,7 +4,7 @@ title: The Kessler Double Standard
 author: esimon
 date: '2013-04-03 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

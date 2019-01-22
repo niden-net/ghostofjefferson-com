@@ -3,7 +3,7 @@ layout: post
 title: Political Correctness – From Merle Haggard to Gary Player
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-04-13 00:00:00'

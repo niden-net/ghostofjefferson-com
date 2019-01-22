@@ -4,7 +4,7 @@ title: Opposition to Common Core
 author: esimon
 date: '2013-01-16 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

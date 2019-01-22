@@ -4,7 +4,7 @@ title: High School Student Arrested for NRA Shirt
 author: esimon
 date: '2013-07-10 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

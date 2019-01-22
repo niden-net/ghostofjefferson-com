@@ -4,7 +4,7 @@ title: Money in Politics - the Progressive SuperPACs
 author: esimon
 date: '2014-10-22 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

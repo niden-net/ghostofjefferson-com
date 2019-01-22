@@ -4,7 +4,7 @@ title: Legislative Wrap
 author: esimon
 date: '2015-04-22 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

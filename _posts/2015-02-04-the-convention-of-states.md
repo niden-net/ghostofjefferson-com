@@ -4,7 +4,7 @@ title: The Convention of States
 author: esimon
 date: '2015-02-04 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

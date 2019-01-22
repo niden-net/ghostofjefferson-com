@@ -4,7 +4,7 @@ title: Introduction and Election Analysis
 author: esimon
 date: '2012-11-14 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

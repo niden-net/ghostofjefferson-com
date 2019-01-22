@@ -2,7 +2,7 @@
 layout: post
 title: "Common Core Testing: Smarter What?"
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2015-05-06 04:03:00'

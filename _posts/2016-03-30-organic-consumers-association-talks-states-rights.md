@@ -3,7 +3,7 @@ layout: post
 title: Organic Consumers Association Talks States' Rights
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-03-30 00:00:00'

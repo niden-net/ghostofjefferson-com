@@ -4,7 +4,7 @@ title: You might think we have a two-party system
 author: Elliot Simon
 date: '2014-07-09 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

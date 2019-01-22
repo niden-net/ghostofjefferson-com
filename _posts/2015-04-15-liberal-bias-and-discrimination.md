@@ -4,7 +4,7 @@ title: Liberal Bias and Discrimination
 author: esimon
 date: '2015-04-15 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

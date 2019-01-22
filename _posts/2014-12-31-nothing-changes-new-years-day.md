@@ -4,7 +4,7 @@ title: Nothing Changes New Year's Day
 author: esimon
 date: '2014-12-31 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 permalink: '/2014/12/31/nothing-changes-new-years-day'

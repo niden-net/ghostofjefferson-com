@@ -5,7 +5,7 @@ subtitle: Common Core - SLDS
 author: esimon
 date: '2013-06-12 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
   - SLDS

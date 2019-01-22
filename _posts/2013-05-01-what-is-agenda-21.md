@@ -4,7 +4,7 @@ title: What is Agenda 21?
 author: esimon
 date: '2013-05-01 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

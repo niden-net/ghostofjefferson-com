@@ -3,7 +3,7 @@ layout: post
 title: Is Civil Asset Forfeiture a Community Asset?
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-09-21 00:00:00'

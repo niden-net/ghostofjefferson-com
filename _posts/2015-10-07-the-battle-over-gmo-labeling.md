@@ -4,7 +4,7 @@ title: The Battle Over GMO Labeling'
 author: esimon
 date: '2015-10-07 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

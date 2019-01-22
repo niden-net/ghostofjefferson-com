@@ -4,7 +4,7 @@ title: The Local Convention for the Constitution
 author: esimon
 date: '2013-02-27 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

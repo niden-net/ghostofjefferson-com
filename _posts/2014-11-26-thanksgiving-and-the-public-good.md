@@ -4,7 +4,7 @@ title: Thanksgiving and the Public Good
 author: esimon
 date: '2014-11-26 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

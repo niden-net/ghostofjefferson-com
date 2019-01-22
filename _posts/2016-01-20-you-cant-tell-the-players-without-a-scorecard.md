@@ -3,7 +3,7 @@ layout: post
 title: You Can't Tell the Players Without a Scorecard
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-01-20 00:00:00'

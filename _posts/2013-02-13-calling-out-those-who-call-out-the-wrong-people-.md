@@ -4,7 +4,7 @@ title: Calling Out Those Who Call Out the Wrong People
 author: esimon
 date: '2013-02-13 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

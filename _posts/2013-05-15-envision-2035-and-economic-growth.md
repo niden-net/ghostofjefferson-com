@@ -5,7 +5,7 @@ subtitle: Texas Self Sufficiency Act
 author: esimon
 date: '2013-05-15 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

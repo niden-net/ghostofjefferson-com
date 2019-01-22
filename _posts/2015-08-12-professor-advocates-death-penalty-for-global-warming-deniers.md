@@ -4,7 +4,7 @@ title: Professor Advocates Death Penalty for "Global Warming Deniers"
 author: esimon
 date: '2015-08-12 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Liberal vs Conservative: A Rose By Any Other Name..."
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2013-06-26 12:00:00'

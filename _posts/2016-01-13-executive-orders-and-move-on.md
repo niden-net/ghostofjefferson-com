@@ -3,7 +3,7 @@ layout: post
 title: Executive Orders and Move On
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-01-13 00:00:00'

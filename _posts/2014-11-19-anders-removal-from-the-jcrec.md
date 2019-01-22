@@ -4,7 +4,7 @@ title: Anders Removal From the JCREC
 author: esimon
 date: '2014-11-19 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

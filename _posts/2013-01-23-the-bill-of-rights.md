@@ -4,7 +4,7 @@ title: The Bill of Rights
 author: esimon
 date: '2013-01-23 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

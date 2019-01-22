@@ -4,7 +4,7 @@ title: The Ambulance Fee Revisited
 author: esimon
 date: '2014-09-24 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

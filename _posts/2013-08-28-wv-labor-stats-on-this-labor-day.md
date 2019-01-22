@@ -5,7 +5,7 @@ subtitle: WV Stats
 author: esimon
 date: '2013-08-28 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

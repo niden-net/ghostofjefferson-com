@@ -3,10 +3,11 @@ layout: post
 title: Governor Vetoes Budget That Has No New Taxes
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-08-31 00:00:00'
+image: 'https://ucarecdn.com/50888e1a-b380-4cbe-b001-b17fc3807257/'
 ---
 In the recent session, the West Virginia legislature was confronted with some very tough choices due to our state's budgetary problems. One of the duties of the governor is to propose the annual state budget. This year there were some that felt that it contained a last minute numbers surprise; that the governor might have pulled a fast one. Be that as it may, the legislature responded with a balanced budget that did not raise taxes. The governor vetoed it. After some back and forth a "compromise" was reached that included a substantial increase in taxes. Not good. 
 

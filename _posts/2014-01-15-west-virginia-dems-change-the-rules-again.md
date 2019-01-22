@@ -4,7 +4,7 @@ title: West Virginia Dems Change the Rules -- Again
 author: esimon
 date: '2014-01-15 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

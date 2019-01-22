@@ -4,7 +4,7 @@ title: Michael Moore's Love Affair With Capitalism
 author: esimon
 date: '2014-08-06 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 permalink: '/2014/08/06/michael-moores-love-affair-with-capitalism'

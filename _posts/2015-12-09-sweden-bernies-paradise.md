@@ -2,7 +2,7 @@
 layout: post
 title: "Sweden: Bernie's Paradise"
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2015-12-09 00:00:00'

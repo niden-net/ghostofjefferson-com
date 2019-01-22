@@ -2,7 +2,7 @@
 layout: post
 title: "Bloomberg: There Isn't Enough Intellectural Diversity at Harvard"
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2014-10-29 12:00:00'

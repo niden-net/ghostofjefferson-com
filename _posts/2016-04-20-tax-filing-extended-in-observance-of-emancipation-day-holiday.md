@@ -2,7 +2,7 @@
 layout: post
 title: Tax filing extended in observance of Emancipation Day holiday
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Emancipation Day
   - Taxes

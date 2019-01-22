@@ -4,7 +4,7 @@ title: Need some good news? Try the Second Annual Policy and Progress Forum
 author: esimon
 date: '2016-07-20 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
 ---
 It's summer time and we're all trying to enjoy that time of year usually devoted to vacations and county fairs &ndash; in spite of all of the bad things that are happening around us. Rather than focus on the negative, I would like to take a moment and bring to your attention one of the positive things &ndash; and all the more so because it's happening here in the Eastern Panhandle of West Virginia.

@@ -4,7 +4,7 @@ title: The NFL and the Rice Family
 author: esimon
 date: '2015-09-09 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

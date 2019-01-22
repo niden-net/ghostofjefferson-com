@@ -4,7 +4,7 @@ title: The Songs of the Season
 author: esimon
 date: '2014-12-24 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

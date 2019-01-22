@@ -4,7 +4,7 @@ title: Vote on the Patriot Act Extension Called Into Question
 author: esimon
 date: '2015-05-20 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

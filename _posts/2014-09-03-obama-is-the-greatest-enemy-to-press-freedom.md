@@ -4,7 +4,7 @@ title: Obama is the 'greatest enemy to press freedom in a generation'
 date: '2014-09-03 00:00:000'
 author: Elliot Simon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Press
   - 1A

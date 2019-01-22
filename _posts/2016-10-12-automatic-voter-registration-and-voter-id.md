@@ -3,7 +3,7 @@ layout: post
 title: Automatic Voter Registration and Voter ID
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-10-12 00:00:00'

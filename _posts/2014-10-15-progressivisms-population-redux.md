@@ -4,7 +4,7 @@ title: Progressivism's Population Redux
 author: esimon
 date: '2014-10-15 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 permalink: '/2014/10/15/progressivisms-population-redux'

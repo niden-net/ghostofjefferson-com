@@ -4,7 +4,7 @@ title: Gaming Revenue Declines'
 author: esimon
 date: '2014-09-17 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

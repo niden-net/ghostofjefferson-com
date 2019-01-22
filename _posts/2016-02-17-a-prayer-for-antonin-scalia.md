@@ -3,7 +3,7 @@ layout: post
 title: A Prayer for Antonin Scalia
 author: esimon
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 date: '2016-02-17 00:00:00'

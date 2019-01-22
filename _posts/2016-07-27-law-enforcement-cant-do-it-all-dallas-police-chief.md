@@ -2,7 +2,7 @@
 layout: post
 title: "Law Enforcement Can't Do It All: Dallas Police Chief"
 author: esimon
-categories: Opinion
+categories: Archives
 tags:
   - Politics
 date: '2016-07-27 07:40:50'

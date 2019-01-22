@@ -4,7 +4,7 @@ title: Jefferson County Chamber vs the WV Chamber
 author: esimon
 date: '2014-10-01 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

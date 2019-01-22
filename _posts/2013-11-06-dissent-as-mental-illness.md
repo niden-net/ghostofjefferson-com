@@ -5,7 +5,7 @@ subtitle: Ted Cruz Henrik Ibsen
 author: esimon
 date: '2013-11-06 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---

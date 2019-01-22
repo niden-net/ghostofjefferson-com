@@ -4,7 +4,7 @@ title: Minimum Wage, Prevailing and the West Virginia Economy
 author: esimon
 date: '2014-05-14 00:00:00'
 categories:
-  - Opinion
+  - Archives
 tags:
   - Politics
 ---
