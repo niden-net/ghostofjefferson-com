@@ -3,7 +3,10 @@ backend:
   branch: master
 
 publish_mode: editorial_workflow
-media_folder: "assets/images"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: a1e859b30a30a58de042
 
 collections:
   - name: "post"
@@ -19,7 +22,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "select", options: ["News", "Opinion"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false }
 #          media_library:
 #            config:
 #              multiple: true}
