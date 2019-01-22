@@ -45,5 +45,5 @@ collections:
       - {label: "Facebook", name: "facebook", widget: "string", default: ""}
       - {label: "Gab", name: "gab", widget: "string", default: ""}
       - {label: "Mewe", name: "mewe", widget: "string", default: ""}
-      - {label: "Birthday", name: "date", widget: "datetime", format: "YYYY-MM-DD", default: ""}
+      - {label: "Birthday", name: "date", widget: "date", format: "YYYY-MM-DD", default: ""}
       - {label: "Bio", name: "bio", widget: "markdown", default: ""}
