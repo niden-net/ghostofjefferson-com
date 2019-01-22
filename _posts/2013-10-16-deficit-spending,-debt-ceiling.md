@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Deficit Spending, The Debt Ceiling and 100 Years of Progressivism
+title: Deficit Spending, Debt Ceiling
+subtitle: 100 years of Progressivism
 author: esimon
 date: '2013-10-16 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - Deficit
+  - Debt
 ---
 As of this writing the partial shut down of the government continues. The house has tried its best to cave in to the president, offering a "compromise" short term continuing resolution that was rejected. Continuing resolutions used to be considered an emergency measure to be used as a last resort to keep the government operating until a budget could be approved. However, the last budget passed by congress was April 29, 2009, over four years ago. 
 

@@ -1,22 +1,20 @@
 ---
 layout: post
 title: Happy July 4th - Let's Celebrate the Constitution
+subtitle: The Constitution
 author: esimon
 date: '2013-07-03 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - Constitution
 ---
-By the rude bridge that arched the flood,
-
-Their flag to April's breeze unfurled,
-
-Here once the embattled farmers stood,
-
-And fired the shot heard round the world.
-
-First Stanza of the poem Concord Hymn - Ralph Waldo Emerson (1837)
+> By the rude bridge that arched the flood,
+> Their flag to April's breeze unfurled,
+> Here once the embattled farmers stood,
+> And fired the shot heard round the world.
+> _First Stanza of the poem Concord Hymn - Ralph Waldo Emerson (1837)_
 
 This week we will be celebrating Independence Day as we do every year on July 4th. It will mark the 237th anniversary of "the shot heard round the world". Revolution ensued, with the insurgents risking their fortunes, their very lives and the lives of their families, all because of the truths that they and we to this day hold to be self evident. There are few people today that could put themselves in their shoes. Imagine a citizenry willing to lay their lives on the line for principle. When we talk about revolution today, we really don't know from whence we speak. Whenever I utter the word "tyranny" in polite company, I get blank stares or rolling eyes. Try it sometime, I dare you. 
 

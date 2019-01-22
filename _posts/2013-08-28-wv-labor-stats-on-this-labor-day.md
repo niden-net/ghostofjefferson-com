@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WV Employment Stats on this Labor Day
+subtitle: WV Stats 
 author: esimon
 date: '2013-08-28 00:00:00'
 categories:

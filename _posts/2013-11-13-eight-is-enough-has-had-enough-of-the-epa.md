@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Eight is Enough has Had Enough of the EPA'
+title: Eight is Enough has Had Enough of the EPA
+subtitle: EPA FDA Glenn Sherer
 author: esimon
 date: '2013-11-13 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - EPA
+  - FDA
 ---
 In August I wrote about the Alt family who own the Eight is Enough poultry farm located in the Eastern Panhandle in Hardy County. In November of 2011 the EPA issued an Administrative Compliance Order charging them with violations of the Clean Water Act. It demanded that they apply for a National Pollutant Discharge Elimination System permit or face fines of up to $37,500 per day. Rather than blindly follow orders, Lois Alt researched the law and with the support of the Farm Bureau took the EPA to court. 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Economics in One Lesson...and the Ambulance Fee
+title: Henry Hazlitt Econ in One Lesson
+subtitle: Ambulance Fee
 author: esimon
 date: '2013-09-11 00:00:00'
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Secession, Maryland Migration and the Colorado Recall
+title: Colorado Recall - Secession
+subtitle: MD Refugees in WV
 author: esimon
 date: '2013-09-25 00:00:00'
 categories:

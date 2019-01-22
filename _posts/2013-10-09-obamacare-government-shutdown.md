@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Obamacare and the Government Shutdown
+title: Obamacare - Government Shutdown
+subtitle: Ben Swann
 author: esimon
 date: '2013-10-09 00:00:00'
 categories:

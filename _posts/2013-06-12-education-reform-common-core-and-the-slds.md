@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Education Reform Common Core and the SLDS
+subtitle: Common Core - SLDS
 author: esimon
-date: '2013-05-12 00:00:00'
+date: '2013-06-12 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - SLDS
+  - Common Core
 ---
 In the recent session, the legislature passed SB 359. It was introduced by the governor and touted as a comprehensive education reform bill. To my mind, the legislation was like putting a small band aid on a large and serious wound. 
 

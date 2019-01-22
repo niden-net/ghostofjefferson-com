@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Liberal vs Conservative: A Rose By Any Other Name...'
+title: Liberal vs Conservative: A Rose By Any Other Name...
 author: esimon
 categories: Opinion
 tags:
   - Politics
-date: '2013-05-26 12:00:00'
+date: '2013-06-26 12:00:00'
 ---
 > What's in a name? That which we call a rose 
 > By any other name would smell as sweet. 

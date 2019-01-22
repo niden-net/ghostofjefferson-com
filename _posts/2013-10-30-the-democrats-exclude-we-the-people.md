@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Democrats Exclude We the People
+subtitle: Skinner = Manuel
 author: esimon
 date: '2013-10-30 00:00:00'
 categories:
