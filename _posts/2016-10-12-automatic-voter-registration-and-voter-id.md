@@ -7,10 +7,11 @@ categories:
 tags:
   - Politics
 date: '2016-10-12 00:00:00'
+image: 'https://ucarecdn.com/51f40e01-cd3b-416e-b914-270ae0c5c6ce/'
 ---
 We're heading down the home stretch toward Election Day. A recent article in the Huntington Herald Dispatch announced that "West Virginia Secretary of State Natalie Tennant's office is sending postcards to residents who may be eligible to vote but haven't registered. The deadline to register to vote in the general election is [4:00 PM] Oct. 18." In Jefferson County early voting begins October 26th. 
 
-This year West Virginia became the fifth state to authorize Automatic Voter Registration. According to the Brennan Center for Justice at New York University, "The West Virginia Legislature passed automatic voter registration legislation through a series of bipartisan votes [and]…will go into effect at West Virginia DMV offices in 2017." Automatic registration means that anyone applying for a driver's license at a local Department of Motor Vehicles will automatically be registered to vote unless they specifically opt out. 
+This year West Virginia became the fifth state to authorize Automatic Voter Registration. According to the Brennan Center for Justice at New York University, "The West Virginia Legislature passed automatic voter registration legislation through a series of bipartisan votes [and] ...will go into effect at West Virginia DMV offices in 2017." Automatic registration means that anyone applying for a driver's license at a local Department of Motor Vehicles will automatically be registered to vote unless they specifically opt out. 
 
 West Virginia already has online voter registration. According to Google, "You'll need a West Virginia driver's license or ID card number, and the last 4 digits of your Social Security number to register online." 
 
