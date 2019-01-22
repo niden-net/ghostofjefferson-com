@@ -12,9 +12,29 @@
                     <li>
                         <a href="#"><span>04.</span> Pages</a>
                         <ul>
-                            <li><a href="/categories"{% if 'categories' == urlArray[0] %} class="active"{% endif %}>Categories</a></li>
-                            <li><a href="/tags"{% if 'tags' == urlArray[1] %} class="active"{% endif %}>Tags</a></li>
-                            <li><a href="/about"{% if 'about' == urlArray[1] %} class="active"{% endif %}>About</a></li>
+                            <li><a href="/categories">Categories</a></li>
+                            <li><a href="/tags">Tags</a></li>
+                            <li><a href="/about">About</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#"><span>05.</span> Archives</a>
+                        <ul>
+                            {% for post in site.posts | sort: date %}
+                            {% if post.next %}
+                            {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+                            {% endif %}
+
+                            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+                            {% if year != next_year %}
+                            <li>
+                                <a href="/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}">
+                                    {{ post.date | date: '%Y' }}
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% endfor %}
                         </ul>
                     </li>
                     <li><a href="/contact"{% if 'contact' == urlArray[1] %} class="active"{% endif %}><span>05.</span> Contact</a></li>

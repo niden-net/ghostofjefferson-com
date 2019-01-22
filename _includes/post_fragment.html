@@ -1,0 +1,36 @@
+                <!-- post -->
+                <div class="item">
+                    <div class="clearfix">
+                        {% if post.image %}
+                        <div class="media-block">
+                            <div class="picture">
+                                <img src="{{ post.image }}" alt="">
+                            </div>
+                        </div>
+                        {% endif %}
+                        <!-- blog item header -->
+                        <div class="item-header">
+                            <h2>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                            </h2>
+                            <div class="post-info">
+                                <span><i class="fa fa-user"></i>by {{ site.data.authors[post.author].name }}</span>
+                                <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+                                <!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
+                            </div>
+                        </div>
+                        <!--/blog item header -->
+                        <!-- content -->
+                        <div class="content">
+                            <p>{{ post.excerpt }}</p>
+                        </div>
+                        <!--/content-->
+                        <span class="tag-links">
+                        {% for tag in post.tags %}
+                            <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
+                        {% endfor %}
+                        </span>
+                        {% include post_share.html %}
+                    </div>
+                </div>
+                <!--/post -->

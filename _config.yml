@@ -13,7 +13,7 @@ include:
   - _pages
   - _redirects
 
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-sitemap
@@ -24,15 +24,13 @@ plugins:
 
 jekyll-archives:
   enabled: all
-  layout: default
+  layout: archive
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
-#  layouts:
-#    year: archive_year
 
 kramdown:
   input: GFM

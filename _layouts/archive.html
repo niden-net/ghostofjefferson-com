@@ -1,0 +1,17 @@
+---
+layout: default
+title: Archives
+archive: true
+---
+                <!-- blog -->
+                <div class="blog">
+                    <div class="grid-row">
+                        <div class="text">
+                            <h1 class="center">Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+                        </div>
+                    </div>
+                    {% for post in page.posts %}
+                    {% include post_list_fragment.html %}
+                    {% endfor %}
+                </div>
+                <!--/blog -->
