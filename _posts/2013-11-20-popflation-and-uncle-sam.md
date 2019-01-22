@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Popflation' and Uncle Sam
+title: "'Popflation' and Uncle Sam"
 subtitle: Uncle Dan
 author: esimon
 categories: Opinion
