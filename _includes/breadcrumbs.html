@@ -1,0 +1,7 @@
+    <!-- bread-crumbs -->
+    <nav class="bread-crumbs">
+        <a href="/">Home</a>
+        {% if page.category %}&nbsp;/&nbsp;<a href="#">{{ page.category | first }}</a>{% endif %}
+        {% if page.title %}&nbsp;/&nbsp;{{ page.title }}{% endif %}
+    </nav>
+    <!--/ bread-crumbs -->

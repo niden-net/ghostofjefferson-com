@@ -1,18 +1,84 @@
 ---
 layout: default
 ---
-    <article>
-        <div class="article-meta">
-            <div class="categories">
-                {% for category in page.categories %}
-                <a href="/categories/{{ category }}">{{ category }}</a>
-                {% endfor %}
-            </div>
-            <h1><span class="title">{{ page.title }}</span></h1>
-            <p>{% for tag in page.tags %}<a href="/tags/{{ tag }}">{{ tag }}</a> {% endfor %}</p>
-        </div>
-
-        <main>
-            {{ page.content }}
-        </main>
-    </article>
+                <!-- blog -->
+                <div class="blog single-item">
+                    <!-- post -->
+                    <div class="item">
+                        <div class="clearfix">
+                            <!-- blog item header -->
+                            <div class="item-header">
+                                <h2><a href="{{ post.url }}">{{ page.title | strip }}</a></h2>
+                                <div class="post-info">
+                                    <span>
+                                        <i class="fa fa-user"></i>by {{ site.data.authors[page.author].name }}
+                                    </span>
+									<span>{{ page.date | date: "%Y-%m-%d" }}</span>
+									<!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
+                                </div>
+                            </div>
+                            <!--/blog item header -->
+                            <!-- content -->
+                            <div class="content">
+                                <p>{{ page.content }}</p>
+                            </div>
+                            <!--/content-->
+                            <span class="tag-links">
+                                {% for tag in page.tags %}
+                                <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
+                                {% endfor %}
+                            </span>
+                            <!-- item footer -->
+                            <div class="item-footer">
+                                <span>share on:</span>
+                                <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                                <div class="tags">
+                                </div>
+                            </div>
+                            <!--/item footer -->
+                        </div>
+                    </div>
+                    <!--/item 1 -->
+                    <!-- author-info -->
+                    <div class="author-info">
+                        <div class="clearfix">
+                            <img src="pic/blog/single-item/author.jpg" alt="">
+                            <div class="text">
+                                <h2><a href="#">{{ site.data.authors[page.author].name }}</a></h2>
+                                <p>{{ site.data.authors[page.author].name }} Bio</p>
+                                <div class="cross"></div>
+                                <div class="social-button">
+                                    <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                                    <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                    <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/author-info -->
+                    <!-- choose-info -->
+                    <div class="choose-post clearfix">
+                        <div class="prev">
+                            {% if page.previous.url %}
+                            <i class="angle left fa fa-angle-double-left"><a href="#"></a></i>
+                            <div class="cont">
+                                <span>previous post</span>
+                                <h3><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
+                            </div>
+                            {% endif %}
+                        </div>
+                        <div class="next">
+                            {% if page.next.url %}
+                            <div class="cont">
+                                <span>next post</span>
+                                <h3><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
+                            </div>
+                            <i class="angle right fa fa-angle-double-right"><a href="#"></a></i>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <!--/choose-info -->
+                </div>
+                <!--/blog -->
