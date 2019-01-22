@@ -9,6 +9,7 @@ layout: default
                             <!-- blog item header -->
                             <div class="item-header">
                                 <h2><a href="{{ post.url }}">{{ page.title | strip }}</a></h2>
+                                <h3><a href="{{ post.url }}">{{ page.subtitle | strip }}</a></h3>
                                 <div class="post-info">
                                     <span>
                                         <i class="fa fa-user"></i>by {{ site.data.authors[page.author].name }}
