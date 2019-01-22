@@ -20,3 +20,30 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "page"
+    label: "Page"
+    folder: "_pages"
+    sort: "title:desc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "author"
+    label: "Author"
+    folder: "_authors"
+    sort: "name:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Website", name: "url", widget: "string", default: ""}
+      - {label: "Email", name: "email", widget: "string", default: ""}
+      - {label: "Twitter", name: "twitter", widget: "string", default: ""}
+      - {label: "Facebook", name: "facebook", widget: "string", default: ""}
+      - {label: "Gab", name: "gab", widget: "string", default: ""}
+      - {label: "Mewe", name: "mewe", widget: "string", default: ""}
+      - {label: "Birthday", name: "date", widget: "datetime", format: "YYYY-MM-DD", default: ""}
+      - {label: "Bio", name: "bio", widget: "markdown", default: ""}
