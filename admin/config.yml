@@ -19,6 +19,10 @@ collections:
       - {label: "Categories", name: "categories", widget: "select", options: ["News", "Opinion"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+#          media_library:
+#            config:
+#              multiple: true}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Page"
@@ -40,11 +44,11 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Name", name: "name", widget: "string"}
-      - {label: "Website", name: "url", widget: "string", default: ""}
-      - {label: "Email", name: "email", widget: "string", default: ""}
-      - {label: "Twitter", name: "twitter", widget: "string", default: ""}
-      - {label: "Facebook", name: "facebook", widget: "string", default: ""}
-      - {label: "Gab", name: "gab", widget: "string", default: ""}
-      - {label: "Mewe", name: "mewe", widget: "string", default: ""}
-      - {label: "Birthday", name: "date", widget: "date", format: "YYYY-MM-DD", default: ""}
-      - {label: "Bio", name: "bio", widget: "markdown", default: ""}
+      - {label: "Website", name: "url", widget: "string", required: false}
+      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Twitter", name: "twitter", widget: "string", required: false}
+      - {label: "Facebook", name: "facebook", widget: "string", required: false}
+      - {label: "Gab", name: "gab", widget: "string", required: false}
+      - {label: "Mewe", name: "mewe", widget: "string", required: false}
+      - {label: "Birthday", name: "date", widget: "date", format: "YYYY-MM-DD", required: false}
+      - {label: "Bio", name: "bio", widget: "markdown", required: false}
