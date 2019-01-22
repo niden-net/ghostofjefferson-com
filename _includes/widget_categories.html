@@ -1,0 +1,15 @@
+                <!-- widget categories -->
+                <div class="widget widget-categories">
+                    <div class="head"><span>Categories</span></div>
+                    <ul>
+                        {% for category in site.categories %}
+                        <li>
+                            <a href="/categories/{{ category | first }}">
+                                <i class="fa fa-angle-right"></i>{{ category | first }}
+                                <span>{{ category | last | size }}</span>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!--/ widget categories -->

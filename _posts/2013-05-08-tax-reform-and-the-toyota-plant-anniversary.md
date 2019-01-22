@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tax Reform and the Toyota Plant Anniversary
-author: 'esimon'
+author: esimon
 date: '2013-05-08 00:00:00'
 categories:
   - Opinion

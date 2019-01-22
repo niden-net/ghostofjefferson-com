@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chesapeake Bay WIP and the Bond Issue
-author: 'esimon'
+subtitle: Bond issue for Sewer Treatment
+author: esimon
 date: '2013-06-05 00:00:00'
 categories:
   - Opinion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Medicaid Expansion
-author: 'esimon'
+author: esimon
 date: '2013-01-02 00:00:00'
 categories:
   - Opinion

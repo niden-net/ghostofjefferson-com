@@ -11,4 +11,3 @@ tags:
   - House
 ---
 
-_Elliot Simon; Harpers Ferry_

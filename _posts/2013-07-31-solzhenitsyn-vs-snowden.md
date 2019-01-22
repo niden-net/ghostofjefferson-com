@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solzhenitsyn vs Snowden
-author: 'esimon'
+author: esimon
 date: '2013-07-31 00:00:00'
 categories:
   - Opinion

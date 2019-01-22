@@ -1,12 +1,36 @@
-<script async src="/assets/js/images.js"></script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
+    <!-- scripts -->
+    <!--[if lt IE 9]><script src="/assets/js/html5shiv.js"></script><![endif]-->
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery-ui.min.js"></script>
+    <script src="/assets/js/jquery.migrate.min.js"></script>
+    <script src="/assets/js/jquery.isotope.min.js"></script>
+    <script src="/assets/js/jquery.form.min.js"></script>
+    <script src="/assets/js/jquery.validate.min.js"></script>
+    <script src="/assets/js/jquery.tweet.js"></script>
+    <script src="/assets/js/jquery.countdown.min.js"></script>
+    <script src="/assets/js/jquery.fancybox.pack.js"></script>
+    <script src="/assets/js/jquery.fancybox-media.js"></script>
+    <script src="/assets/js/jquery.ui.core.min.js"></script>
+    <script src="/assets/js/jquery.ui.widget.min.js"></script>
+    <script src="/assets/js/jquery.ui.mouse.min.js"></script>
+    <script src="/assets/js/jquery.ui.slider.min.js"></script>
+    <script src="/assets/js/jquery.owl.carousel.min.js"></script>
+    <script src="/assets/js/layerslider/js/greensock.js"></script>
+    <script src="/assets/js/layerslider/js/layerslider.transitions.js"></script>
+    <script src="/assets/js/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+    <script src="/assets/js/retina.min.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <!--/ scripts -->
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
         });
       }
-    });
-  }
-</script>
+    </script>

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Minimum Wage, Prevailing Wage and Free Markets
-author: 'esimon'
+subtitle: Prevailing Wage
+author: esimon
 date: '2013-09-04 00:00:00'
 categories:
   - Opinion

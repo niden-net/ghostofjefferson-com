@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Impact of Impact Fees'
-author: 'esimon'
+author: esimon
 date: '2015-03-18 00:00:00'
 categories:
   - Opinion

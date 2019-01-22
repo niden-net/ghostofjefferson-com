@@ -1,15 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 {% include head.html %}
 
 <body>
-{% include header.html %}
+<div class="page">
+    {% include header_top.html %}
+    {% include header_bottom.html %}
+    {% include breadcrumbs.html %}
 
-<div class="container">
-{{ content }}
+    <!-- page content -->
+    <div class="page-content">
+        <div class="grid-row">
+            <div class="grid-col grid-col-8">
+                {{ content }}
+                {% include paginator.html %}
+            </div>
+
+            <div class="grid-col grid-col-4">
+                {% include widget_categories.html %}
+                {% include widget_authors.html %}
+                {% include widget_social.html %}
+            </div>
+        </div>
+    </div>
+    <!--/ page content -->
+
+    {% include footer.html %}
+
+    <a href="#" id="scroll-top" class="scroll-top"><i class="fa fa-angle-up"></i></a>
+    <!-- open or close menu -->
+    <div id="open_or_close_menu"></div>
 </div>
 
-{% include footer.html %}
 {% include footer_js.html %}
 
 </body>

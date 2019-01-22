@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EPBA Candidate Forum
-author: 'esimon'
+author: esimon
 date: '2014-08-20 00:00:00'
 categories:
   - Opinion

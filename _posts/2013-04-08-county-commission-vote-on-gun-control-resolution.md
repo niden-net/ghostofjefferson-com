@@ -1,7 +1,7 @@
 ---
 layout: post
 title: County Commission Vote on Gun Control Resolution
-author: 'esimon'
+author: esimon
 date: '2013-04-08 00:00:00'
 categories:
   - Opinion

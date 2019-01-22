@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bernie Sanders and the Democrat Debates'
-author: 'esimon'
+author: esimon
 date: '2015-10-21 00:00:00'
 categories:
   - Opinion

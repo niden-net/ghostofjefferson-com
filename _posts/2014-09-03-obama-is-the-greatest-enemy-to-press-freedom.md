@@ -36,4 +36,3 @@ While some Americans still remain confused, others are starting to see the light
 
 When all is said and done, President Obama may yet have another thing in common with Dick Cheney. Upon leaving office, the former Vice President's approval rating was an astonishingly low 13 percent. President Obama isn't all that far behind and appears to be on a solid trajectory to catch him. This could only cause more "confusion to the liberals."
 
-_Elliot Simon; Harpers Ferry_

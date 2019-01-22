@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nothing Changes New Year's Day
-author: 'esimon'
+author: esimon
 date: '2014-12-31 00:00:00'
 categories:
   - Opinion

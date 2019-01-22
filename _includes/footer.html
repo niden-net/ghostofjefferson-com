@@ -1,11 +1,85 @@
-<footer>
-    <div class="footer">
-        <ul class="menu">
-            <li><a href="{{ site.url }}"><span data-hover="Home">Home</span></a></li>
-            <li><a href="/about"><span data-hover="About">About</span></a></li>
-            <li><a href="/categories"><span data-hover="Categories">Categories</span></a></li>
-            <li><a href="/tags"><span data-hover="Tags">Tags</span></a></li>
-        </ul>
-        <div class="copyright">{{ site.name }}</div>
-    </div>
-</footer>
+    <!-- page footer -->
+    <footer class="page-footer">
+        <div class="grid-row">
+            <div class="grid-col grid-col-3">
+                <!-- about -->
+                <div class="widget-alt widget-alt-about">
+                    <div class="head">About us</div>
+                    <ul>
+                        <li>Ghost of Jefferson</li>
+                        <li>West Virginia, USA</li>
+                        <li>
+                            P: <br>
+                            <a href="#">E: </a><br>
+                            <a href="https://ghostofjefferson.com">GhostOfJefferson.com</a>
+                        </li>
+                        <li>
+                            <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                            <!--<a href="#" class="social"><i class="fa fa-skype"></i></a>-->
+                            <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <!--/ about -->
+            </div>
+
+            <div class="grid-col grid-col-3">
+                <!-- latest posts -->
+                <div class="widget-alt widget-alt-posts">
+                    <div class="head">Latest Posts</div>
+                    <ul>
+                        {% for recentPost in site.posts limit: 3 %}
+                        <li>
+                            <p>
+                                <a href="{{ recentPost.url }}">
+                                    <span>{{ recentPost.date | date: "%Y-%m-%d" }}</span>
+                                </a>
+                                {{ recentPost.title | strip }}
+                            </p>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!--/ latest posts -->
+            </div>
+
+            <div class="grid-col grid-col-3">
+                <!-- latest news -->
+                <div class="widget-alt widget-alt-news">
+                    <div class="head">Latest News</div>
+                    <ul>
+                        {% for recentNews in site.news limit: 3 %}
+                        <li>
+                            <p>
+                                <a href="{{ recentNews.url }}">
+                                    <span>{{ recentNews.date | date: "%Y-%m-%d" }}</span>
+                                </a>
+                                {{ recentNews.title }}
+                            </p>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!--/ latest news -->
+            </div>
+
+            <div class="grid-col grid-col-3">
+                <!-- featured video -->
+                <div class="widget-alt widget-alt-about">
+                    <div class="head">GOJ Authors</div>
+                    <ul>
+                        {% for author in site.data.authors %}
+                        <li>{{ author[1].name }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!--/ featured video -->
+            </div>
+        </div>
+
+        <!-- copyrights -->
+        <div class="copyrights">Copyright © 2018-present. {{ site.name }} All rights reserved.</div>
+        <!--/ copyrights -->
+    </footer>
+    <!--/ page footer top -->

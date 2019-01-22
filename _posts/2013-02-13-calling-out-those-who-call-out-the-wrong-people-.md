@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Calling Out Those Who Call Out the Wrong People 
-author: 'esimon'
+author: esimon
 date: '2013-02-13 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
 ---
-"Before you accuse me, take a look at yourself" - Bo Diddley song title
+> Before you accuse me, take a look at yourself
+> _Bo Diddley song title_
 
 I'm going to violate my guidelines in the writing of this column. Robert Snyder's column in last week's edition entitled Auntie Got My Gun requires a response. In it, he calls out defenders of the Second Amendment, which in and of itself is fine, but steps over a line when linking Jimmy Lee Dykes' actions - killing a school bus driver and taking a five year old boy hostage - to being a conservative and listening to Rush Limbaugh. Like listening to heavy metal music incites violence. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2013 Legislative Highlights and Lowlights
-author: 'esimon'
+author: esimon
 date: '2013-04-17 00:00:00'
 categories:
   - Opinion

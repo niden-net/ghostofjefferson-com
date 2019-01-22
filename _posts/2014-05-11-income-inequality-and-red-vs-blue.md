@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Income Inequality and Red vs Blue
-author: 'esimon'
+author: esimon
 date: '2014-05-11 00:00:00'
 categories:
   - Opinion

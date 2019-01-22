@@ -4,13 +4,32 @@ description: 'The Ghost of Jefferson - We hold these truths to be self-evident, 
 keywords: 'jefferson, ghost, jefferson county, west virginia'
 email: ''
 facebook:
-rss: 'soj'
+rss: 'Ghost of Jefferson'
 analytics: ''
 
 paginate: 6
 paginate_path: '/page-:num'
 include:
   - _redirects
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: all
+  layout: default
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+#  layouts:
+#    year: archive_year
 
 kramdown:
   input: GFM

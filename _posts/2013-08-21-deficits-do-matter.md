@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Deficits Do Matter
-author: 'esimon'
+subtitle: Krugman to Cheney
+author: esimon
 date: '2013-08-21 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - Debt
+  - Deficit
 ---
 In a few short weeks we are going to bump up against the debt ceiling once again. In reality, the debt ceiling doesn't really matter. Congress just keeps kicking that can down the road. In fact, focusing on the debt ceiling is just political sleight of hand that distracts from the real issue: the deficit. 
 

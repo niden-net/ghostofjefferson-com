@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Bill of Rights
-author: 'esimon'
+author: esimon
 date: '2013-01-23 00:00:00'
 categories:
   - Opinion

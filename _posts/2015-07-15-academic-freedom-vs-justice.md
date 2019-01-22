@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Academic Freedom vs "Justice"
-author: 'esimon'
+author: esimon
 date: '2015-07-15 00:00:00'
 categories:
   - Opinion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens When You're Busy Making Other Plans 
-author: 'esimon'
+author: esimon
 date: '2013-02-06 00:00:00'
 categories:
   - Opinion

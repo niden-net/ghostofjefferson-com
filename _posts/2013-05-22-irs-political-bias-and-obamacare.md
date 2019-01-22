@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IRS Political Bias and Obamacare'
-author: 'esimon'
+title: IRS Political Bias and Obamacare
+author: esimon
 date: '2013-05-22 00:00:00'
 categories:
   - Opinion

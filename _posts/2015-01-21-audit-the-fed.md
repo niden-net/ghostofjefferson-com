@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audit the Fed
-author: 'esimon'
+author: esimon
 date: '2015-01-21 00:00:00'
 categories:
   - Opinion

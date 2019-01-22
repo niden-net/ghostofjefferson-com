@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Support of Raw Milk
-author: 'esimon'
+author: esimon
 date: '2013-03-17 00:00:00'
 categories:
   - Opinion

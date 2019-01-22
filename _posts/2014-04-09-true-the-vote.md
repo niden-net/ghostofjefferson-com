@@ -1,7 +1,7 @@
 ---
 layout: post
 title: True the Vote
-author: 'esimon'
+author: esimon
 date: '2014-04-09 00:00:00'
 categories:
   - Opinion

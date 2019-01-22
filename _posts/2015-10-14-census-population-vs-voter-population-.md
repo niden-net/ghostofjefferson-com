@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Census Population vs Voter Population 
-author: 'esimon'
+author: esimon
 date: '2015-10-14 00:00:00'
 categories:
   - Opinion

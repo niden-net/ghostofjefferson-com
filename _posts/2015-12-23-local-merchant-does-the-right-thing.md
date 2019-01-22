@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Local Merchant Does the Right Thing
-author: 'esimon'
+author: esimon
 date: '2015-12-23 00:00:00'
 categories:
   - Opinion

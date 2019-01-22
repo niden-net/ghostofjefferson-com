@@ -1,12 +1,15 @@
 ---
 layout: post
 title: The Debt Ceiling Also Rises
-author: 'esimon'
+subtitle: Debt expansion
+author: esimon
 date: '2013-10-23 00:00:00'
 categories:
   - Opinion
 tags:
   - Politics
+  - Debt
+  - Debt Ceiling
 ---
 As I stated in my previous column, I had no doubt that the debt ceiling would be raised and that an agreement would be reached to fund the federal government, at least on an interim basis. The debt ceiling drama is currently in intermission. The curtain has temporarily been brought down on this political theater.
 

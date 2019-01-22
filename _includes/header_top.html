@@ -1,0 +1,44 @@
+{% assign urlArray = page.url | split: '/' %}
+    <!-- page header top -->
+    <header class="page-header-top">
+        <div class="grid-row">
+            <!-- main nav -->
+            <nav id="main-nav" class="main-nav">
+                <a href="#" class="switcher">Menu<i class="fa fa-bars"></i></a>
+                <ul>
+                    <li><a href="/"{% if '/' == page.url %} class="active"{% endif %}><span>01.</span> Home</a></li>
+                    <li><a href="/news"{% if 'news' == urlArray[1] %} class="active"{% endif %}><span>02.</span> News</a></li>
+                    <li><a href="/opinion"{% if 'opinion' == urlArray[1] %} class="active"{% endif %}><span>03.</span> Opinion</a></li>
+                    <li>
+                        <a href="#"><span>04.</span> Pages</a>
+                        <ul>
+                            <li><a href="/categories"{% if 'categories' == urlArray[0] %} class="active"{% endif %}>Categories</a></li>
+                            <li><a href="/tags"{% if 'tags' == urlArray[1] %} class="active"{% endif %}>Tags</a></li>
+                            <li><a href="/about"{% if 'about' == urlArray[1] %} class="active"{% endif %}>About</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/contact"{% if 'contact' == urlArray[1] %} class="active"{% endif %}><span>05.</span> Contact</a></li>
+                </ul>
+            </nav>
+            <!--/ main nav -->
+
+            <!-- follow us -->
+            <div class="follow-us">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="/feed.xml"><i class="fa fa-rss"></i></a>
+            </div>
+            <!--/ follow us -->
+
+            <!-- search -->
+            <form action="#" id="search" class="search">
+                <div class="input"><input type="text"></div>
+                <button type="submit"><i class="fa fa-search"></i></button>
+                <a href="#" class="opener"><i class="fa fa-search"></i></a>
+                <a href="#" class="closer"><i class="fa fa-times"></i></a>
+            </form>
+            <!--/ search -->
+        </div>
+    </header>
+    <!--/ page header top -->
+

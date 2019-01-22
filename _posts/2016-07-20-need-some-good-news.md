@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Need some good news? Try the Second Annual Policy and Progress Forum
-author: Elliot Simon
-date: '2016-07-20T09:42:00-04:00'
+author: esimon
+date: '2016-07-20 00:00:00'
 categories:
   - Opinion
 tags:
@@ -29,4 +29,3 @@ According to BIC, the event will include an appearance by a senior manager at Pr
 
 So, while we are bombarded nearly every day with negative news from around the nation and around the world, West Virginia and the Eastern Panhandle in partnership with BIC and the EPBA are working quietly for a more positive future. The Eastern Panhandle is proving to be a leader in our state with regard to economic development and growth and a path to prosperity. The Second Annual Progress and Policy Forum, hosted by the Eastern Panhandle Business Association in partnership with the West Virginia Business and Industry Council will take place from 1 to 4 p.m., July 26 at the Skyline Terrace Ballroom at the Hollywood Casino and Charles Town Races. It is free and open to the public, but if you plan to attend RSVP at [www.epba.biz](https://www.epba.biz). 
 
-_Elliot Simon; Harpers Ferry_

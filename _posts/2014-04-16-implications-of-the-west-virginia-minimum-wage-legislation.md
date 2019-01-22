@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implications of the West Virginia Minimum Wage Legislation
-author: 'esimon'
+author: esimon
 date: '2014-04-16 00:00:00'
 categories:
   - Opinion
