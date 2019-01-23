@@ -5,7 +5,7 @@ keywords: 'jefferson, ghost, jefferson county, west virginia'
 email: ''
 facebook:
 rss: 'Ghost of Jefferson'
-analytics: ''
+analytics: 'UA-132973672-1'
 
 paginate: 6
 paginate_path: '/page-:num'
