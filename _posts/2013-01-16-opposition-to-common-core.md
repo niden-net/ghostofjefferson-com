@@ -6,7 +6,9 @@ date: '2013-01-16 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Common Core
+image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---
 In my last column I discussed ongoing attempts by the federal government to nationalize education through programs created under the auspices of the Department of Education. Hundreds of billions of federal tax dollars have been spent on programs such as No Child Left Behind and Race to the Top to entice states to adopt programs and standards emulating from bureaucrats and private interests in Washington. The results have not lived up to the hype while wasting copious amounts of taxpayer money. 
 

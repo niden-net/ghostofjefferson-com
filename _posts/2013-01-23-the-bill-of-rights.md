@@ -6,7 +6,8 @@ date: '2013-01-23 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+image: 'https://ucarecdn.com/2219c4c3-9bd1-46ed-898b-1e6fb88a532f/'
 ---
 Sometime back I was invited to speak at a civics club. Its members consisted of parents and their teenage children - and the purpose of the club was to study the Constitution. The subject matter of that day was the Bill of Rights. It is widely believed that several important states, Virginia in particular, would not have ratified the Constitution without assurances that there would be a Bill of Rights. 
 

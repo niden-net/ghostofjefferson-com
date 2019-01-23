@@ -6,7 +6,12 @@ date: '2013-01-02 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Healthcare
+  - Obamacare
+  - Policy
+  - Regulation
+  - WV
+image: 'https://ucarecdn.com/e680ea59-d7bf-41a3-9f7a-ef7f15fe2012/'
 ---
 I hope that everyone had a wonderful holiday season and that your New Year has gotten off to a great start. This article is the last in a series of three inspired by the Legislative Summit in December. The summit produced two priority lists, and the issue of unfunded mandates, after considerable discussion, wound up on the secondary list, albeit reluctantly. When it comes to unfunded mandates, one that comes to my mind is the issue of expanding Medicaid. 
 

@@ -6,6 +6,7 @@ categories: Archives
 tags:
   - Politics
 date: '2015-03-04 00:00:00'
+image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---
 Previously I had written about the Jefferson County Emergency Services and the ambulance fee/tax based on conversations with Ramona Wesling, a concerned citizen that has been attending the monthly meetings. Based on those conversations I wrote the following: "Commissioner Jane Tabb is the county's representative on the JCESA Board. However, the president of the JCESA Board and another board member have stepped down and as a result, Commissioner Tabb is now the president of the JCESA as well as serving as the county commission's representative on the board. Does this not seem odd? I also find it odd that the Commission's attorney is also its chief administrator. Initially the title was ‘acting' chief administrator. Now the assignment is permanent. Is the dual role still in effect?" 
 

@@ -6,7 +6,12 @@ date: '2012-12-19 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Civics
+  - Social
+  - Policy
+  - Taxes
+  - WV
+image: 'https://ucarecdn.com/a541bfdd-72db-486b-ba60-5a1cca7ad4a3/'
 ---
 As I reported in my last column, on December 3rd I attended the Legislative Summit at the Blue Ridge Community and Technical College, at which the county commissions of Morgan, Berkeley and Jefferson Counties created a list of legislative priorities to present to state legislators. There were several items on the list, but at the top was the rising burden of regional jail costs on county budgets. According to the summary prepared for the Summit, the three counties spent nearly $5 Million in regional jail costs in Fiscal Year 2011 - 2012. 
 

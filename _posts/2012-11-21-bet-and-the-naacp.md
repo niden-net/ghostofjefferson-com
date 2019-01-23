@@ -6,7 +6,11 @@ date: '2012-11-21 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Civics
+  - Media
+  - Local
+image: 'https://ucarecdn.com/37b346e3-36d9-429b-a1d0-85f6423b2b23/'
 ---
 I had a teacher in high school social studies that liked to say things that he thought were controversial.   One thing he said that stuck with me over the years is that the primary goal of any institution is to first justify its existence, and that its next priority was to fulfill the purpose for which it was created.  Over the years I have given this a lot of thought, and I am still not sure that I buy into it, because as with anything there are exceptions…but it is something I continue to ponder.  This is my second column in this space, and you might consider what I say here to be controversial.    
 

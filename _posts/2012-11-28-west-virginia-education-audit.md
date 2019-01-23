@@ -6,7 +6,10 @@ date: '2012-11-28 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Policy
+  - WV
+image: 'https://ucarecdn.com/1926f705-048e-4561-b30e-7a9c14389e69/'
 ---
 One of our time honored traditions that has become part of our culture is that competition is good.  Americans have an antipathy to monopoly.  We believe that markets should be open and accessible in order to spur innovation.  According to Wikipedia, competition law has been around since the Roman Empire.  Here in the US, competition law is better known as antitrust law.  Antitrust law is fraught with complexity, with problematic attempts by regulators to undo the damage that is inflicted upon the market place by government policy gone wrong.    
 

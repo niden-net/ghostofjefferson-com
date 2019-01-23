@@ -6,7 +6,10 @@ date: '2012-11-14 00:00:00'
 categories:
   - Archives
 tags:
+  - Elections
   - Politics
+  - Civics
+image: 'https://ucarecdn.com/9a753c53-24cb-4eff-9f9a-bba08c12ccb1/'
 ---
 It is with great pleasure that I write my first column for the Spirit of Jefferson County.  I would like to thank the Spirit for including me in their roster of contributors.   For those who know me, you know that although I have run for office, I prefer to focus on issues rather than politics.  Principles should trump politics but that isn’t always the case and I am not naïve in that regard.   While the political process needs our constant vigilance, I believe that short term attempts at political solutions to our problems are eventually overwhelmed in the longer term by economic reality.     
 

@@ -10,6 +10,7 @@ tags:
   - Politics
   - SLDS
   - Common Core
+image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---
 In the recent session, the legislature passed SB 359. It was introduced by the governor and touted as a comprehensive education reform bill. To my mind, the legislation was like putting a small band aid on a large and serious wound. 
 

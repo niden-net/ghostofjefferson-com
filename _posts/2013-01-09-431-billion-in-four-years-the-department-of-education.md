@@ -6,7 +6,11 @@ date: '2013-01-09 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Constitution
+  - Economics
+  - Taxes
+image: 'https://ucarecdn.com/56f1aad0-1fc8-4908-acc0-9484ee7024a0/'
 ---
 The US Department of Education as we know it today was created in 1979 during the Carter administration. The Department of Education Organization Act divided the Department of Health, Education and Welfare (created in 1953 during the Eisenhower administration) into two new entities: the Department of Health and Human Services and the Department of Education. The initial budget for the department was $14.2 Billion. 
 

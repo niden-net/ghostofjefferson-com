@@ -6,6 +6,7 @@ categories: Archives
 tags:
   - Politics
 date: '2015-05-06 04:03:00'
+image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---
 There's a battle raging across West Virginia over the tests associated with Common Core - known as the Smarter Balance Assessment Consortium tests or SBAC. Interesting name for those tests. I've come to realize that whenever the word "smart" is inserted into something that's in the public sphere - there's also an agenda attached - the progressive agenda. Think "smart meters" or "smart growth" - both progressive initiatives aimed at controlling us and how we live. It begs the question, are these "smarter balance" tests fair and balanced? 
 

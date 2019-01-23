@@ -6,6 +6,7 @@ categories: Archives
 tags:
   - Politics
 date: '2015-02-11 12:00:00'
+image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---
 I've written about Common Core before. It has been sold to the public as a "states based initiative", but the reality is far from it. In fact, some states that initially signed on to it have pulled out and there more ready to follow suit. Utah blogger, Christel Lane Swasey, recently posted some important talking points about Common Core. She makes an interesting point in that people get caught up in the stated goals of Common Core without understanding what it is. She refers to a recent poll taken in her home state. When asked about the so-called "goals of Common Core", without even using that term, responses were generally favorable. However, according to an article published by Utah Policy, "But use the words ‘Common Core' in a poll question, and BAM!, you get very different responses from Utahns".
 

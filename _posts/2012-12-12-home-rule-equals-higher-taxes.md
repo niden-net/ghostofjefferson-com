@@ -6,7 +6,10 @@ date: '2012-12-12 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Economics
+  - Policy
+  - WV
 ---
 It is my opinion that the level of government that is the most relevant is the most local.  That is why I look forward to the annual Legislative Summit hosted by the Berkeley County Council.   It was held at the Blue Ridge Community and Technical College on December 3rd.  The invitees included all of the elected officials of the counties of Morgan, Berkeley and Jefferson and the members of the state House of Delegates and the state Senate representing those counties.    The public is also welcome.   Berkeley County Councilman Stubblefield moderated both the morning and afternoon sessions – and I might interject that he did a yeoman’s job.  
 

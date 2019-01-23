@@ -6,7 +6,10 @@ date: '2012-12-05 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Policy
+  - WV
+image: 'https://ucarecdn.com/8c761f4a-0e7b-45e8-a958-9c0a332ebe65/'
 ---
 As I stated in my previous offering in this space, competition is necessary in order to spur innovation and efficiency.  We have laws and regulations that attempt to ensure that there is competition in the marketplace. When it comes to education, however, this principle is ignored, and whether or not we are happy with the results, we have no choice but to continue to pay for them.  
 
