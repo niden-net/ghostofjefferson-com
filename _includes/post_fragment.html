@@ -1,5 +1,8 @@
                 <!-- post -->
-                <div class="item">
+                <div class="item" itemscope="" itemtype="http://schema.org/BlogPosting">
+                    <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
+                    <meta itemprop="description"
+                          content="{{ content | strip_html | truncatewords: 40 }}" />
                     <div class="clearfix">
                         {% if post.image %}
                         <div class="media-block">
@@ -10,19 +13,21 @@
                         {% endif %}
                         <!-- blog item header -->
                         <div class="item-header">
-                            <h2>
+                            <h2 itemprop="name">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </h2>
                             <div class="post-info">
                                 <span><i class="fa fa-user"></i>by {{ site.data.authors[post.author].name }}</span>
-                                <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+                                <span itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                                    {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
                                 <!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
                             </div>
                         </div>
                         <!--/blog item header -->
                         <!-- content -->
-                        <div class="content">
-                            <p>{{ post.excerpt }}</p>
+                        <div class="content" itemprop="articleBody">
+                            <p>{{ post.content }}</p>
                         </div>
                         <!--/content-->
                         <span class="tag-links">
