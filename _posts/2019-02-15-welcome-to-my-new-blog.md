@@ -8,6 +8,7 @@ tags:
   - blog
   - commentary
 date: '2019-02-15 03:52:10'
+image: 'https://ucarecdn.com/957bbdc0-0e08-46bd-b358-dae2736c84da/'
 ---
 Welcome to my new blog!  It's called the Ghost of Jefferson.  I will be contributing to it on a regular basis.  While there won't be a set schedule, I will post commentary as often as I can.  There will be a wide range of coverage: local, state and beyond.
 
