@@ -1,3 +1,21 @@
+{% assign num_words = page.content | strip_html | number_of_words %}
+{% assign minutes   = num_words    | divided_by: 200 %}
+{% assign minutes   = num_words    | divided_by: 200.0 %}
+{% assign minutes_f = num_words    | divided_by: 200.0 %}
+{% assign minutes_i = num_words    | divided_by: 200 %}
+{% assign diff      = minutes_f    | minus: minutes_i %}
+{% if diff >= 0.5 %}
+{% assign minutes = minutes_i | plus: 1 %}
+{% else %}
+{% assign minutes = minutes_i %}
+{% endif %}
+
+{% if minutes <= 1 %}
+{% assign reading_time = '1' | append: ' minute' %}
+{% else %}
+{% assign reading_time = minutes | append: ' minutes' %}
+{% endif %}
+
                 <!-- post -->
                 <div class="item" itemscope="" itemtype="http://schema.org/BlogPosting">
                     <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
@@ -20,6 +38,9 @@
                                 <span><i class="fa fa-user"></i>by {{ site.data.authors[post.author].name }}</span>
                                 <span itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
                                     {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
+                                <span>
+                                    {{ reading_time }}
                                 </span>
                                 <!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
                             </div>

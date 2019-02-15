@@ -4,7 +4,7 @@
                     <ul>
                         {% for category in site.categories %}
                         <li>
-                            <a href="/categories/{{ category | first }}">
+                            <a href="/categories/{{ category | first | downcase | slugify }}">
                                 <i class="fa fa-angle-right"></i>{{ category | first }}
                                 <span>{{ category | last | size }}</span>
                             </a>
