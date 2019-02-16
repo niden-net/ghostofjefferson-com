@@ -7,6 +7,7 @@ categories:
 tags:
   - Politics
 date: '2016-09-14 00:00:00'
+image: 'https://ucarecdn.com/2c6c5ba2-e0a9-4133-bda2-b9d18e1ff133/'
 ---
 That the meaning of certain words changes over time isn't so earth shaking. For example, if you want to know what the word "liberal" used to mean, google "classical liberalism." The definition: "a political ideology that values the freedom of individuals — including the freedom of religion, speech, press, assembly, and markets — as well as limited government." My how times have changed. Ask a modern conservative today what he or she stands for it would very closely resemble that definition. Confusing perhaps. 
 

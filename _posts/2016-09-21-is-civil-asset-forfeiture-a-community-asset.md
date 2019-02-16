@@ -7,6 +7,7 @@ categories:
 tags:
   - Politics
 date: '2016-09-21 00:00:00'
+image: 'https://ucarecdn.com/e2297a02-6288-4776-b618-62184f811200/'
 ---
 There is a mailer that was sent out by the "Rasheed for Prosecuting Attorney" campaign that states, "Jefferson County Assistant Prosecuting Attorney Hassan Rasheed has netted over $500,000 in forfeited funds. Hassan Rasheed gets results. As our lead felony prosecutor, Hassan Rasheed's work has brought more than half a million dollars into Jefferson County to offset tax dollars." If true, this sounds like a windfall for the county. 
 
