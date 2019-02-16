@@ -1,0 +1,22 @@
+---
+layout: default
+title: Archives
+archive: true
+---
+                <!-- blog -->
+                <div class="blog">
+                    <div class="item">
+                        <div class="clearfix">
+                            <div class="item-header">
+                                <h2>
+                                    Archive of posts from {{ page.date | date: '%B %-d, %Y' }}
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% for post in page.posts %}
+                    {% include post_list_fragment.html %}
+                    {% endfor %}
+                </div>
+                <!--/blog -->

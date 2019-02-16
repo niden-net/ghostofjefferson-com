@@ -5,11 +5,16 @@ archive: true
 ---
                 <!-- blog -->
                 <div class="blog">
-                    <div class="grid-row">
-                        <div class="text">
-                            <h1 class="center">Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+                    <div class="item">
+                        <div class="clearfix">
+                            <div class="item-header">
+                                <h2>
+                                    Archive of posts from {{ page.date | date: '%Y' }}
+                                </h2>
+                            </div>
                         </div>
                     </div>
+
                     {% for post in page.posts %}
                     {% include post_list_fragment.html %}
                     {% endfor %}

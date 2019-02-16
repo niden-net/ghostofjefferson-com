@@ -24,7 +24,12 @@ plugins:
 
 jekyll-archives:
   enabled: all
-  layout: archive
+  layouts:
+    year: archive-year
+    month: archive-month
+    day: archive-day
+    category: archive-tag
+    tag: archive-tag
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
