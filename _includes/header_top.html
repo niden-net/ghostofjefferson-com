@@ -7,8 +7,8 @@
                 <a href="#" class="switcher">Menu<i class="fa fa-bars"></i></a>
                 <ul>
                     <li><a href="/"{% if '/' == page.url %} class="active"{% endif %}><span>01.</span> Home</a></li>
-                    <li><a href="/news"{% if 'news' == urlArray[1] %} class="active"{% endif %}><span>02.</span> News</a></li>
-                    <li><a href="/opinion"{% if 'opinion' == urlArray[1] %} class="active"{% endif %}><span>03.</span> Opinion</a></li>
+                    <li><a href="/category/news"{% if 'news' == urlArray[2] %} class="active"{% endif %}><span>02.</span> News</a></li>
+                    <li><a href="/category/opinion"{% if 'opinion' == urlArray[2] %} class="active"{% endif %}><span>03.</span> Opinion</a></li>
                     <li>
                         <a href="#"><span>04.</span> Pages</a>
                         <ul>

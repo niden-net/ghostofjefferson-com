@@ -7,6 +7,7 @@ categories:
   - Archives
 tags:
   - Politics
+  - Civics
 ---
 I attended the recent Lincoln Day Dinner held for the benefit of the Berkeley County Republican Party. It was well attended. There were numerous speakers, including State Senators Craig Blair and Charles Trump, Attorney General Patrick Morrisey and Congressman Alex Mooney. 
 

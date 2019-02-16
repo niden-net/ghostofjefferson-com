@@ -4,7 +4,9 @@ title: "Common Core Testing: Smarter What?"
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Education
+  - Common Core
+  - Policy
 date: '2015-05-06 04:03:00'
 image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---

@@ -6,7 +6,9 @@ date: '2015-04-08 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - WV
+  - Policy
+  - Economics
 ---
 In the just concluded legislative session there were several good pieces of legislation passed by both houses that were vetoed by the governor. The Republicans are in control of both houses and Governor Tomblin, of course, is a Democrat. I feel fairly confident that if the situation were reversed - that is if the Democrats were in control of the legislature with a Republican governor that the Democrats would be throwing around the "obstructionist" label. Just saying. 
 

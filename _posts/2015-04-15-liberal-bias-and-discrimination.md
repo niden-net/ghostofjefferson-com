@@ -6,7 +6,10 @@ date: '2015-04-15 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Media
+  - Civics
+  - Social
+  - Progressivism
 ---
 Much is written about the liberal bias in the media. If you are reading this, then you know what I am talking about without my having to say anything more. Nothing exists in a vacuum - including this article - and the medium in which it appears forms its context. Everyone is entitled to their opinion and everyone is entitled to take those opinions with a grain of salt. The devil is in the context. 
 

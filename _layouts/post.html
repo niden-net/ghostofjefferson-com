@@ -3,10 +3,9 @@ layout: default
 ---
 {% for item in site.data.authors.member %}
 {% if page.author == item.identifier %}
-    {% assign author = item %}
+{% assign author = item %}
 {% endif %}
 {% endfor %}
-
                 <!-- blog -->
                 <div class="blog single-item">
                     <!-- post -->
@@ -31,7 +30,7 @@ layout: default
                             <!--/content-->
                             <span class="tag-links">
                                 {% for tag in page.tags %}
-                                <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
+                                <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
                                 {% endfor %}
                             </span>
                             <!-- item footer -->
@@ -39,9 +38,7 @@ layout: default
                                 <span>share on:</span>
                                 <a href="#" class="social"><i class="fa fa-twitter"></i></a>
                                 <a href="#" class="social"><i class="fa fa-facebook"></i></a>
-                                <a href="/feed.rss" class="social"><i class="fa fa-rss"></i></a>
-                                <div class="tags">
-                                </div>
+<!--                                <a href="/feed.rss" class="social"><i class="fa fa-rss"></i></a>-->
                             </div>
                             <!--/item footer -->
                         </div>

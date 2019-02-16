@@ -6,7 +6,9 @@ date: '2015-01-21 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Policy
+  - Constitution
 ---
 These days, it is difficult to find issues on which there is bipartisan agreement - especially with regard to congress. Difficult, but not impossible. One such issue concerns the Federal Reserve. There is a bill that is going to be re-introduced this year in congress called The Federal Reserve Transparency Act, also known as "Audit the Fed". 
 

@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Economics
+  - WV
 ---
 Boone County in West Virginia is a long way from Jefferson County. Its county seat, Madison, is further from Charles Town than is Stamford Connecticut. It also serves as a stark contrast to our county - more than twice its size but less than half the population. The median value of a home there is a little more than a third of what it is here and the percentage of its citizens living below the poverty line is nearly double. 
 

@@ -6,7 +6,9 @@ date: '2015-06-03 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - Policy
+  - Privacy
 ---
 Over the weekend I was glued to the screen watching C-SPAN - ignoring exhortations from friends and family that I "get a life". There were two important legislative battles going on. One involved the Patriot Act and the other the USA Freedom Act. The debate over these two pieces of legislation shed additional light on the battle that is raging within the Republican Party over constitutional issues. 
 

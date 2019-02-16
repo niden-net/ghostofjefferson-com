@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Legislative Wrap
+title: 2015 Legislative Wrap
 author: esimon
 date: '2015-04-22 00:00:00'
 categories:
   - Archives
 tags:
   - Politics
+  - Legislation
+  - WV
 ---
 I attended the recent Legislative Wrap Up at the Martinsburg Holiday Inn. It was sponsored by the Berkeley County Chamber of Commerce. In attendance were Delegates Walter Duke, Larry Faircloth, Saira Blair, Mike Folk and John Overington - Republicans from Berkeley County; Delegates Jill Upson and Paul Espinosa - Republicans from Jefferson County; Senators Charles Trump and Craig Blair - both Republicans representing the 15th District; Senator Herb Snyder - Democrat representing the 16th District and Delegate Stephen Skinner, Democrat from Jefferson County. Unable to attend were Senator John Unger, Democrat representing the 16th District and Delegate Eric Householder, Republican from Berkeley County. The moderator was Rick Wachtel, President and General Manager of radio station WRNR in Martinsburg. 
 

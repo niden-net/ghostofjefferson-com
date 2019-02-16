@@ -6,7 +6,9 @@ date: '2015-05-20 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - Policy
+  - Privacy
 ---
 It was pointed out to me by the editors of the Spirit that there is a new local website based in Berkeley County called the West Virginia Conservative Review and their URL is www.wvconservativereview.org. Its stated goal is to hold elected officials accountable with regard to campaign promises. I was forwarded their press release which quotes its founder Davy Jones as saying "Too often elected officials say one thing while campaigning for election and then turn around and do the exact opposite once elected". Adding, "Our goal is to link the legislative session to the campaign session to lift the veil of secrecy in Charleston". The site has been up and running for about two months and apparently has over 800 users. 
 

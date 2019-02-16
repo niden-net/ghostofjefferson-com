@@ -6,7 +6,7 @@ date: '2014-12-24 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Culture
 ---
 Christmas is upon us and so is the music and song. "Christmas is coming the goose is getting fat. Won't you please put a penny in the old man's hat? If you haven't got a penny, a ha'penny will do. If you haven't got a ha'penny, God bless you". That's a traditional carol I remember singing in grammar school back in the day when such fun was allowed. We sang it as a round. 
 

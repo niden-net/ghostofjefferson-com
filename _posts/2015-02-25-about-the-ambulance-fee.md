@@ -6,7 +6,8 @@ date: '2015-02-25 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Local
 ---
 The ambulance fee/tax is an issue that appears to gather more complexity as time goes on. I recently had a conversation with Ramona Wesling, a concerned citizen who has been attending Jefferson County Emergency Services Administration meetings. I have to admire her perseverance and dedication to following this issue through. I am ever skeptical of government provided services and Wesling's observations have done nothing to allay my apprehensions in this regard. 
 

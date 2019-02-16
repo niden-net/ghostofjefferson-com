@@ -4,7 +4,9 @@ title: "Two Follow Ups: JCESA and Common Core"
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Local
+  - Education
+  - Policy
 date: '2015-03-04 00:00:00'
 image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---

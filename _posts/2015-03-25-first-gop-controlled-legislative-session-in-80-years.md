@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - WV
+  - Legislature
 ---
 The West Virginia legislative session in Charleston is now over - the first session in more than eighty years with a Republican majority in both houses. While it did not quite live up to the hype, it was for the most part a positive session with what might be called "baby steps" in the right direction. On balance, this session potentially lays the groundwork for good things to come. 
 

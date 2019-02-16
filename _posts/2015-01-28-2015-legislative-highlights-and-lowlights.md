@@ -6,7 +6,9 @@ date: '2015-01-28 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - WV
+  - Taxes
+  - Legislation
 ---
 "No man's life, liberty, or property are safe while the legislature is in session." That quote is usually attributed to Mark Twain, but according to Wikipedia the man who originated it was Lawyer, Newspaper Editor and Politician (what a combination!) Gideon J. Tucker in 1866. He was apparently parodying the passage from the Magna Carta, "No man shall be deprived of the free enjoyment of his life, liberty, or property, unless declared to be forfeited by the judgment of his peers, or the law of the land."
 

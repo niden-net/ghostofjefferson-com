@@ -4,7 +4,9 @@ title: "Swasey: Common Core is Education Without Representation"
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Education
+  - Common Core
+  - Policy
 date: '2015-02-11 12:00:00'
 image: 'https://ucarecdn.com/13eea755-6104-4e9e-9a68-c733c7d96579/'
 ---

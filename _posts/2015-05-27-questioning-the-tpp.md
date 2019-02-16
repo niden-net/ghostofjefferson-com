@@ -6,7 +6,9 @@ date: '2015-05-27 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - International
+  - Constitution
+  - Policy
 ---
 The Transpacific Partnership or TPP is a trade agreement that has stirred up considerable controversy. It has been described as a "free trade agreement" - in the tradition of NAFTA and CAFTA and everything "AFTA". It also is referred to as "Obamatrade". It would involve twelve nations: the US, Japan, Australia, Peru, Malaysia, Vietnam, New Zealand, Chile, Singapore, Canada, Mexico and Brunei Darussalam. Conspicuously absent from the agreement are China (Asia's most populous nation) and Russia (the largest nation in Asia by land mass). 
 

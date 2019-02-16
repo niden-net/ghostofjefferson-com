@@ -6,8 +6,10 @@ date: '2015-01-14 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
-permalink: '"/2015/01/14/robert-reichs-myth-of-the-free-market'
+  - Progressivism
+  - Economics
+  - Policy
+permalink: '/2015/01/14/robert-reichs-myth-of-the-free-market'
 ---
 Not long ago, economist Robert Reich published an article, "The Myth of the ‘Free Market' and How to Make the Economy Work for Us". He never tells us exactly who "us" is - must be some club he belongs to - but he does say, "One of the most deceptive ideas continuously sounded by the Right [not ‘us'] … is that the ‘free market' is natural and inevitable, existing outside and beyond government". He goes on to say, "Governments don't ‘intrude' on free markets; governments organize and maintain them. Markets aren't ‘free' of rules; the rules define them". I think he needs a reality check. 
 

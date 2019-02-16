@@ -6,7 +6,8 @@ date: '2014-12-31 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Poliy]cy
 permalink: '/2014/12/31/nothing-changes-new-years-day'
 ---
 According to the Irish rock band U2 "nothing changes New Year's Day". I'm not a big fan of the group, but I like that song - "New Year's Day" is its title and it appeared on their third album, "War". It was released as a single in 1983 - the band's first to make the charts here in the US. In the last stanza of the song they sing, "And we are told this is the golden age. Gold is the reason for the wars we wage". 

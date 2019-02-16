@@ -6,7 +6,8 @@ date: '2015-02-04 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - States Rights
 ---
 As most readers of this column are aware, I believe that the federal government is broken. One tell-tale sign is our national debt. In 2000 it was $5.674 Trillion; it stands at over $18 Trillion today - and that doesn't include unfunded liabilities. Over the last 15 years it has more than tripled - adding more than twice as much debt in that time span as had accrued throughout the entire prior history of our nation - a span of 224 years. 
 

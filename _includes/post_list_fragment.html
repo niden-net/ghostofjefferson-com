@@ -1,3 +1,8 @@
+{% for item in site.data.authors.member %}
+{% if post.author == item.identifier %}
+{% assign author = item %}
+{% endif %}
+{% endfor %}
                 <!-- post -->
                 <div class="item">
                     <div class="clearfix">

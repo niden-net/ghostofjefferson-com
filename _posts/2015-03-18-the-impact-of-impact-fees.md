@@ -6,7 +6,8 @@ date: '2015-03-18 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Local
 ---
 Impact fees are aptly named. They are so called because they are supposed to mitigate the "impact" of economic development. (Gee, I grew up thinking that economic development is a good thing!). However, impact fees in turn have an impact on the economy and growth and it is hard to make the case that it is a positive one. Here in Jefferson County, impact fees have been implemented to fund school construction and to fund various services in the county, including fire and rescue, emergency medical services and law enforcement. The "non-partisan" League of Women voters has even proposed additional impact fees to fund library construction. 
 
