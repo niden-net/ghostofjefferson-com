@@ -16,7 +16,7 @@ It's been more than two years since my last article appeared in the Spirit of Je
 
 I have often been asked why my work no longer appears in the Spirit.  For years I enjoyed an excellent working relationship with the editor - Rob Snyder.  He left the paper in the summer of 2016 and unfortunately, thereafter, the editorial policy changed.  
 
-I learned quite a bit from Rob during his tenure at the paper.  He wrote editorials as well and I have to confess I learned quite a bit about style in the writing of an editorial from him.  We rarely agreed with each other regarding our respective editorial opinions, but that is what good journalism is all about. _Vive la difference_.  While Rob made an occasional edit to my articles, most of the time they were to correct a typo, or to ask me to "tighten up" due to space constraints.  He never made changes to alter the intent or style of the piece.\
+I learned quite a bit from Rob during his tenure at the paper.  He wrote editorials as well and I have to confess I learned quite a bit about style in the writing of an editorial from him.  We rarely agreed with each other regarding our respective editorial opinions, but that is what good journalism is all about. "Vive la difference".  While Rob made an occasional edit to my articles, most of the time they were to correct a typo, or to ask me to "tighten up" due to space constraints.  He never made changes to alter the intent or style of the piece.
 That changed after he left.
 
 For example, in article [number 155](/archives/2016/10/05/here-come-the-superpacs-again), the new editor Christine Snyder, removed all references that I had made to the movie Poltergeist in the article that appeared in the Spirit.  As an editorial writer, style is an important element of the art of making a point.  I was denied that pursuit by my editor.  I shrugged and moved on.
@@ -25,7 +25,7 @@ However, the next example, in my humble opinion a more egregious one, involved t
 
 > Riley said "black voter turnout in 2012 exceeded the rate of white voter turnout, even in the states with the strictest voter ID laws,' despite the Democrats claiming the voter ID laws suppress the black vote. While there is debate about the reasons why -- and if the phenomenon will last -- Riley's statistic checks out. Census data shows that indeed, for the first time ever, black voter turnout was higher nationally than white voter turnout, and at least just as high in the states with strict voter ID laws. We rate this claim True.
 
-So, who is Mr. Riley?  Prior to quoting Politifact, I wrote... "the left leaning Politifact evaluated the claim of journalist Jason Riley, an African American, regarding voter ID laws_"_.
+So, who is Mr. Riley?  Prior to quoting Politifact, I wrote... "the left leaning Politifact evaluated the claim of journalist Jason Riley, an African American, regarding voter ID laws".
 
 Now here comes the rub.  After submitting the article to the Spirit, the words "an African American" were edited out.  The editor didn’t feel that I should say that and refused to allow those words to remain in the article.
 

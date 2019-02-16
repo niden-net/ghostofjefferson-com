@@ -1,16 +1,22 @@
 esimon:
   name: Elliot Simon
+  image:
   uri: https://ghostofjefferson.com/
   email:
   twitter:
   facebook:
   gab:
   mewe:
+  birthday:
+  bio:
 ndimopoulos:
   name: Nikolaos Dimopoulos
-  uri: https://niden.net/
+  image:
+  uri: https://niden.net
   email:
   twitter:
   facebook:
-  gab: niden
-  mewe: niden
+  gab: https://gab.com/niden
+  mewe:
+  birthday:
+  bio:

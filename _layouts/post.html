@@ -44,9 +44,12 @@ layout: default
                     <!-- author-info -->
                     <div class="author-info">
                         <div class="clearfix">
-                            <img src="pic/blog/single-item/author.jpg" alt="">
+                            {% if site.data.authors[page.author].name %}
+                            <img src="{{ site.data.authors[page.author].name }}"
+                                 alt="{{ site.data.authors[page.author].name }}">
+                            {% endif %}
                             <div class="text">
-                                <h2><a href="#">{{ site.data.authors[page.author].name }}</a></h2>
+                                <h2>{{ site.data.authors[page.author].name }}</h2>
                                 <p>{{ site.data.authors[page.author].name }} Bio</p>
                                 <div class="cross"></div>
                                 <div class="social-button">
