@@ -7,6 +7,7 @@ categories:
   - Archives
 tags:
   - Politics
+  - International
 ---
 In early June, British journalist Glenn Greenwald, writing for The Guardian, published an interview with Edward Snowden, the employee for Booz Allen hired to work on PRISM, a mass electronic surveillance data mining program operated by the National Security Agency. In it, he alleges that the NSA intercepts and stores private emails and phone conservations and does so without a warrant. Snowden contends that the NSA does this "as a matter of course" and has amassed an enormous database. 
 

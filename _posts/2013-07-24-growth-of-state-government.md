@@ -7,9 +7,10 @@ date: '2013-07-24 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
-  - Debt
-  - Road Bond
+  - Economics
+  - Policy
+  - Taxes
+  - WV
 ---
 Last week the city of Detroit filed for bankruptcy, reportedly with an indebtedness of more than $18 billion. The city has a staggering pension liability as well. This has called into question the "blue model", a label that has been applied to what are called "progressive" municipalities such as Chicago, Santa Fe and Oakland. Chicago's credit rating was lowered three notches at the same time that Detroit filed for bankruptcy. Could they be next?
 

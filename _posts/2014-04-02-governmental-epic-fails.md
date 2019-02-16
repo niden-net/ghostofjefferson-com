@@ -6,7 +6,8 @@ date: '2014-04-02 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Progressivism
+  - Policy 
 ---
 I was involved in a discussion with a friend the other day about the proper role of government. Particularly with regard to markets. It quickly devolved into the usual memes. I believe in free markets and he, well, doesn't. Finally...he came out and said it: "the role of government is to hold the private sector accountable". 
 

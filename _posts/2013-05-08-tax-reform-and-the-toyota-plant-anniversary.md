@@ -6,7 +6,9 @@ date: '2013-05-08 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economcis
+  - Policy
+  - WV
 ---
 There was an article that appeared in the Huntington West Virginia Herald-Dispatch about a week ago. The article proclaimed a milestone for the Toyota engine and transmission plant in Buffalo WV; that it had produced its 10 millionth power train. According to the article, it was the first plant outside of Japan to reach that milestone. 
 

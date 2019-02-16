@@ -7,6 +7,9 @@ categories:
   - Archives
 tags:
   - Politics
+  - Policy
+  - Economics
+  - Progressivism
 ---
 I attended a dinner party recently and ran into two acquaintances, one of whom is a school teacher in Jefferson County. We began talking and the discussion meandered a bit until the subject moved to income inequality, which is apparently a hot topic among progressives these days. The solution, I was told, is obvious; people at the high end of the income scale should be taxed more. After all, the highest tax rates in the 1950s ran over 90%. 
 

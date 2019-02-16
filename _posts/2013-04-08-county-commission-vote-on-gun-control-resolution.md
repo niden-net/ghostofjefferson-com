@@ -6,7 +6,10 @@ date: '2013-04-08 00:00:00'
 categories:
   - Archives
 tags:
+  - Policy
   - Politics
+  - Second Amendment
+  - Local
 ---
 The issue of local gun control laws is one that refuses to go away. Last Thursday the Jefferson County Commission considered a resolution "against gun violence" proposed by a Quaker group based in Shepherdstown. It included this quote from the Bible: "Thou shalt not kill". I share the Quakers' desire to end violence, and I ascribe to the Ten Commandments. However, "restrictions on sales of firearms", as the resolution advocates, particularly on the local level, have a troubling history. 
 

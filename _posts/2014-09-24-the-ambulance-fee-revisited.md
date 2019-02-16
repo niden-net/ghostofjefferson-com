@@ -6,7 +6,8 @@ date: '2014-09-24 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Local
 ---
 Recently, the County Commission published a FAQ sheet - that stands for Frequently Asked Questions - apparently in response to the public uproar that the enactment of the new ambulance fee has caused. The County calls it a fee. I call it what it is - a tax. The uproar seems to have caught the Commission by surprise - I say that because the document appears to point fingers at the public. It states that the public hearing regarding the fee held on May 22, 2014 occurred "with no comments from the public" highlighted in bold type. So I guess we're all out of line for expressing outrage now instead of on their schedule. 
 

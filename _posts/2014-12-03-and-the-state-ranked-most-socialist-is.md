@@ -6,7 +6,9 @@ date: '2014-12-03 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Policy
+  - WV
 ---
 I hope that you had a great Thanksgiving holiday and that you have a lot to be thankful for. One of the things I am thankful for is that for the first time in more than 80 years, West Virginia has an opportunity for meaningful change. Voters are finally tired of West Virginia being at or near the bottom of all those lists. 
 

@@ -6,7 +6,10 @@ date: '2013-05-01 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - International
+  - Consitution
+  - Policy
+  - Regulation
 ---
 Most people have never heard of a United Nations initiative called Agenda 21. The result of the 1992 UN Conference on Environment and Development that was held in Rio de Jeneiro, Brazil ,178 countries signed on to it including the United States. Wikipedia calls it "an action agenda for the UN, other multilateral organizations, and individual governments around the world that can be executed at local, national, and global levels". 
 

@@ -6,7 +6,9 @@ date: '2014-02-19 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Policy
+  - Economics
+  - WV
 ---
 According to Legiscan.com, this year 2035 bills have been introduced in the West Virginia legislature and so far 57 of them have been completed. The number of introduced bills is down 17% from two sessions ago and down 9% from last year. This might sound like a good trend, for those of us that are concerned about the impact of legislation on our lives; however the number of completed bills is on the rise. Last year there were 439 completed bills, up 18% from the previous year and up a whopping 46% from 2011. 
 

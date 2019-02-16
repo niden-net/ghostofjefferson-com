@@ -6,7 +6,9 @@ date: '2014-07-16 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - WV
+  - Policy
+  - Local
 permalink: '/2014/07/16/clarksburgs-demolition-derby'
 ---
 As I've said before, I'm a big fan of home rule, also known as local control. I believe that the government that is closest to the people is the most relevant. Municipal and county government should have greater autonomy as local elected officials theoretically are more accountable to local voters. However, there is a caveat - constituents must keep a close eye on them and there must an unwavering dedication to the rule of law supported by a strong legal system. 

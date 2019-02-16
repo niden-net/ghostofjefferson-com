@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Dems
+  - WV
 ---
 About a month ago I brought to your attention statements made by the West Virginia Speaker of the House of Delegates Tim Miley.  In an interview with MetroNews he intimated that the House is mostly bipartisan with regard to voting on and enacting legislation.  By implication he appeared to be saying that he himself approaches government in a bipartisan or even nonpartisan way.  I told you then that I wasn't having any of it.  However, I never would have dreamed that Miley would have reinforced and proved my point so soon and so profoundly.  
 

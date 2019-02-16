@@ -7,7 +7,9 @@ date: '2013-09-11 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Taxes
+  - Local
 ---
 Henry Hazlitt was a journalist, literary critic, economist and philosopher. His writings appeared in such publications as the Nation, Wall Street Journal and the New York Times (frequently heading the book review section), H. L. Mencken's American Mercury and Newsweek. While at Newsweek he wrote Economics in One Lesson, first published in 1946 and in his later years Hazlitt expressed surprise that the book had become his most enduring work. It is eminently readable; it does not contain mathematics or formulae. It presents its case in plain language that is easily understood. According to Lew Rockwell of the Mises Institute, it may be the most popular economics text ever written. He lauds Hazlitt's message as simple but profound: "The art of economics consists of looking not merely at the immediate but at the longer effects of any act or policy; it consists of tracing the consequences of that policy not merely for one group but for all groups."
 

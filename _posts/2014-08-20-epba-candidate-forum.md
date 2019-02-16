@@ -7,6 +7,9 @@ categories:
   - Archives
 tags:
   - Politics
+  - Elections
+  - Policy
+  - WV
 ---
 I attended the most recent meeting of the Eastern Panhandle Business Association earlier this month. On its website the EPBA says that it has been described as a "Chamber of Commerce with Attitude". For the record, I belong to both the Jefferson County Chamber of Commerce and the EPBA and I would be inclined to agree with that assessment, but that's a subject for another column. 
 

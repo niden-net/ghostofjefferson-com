@@ -6,8 +6,8 @@ date: '2013-08-07 00:00:00'
 categories:
  - Archives
 tags:
- - Politics
- - Secrecy
+ - Civics
+ - Constitution
  - Privacy
 ---
 Thank you for the feedback regarding last week's column. It is great to know that there is concern regarding the National Security Agency and its proper role. There certainly is a divergence of opinion as to whether or not Edward Snowden is a hero or a traitor. While I hope that he is a hero, I concede that only time will tell. 

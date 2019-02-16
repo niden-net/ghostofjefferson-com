@@ -7,7 +7,11 @@ date: '2013-09-25 00:00:00'
 categories:
   - Archives
 tags:
+  - States Rights
+  - Constitution
+  - Second Amendment
   - Politics
+  - Progressivism
 ---
 I've asserted more than once in this space that the government that is most relevant is that which is closest to the people. Each locality has its own unique set of circumstances and in theory voters will choose representatives that will be aligned with their beliefs, interests, standards and approach to the issues. It takes an engaged electorate to make that happen. 
 

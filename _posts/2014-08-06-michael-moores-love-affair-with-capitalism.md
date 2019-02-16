@@ -6,7 +6,9 @@ date: '2014-08-06 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Progressivism
+  - Economics
+  - Culture
 permalink: '/2014/08/06/michael-moores-love-affair-with-capitalism'
 ---
 Film maker Michael Moore was recently divorced from his wife of 22 years. This, in and of itself, wouldn't be particularly noteworthy, except for details that became part of the court record. His net worth was revealed to be in excess of $50 million. Yep, Michael Moore is a card carrying member of the 1%. According to court documents, the Moore fortune includes nine properties including a posh Manhattan condo that is three apartments combined into one and his lakefront Bellaire, Michigan estate that includes a 10,000 square foot house. A local shopkeeper was quoted in the Detroit News as saying, "Why he decided to live in this conservative area, I have no idea." 

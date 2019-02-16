@@ -7,7 +7,10 @@ date: '2013-10-09 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Economics
+  - Policy
+  - Congress
 ---
 As of this writing, the shutdown of the government has entered its second week and the rhetoric has intensified. Senate Majority leader Harry Reid blames the impasse on what he calls the "Tea Party anarchists". Right on cue, there were stories in the press about the recent Gallup poll showing that "tea party support is near an all time low". However, a closer look at the numbers reveals some interesting nuances missed by most reporters. According to that poll, the category called "tea party supporters" is indeed hovering at 22 percent, one percentage point higher than the low recorded in 2011. However, it also shows that opposition to the tea party is also on the decline, coming in at 27 percent, five points lower than its peak in 2010. Further, in another recent Gallup poll, only 19 percent of Americans identify themselves as liberals, down a point from last year. In other words, there are more "tea party supporters" than there are liberals. Conservatives comprised the largest group at 41 percent with moderates at 37 percent. 
 

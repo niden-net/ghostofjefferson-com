@@ -6,7 +6,9 @@ date: '2014-05-14 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economcis
+  - Policy
+  - WV
 ---
 I would like to thank Alyson Clements of the WV Center on Budget and Policy for setting the record straight in her April 30th letter to the editor. The legislation passed by the West Virginia legislature raises the state minimum wage to $8.75, not $10.10. It is the proposed federal legislation that would raise the national minimum wage to $10.10 per hour if passed. 
 

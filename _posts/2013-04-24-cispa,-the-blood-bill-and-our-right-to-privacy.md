@@ -6,7 +6,12 @@ date: '2013-04-24 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - Civics
+  - Social
+  - Policy
+  - Privacy
+  - WV
 ---
 The framers of our Constitution believed in freedom and were intent on limiting the power of government. I have come across commentary that calls this a "quaint notion". There are some that are uncomfortable with this idea because it implies an adversarial relationship between us and government. On the flip side of the argument, I remember a teacher I had that told me "the government is us". Now that is a quaint idea, especially in light of recent legislation. 
 

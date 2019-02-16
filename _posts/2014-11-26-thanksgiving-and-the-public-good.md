@@ -6,7 +6,9 @@ date: '2014-11-26 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Culture
+  - Economics
+  - History
 ---
 Thanksgiving is upon us. Today my wife and I went out to pick up our locally raised turkey. Giving thanks for our blessings is a great reason to celebrate a holiday. My wife and I are fortunate in that we will be sharing that experience with friends and family. We hope that you will too and wish you and yours a Happy Thanksgiving. 
 

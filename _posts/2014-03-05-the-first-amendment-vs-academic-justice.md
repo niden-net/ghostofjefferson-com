@@ -2,11 +2,13 @@
 layout: post
 title: The First Amendment vs Academic Justice
 author: esimon
-date: '2014-05-05 00:00:00'
+date: '2014-03-05 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - Media 
+  - Progressivism
 ---
 When I was growing up I was taught in school that the United States was the greatest nation on earth because of our freedoms. During the Cold War our press made fun of the state controlled press of the former Soviet Union. I was taught that in other countries protest against the government was forbidden. We were different, we were free. We had rights and our Constitution guaranteed them. 
 

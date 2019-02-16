@@ -7,7 +7,11 @@ date: '2013-06-05 00:00:00'
 categories:
   - Archives
 tags:
+  - Economics
   - Politics
+  - Regulation
+  - Taxes
+  - WV
 ---
 At the Legislative Recap hosted by the Berkeley Chamber of Commerce in early May, Senator Herb Snyder was asked which legislation, beside the MARC train bill, had the most local significance. His answer was the sewer bond legislation. This raised questions for me, but first a little background is in order as the legislation relates to the Chesapeake Bay. 
 

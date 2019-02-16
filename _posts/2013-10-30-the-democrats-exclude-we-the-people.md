@@ -7,6 +7,9 @@ date: '2013-10-30 00:00:00'
 categories:
   - Archives
 tags:
+  - Civics
+  - Social
+  - Dems
   - Politics
 ---
 The so called "Tea Party" must be doing something right. The rhetoric from Democrats is intensifying and it is starting to get downright ugly. Rep. Alan Grayson (D-FL) sent out a fund raising email letter with a heading that described it as "no more popular than the Klan". The email included a graphic that depicted the "T" in tea party as a burning cross. Quoted in the Huffington Post, Jennifer Burke, National Outreach Director of TheTeaParty.net, said "as a black Tea Party activist, I could say that there's nothing more offensive than equating the Tea Party with the Ku Klux Klan. The hate speech uttered by sitting congressman Alan Grayson is deplorable." 

@@ -6,9 +6,9 @@ author: Elliot Simon
 categories:
   - Archives
 tags:
-  - Press
-  - 1A
-  - Free Speech
+  - Constitution
+  - Policy
+  - Whistleblowers
 ---
 In the early 19th century, British soldiers who were in engaged in battle during the Napoleonic wars used to toast one another with the expression "Confusion to the French." Lately I'm seeing some confusion on the part of scandal-fatigued supporters of the current administration. There are some that would lead you to believe that the Benghazi coverup, Operation "Fast and Furious," the Solyndra debacle and the IRS targeting of conservative groups are fictions created by partisans motivated solely by partisan politics. The fact is that even the mainstream media has found that it can't ignore them - try as they might. Yes Virginia, they are real - and that isn't even the complete list.
 

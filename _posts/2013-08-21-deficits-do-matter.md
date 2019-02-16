@@ -7,9 +7,7 @@ date: '2013-08-21 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
-  - Debt
-  - Deficit
+  - Economics
 ---
 In a few short weeks we are going to bump up against the debt ceiling once again. In reality, the debt ceiling doesn't really matter. Congress just keeps kicking that can down the road. In fact, focusing on the debt ceiling is just political sleight of hand that distracts from the real issue: the deficit. 
 

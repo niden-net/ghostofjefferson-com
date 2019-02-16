@@ -7,7 +7,10 @@ date: '2013-11-06 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Progressivism
+  - Media
+  - Constitution
+  - Privacy
 ---
 The great nineteenth century Norwegian playwright Henrik Ibsen is considered by many historians to be "the father of modern drama". His plays, many of which are considered masterpieces include A Doll's House, Hedda Gabler, The Wild Duck and An Enemy of the People. According to Wikipedia, Ibsen is the most frequently performed dramatist in the world after Shakespeare. 
 

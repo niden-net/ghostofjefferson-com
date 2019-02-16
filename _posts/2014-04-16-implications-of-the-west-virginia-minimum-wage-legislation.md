@@ -6,7 +6,9 @@ date: '2014-04-16 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Policy
+  - WV
 ---
 Last Thursday I attended the candidate forum hosted by the League of Women Voters in Charles Town. Although in all likelihood there are few, if any, new votes to be had there by the candidates, the forum has value in that it provides a venue for citizens to learn about issues. On more than one occasion that evening a spokesperson for the League made mention that the organization is "non-partisan". That means that it has at least one thing in common with the local Tea Party group. 
 

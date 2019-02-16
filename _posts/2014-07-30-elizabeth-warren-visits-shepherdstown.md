@@ -6,7 +6,10 @@ date: '2014-07-30 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Progressivism
+  - Economics
+  - Elections
+  - Local
 ---
 Recently Senator Elizabeth Warren came to Shepherdstown to campaign for Natalie Tenant who is running for the US Senate here in West Virginia. Warren is considered to be a "rock star" among progressives and is one of the darlings of the liberal press. According to several sources, including Wikipedia, when President Obama gave his "you didn't build that" speech, it was derived from an earlier speech by Warren. 
 

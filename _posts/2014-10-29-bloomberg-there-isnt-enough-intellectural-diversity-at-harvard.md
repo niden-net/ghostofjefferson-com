@@ -4,7 +4,10 @@ title: "Bloomberg: There Isn't Enough Intellectural Diversity at Harvard"
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Social
+  - Civics
+  - Progressivism
+  - Media
 date: '2014-10-29 12:00:00'
 ---
 Well, its election time and that means that it is also finger pointing season. Every election season Democrats and their supporters harrumph about which Republicans attended what forum. One editorial in the Spirit pointed out that local Republican candidates for the West Virginia House of Delegates were no shows for the NAACP forum; in the State Senate race neither candidate showed. All true enough. However, in another NAACP forum, this one for candidates running for Sheriff of Jefferson County, it was the Republican that showed up while his opponent the Democrat was a no show. The League of Women voters canceled their forum. Scheduling difficulties were cited as the reason. Round and round we go. 

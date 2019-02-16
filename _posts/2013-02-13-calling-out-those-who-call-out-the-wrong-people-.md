@@ -6,7 +6,10 @@ date: '2013-02-13 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Civics
+  - Second Amendment
+  - Progressivism
 ---
 > Before you accuse me, take a look at yourself
 > _Bo Diddley song title_

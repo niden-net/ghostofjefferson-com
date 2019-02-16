@@ -6,7 +6,10 @@ date: '2013-07-10 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Social
+  - Second Amendment
+  - Progressivism
 ---
 Recently, Logan County, West Virginia, has made national headlines. The event that garnered the attention was the arrest of 14 year old Jared Marcum, a student at Logan Middle School, on April 18th because he wore a tee shirt to school that displayed the NRA logo, a hunting rifle and the words: "protect your right". That's right, arrested. Band teacher David Burroway took exception to the shirt and ordered Marcum to either remove it or turn it inside out, claiming that it violated school policy. Marcum disagreed, and after consulting the school manual and the school attorney, Burroway conceded the point, according to one account. 
 

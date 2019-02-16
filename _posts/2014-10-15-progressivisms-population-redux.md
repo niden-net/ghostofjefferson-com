@@ -6,7 +6,11 @@ date: '2014-10-15 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+tags:
+  - Progressivism
+  - Civics
+  - Policy
+  - Culture
 permalink: '/2014/10/15/progressivisms-population-redux'
 ---
 According to Wikipedia, "Progressivism is a broad philosophy based on the Idea of Progress, which asserts that advances in science, technology, economic development, and social organization can improve the human condition". According to one website called Dissident Voice, that describes itself as "a radical newsletter in the struggle for peace and social justice" Progressivism "is a term that encompasses a wide spectrum of social movements that include environmentalism, labor, agrarianism, anti-poverty, peace, anti-racism, civil rights, women's rights, animal rights, social justice and political ideologies such as anarchism, communism, socialism, social democracy, and liberalism". That's a wide spectrum indeed but is more in keeping with how I have come to view progressivism. 

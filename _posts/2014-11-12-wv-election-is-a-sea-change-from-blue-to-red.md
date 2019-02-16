@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Elections
+  - WV
 ---
 The dust has finally settled on the 2014 elections. I'm going to take this opportunity to offer some random observations, thoughts and musings as to what transpired on November 4. It was indeed an historic day here in West Virginia with what State Chamber of Commerce President Steve Roberts described as "a game changing election". 
 

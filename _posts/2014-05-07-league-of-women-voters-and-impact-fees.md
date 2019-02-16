@@ -7,6 +7,9 @@ categories:
   - Archives
 tags:
   - Politics
+  - Policy
+  - Economics
+  - Elections
 ---
 I attended the League of Women Voters candidate forum last week that was held in the public meeting room in the Charles Town Library. It is the same room where the County Commission conducts its business. Participating in the forum were the candidates for the Jefferson County Commission from the Harpers Ferry magisterial district, Democrat Ronda Lehman and Republicans Eric Bell and Peter Onoszko. The moderator was Dr. Lori Stilley. 
 

@@ -4,7 +4,10 @@ title: "Ezekiel Emanuel: No Healthcare For You! If You''re 75 Or Older..."
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Progressivism
+  - Civics
+  - Policy
+  - Culture
 date: '2014-10-08 12:00:00'
 ---
 Last month an article authored by Dr. Ezekiel Emanuel appeared in the Atlantic entitled "Why I Hope to Die at 75". In it, he declares his intention, upon reaching that age, to refuse any and all medical attention - anything that would be for the purpose of prolonging his life. His reasoning: the vast majority of people over 75 do not contribute significantly to society but instead become a burden. In fact, according to Emanuel while "death is a loss...living too long is also a loss...no longer remembered as vibrant and engaged but as feeble, ineffectual, even pathetic". Reminds me of the infamous words of Ebenezer Scrooge - "if they would rather die, they had better do it and decrease the surplus population". 

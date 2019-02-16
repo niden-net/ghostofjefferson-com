@@ -6,6 +6,10 @@ date: '2014-10-01 00:00:00'
 categories:
   - Archives
 tags:
+  - Local
+  - WV
+  - Civics
+  - Policy
   - Politics
 ---
 Albert Einstein is said to have defined insanity as "doing the same thing over and over again and expecting different results". Here in West Virginia we have had one party rule for more than 80 years. That's more than three generations. Over that time span the economic performance of our state has been, by all metrics, underwhelming. And that's putting it in polite terms. 

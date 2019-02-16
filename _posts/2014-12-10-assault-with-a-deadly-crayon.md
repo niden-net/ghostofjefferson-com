@@ -6,7 +6,9 @@ date: '2014-12-10 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Civics
+  - Education
 ---
 Education is key to success and leads to a rewarding quality of life. Growing up, I attended public school in a major city. As I approached school age, my parents shopped around for a neighborhood that was "zoned" to include a "good school". That was my generation's version of school choice. Not all "free" public schools were equal and most people understood that "equality of opportunity", if it really existed, didn't guarantee equality of result. 
 

@@ -6,7 +6,10 @@ date: '2013-02-06 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Policy
+  - Regulation
+  - Economics
+  - Local
 ---
 To paraphrase from a Robert Burns poem written in 1785: The best laid plans of mice and men often go awry and leave us nothing but grief and pain, for promised joy. In the lyric from John Lennon's song "Beautiful Boy", one of the last songs he ever wrote, is one of my favorite quotes: "Life is what happens to you while you're busy making other plans". Jefferson County has a Comprehensive Plan and it is in the process of being updated as required by state law. In the West Virginia Code, chapter 8A is entitled Land Use Planning. According to Article 3 of that Chapter, once a county adopts a Comprehensive Plan it must be updated every 10 years, and our updates are due next year. 
 

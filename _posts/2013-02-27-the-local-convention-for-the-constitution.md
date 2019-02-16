@@ -6,7 +6,9 @@ date: '2013-02-27 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Consitution
+  - Media
+  - Local
 ---
 There was an event that took place this past Saturday in Shepherdstown that managed to escape the notice of the local press. The Convention for the Constitution was organized though the cooperative efforts of several local organizations: The Blue Ridge Patriots of Berkeley County [www.blueridgepatriots.com](https://www.blueridgepatriots.com) led by Kandi Montini, We the People of Jefferson County [https://www.wtpwv.com](https://www.wtpwv.com) led by Patricia Rucker and the West Virginia Campaign for Liberty under the auspices of Jessica Hayes of Falling Waters and Gina and Chris Anders of Shepherdstown. Yours truly served as the emcee. The organizers originally planned for 100 attendees, but the final count was over 150, completely filling the Senator Robert Byrd Room at the Clarion Hotel. Clearly there is keen local interest in the subject matter. 
 

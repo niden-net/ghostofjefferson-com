@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Policy
+  - WV
 ---
 The West Virginia Legislature completed its 2013 session over this past weekend. I can now breathe a sigh of relief. Legislation is like a box of chocolates - you never know what you're going to get. Legislators take an oath to defend the Constitution, but I'm of the belief that they should also take an oath to adhere to the primary tenant of medical ethics, "first do no harm". 
 

@@ -6,7 +6,8 @@ date: '2014-01-08 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - Executive Order 
 ---
 I hope your New Year is off to a rousing start. In my last column I expressed a New Year's wish that everyone reflect on what is the true purpose of government. I am of the view that individuals have unalienable rights and that the government's primary purpose is to ensure that those rights are protected. I would call that the original mission statement of the founding fathers of our great republic. Unfortunately, since then we've witnessed a monumental example of mission creep. 
 

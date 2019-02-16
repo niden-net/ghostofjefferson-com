@@ -6,7 +6,7 @@ date: '2014-04-09 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Elections
 ---
 In my previous column I made reference to an organization called True the Vote. Its president, Catherine Engelbrecht, recently testified at a congressional hearing looking into allegations that the IRS inappropriately targeted groups based on their political views. True the Vote, one of the organizations allegedly targeted by the IRS, was founded by Engelbrecht in response to what she witnessed as a volunteer monitoring local elections. 
 

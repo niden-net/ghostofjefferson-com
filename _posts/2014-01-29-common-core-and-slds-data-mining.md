@@ -6,7 +6,10 @@ date: '2014-01-29 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - Common Core
+  - Constitution
+  - Privacy
 ---
 The legislative session in Charleston is in full swing. To some this might recall the famous quote "No man's life, liberty, or property are safe while the legislature is in session." There seems to be some debate as to who actually said it. In doing a little research I found several attributions to Mark Twain, the famous American author and humorist. However, it appears that in reality the originator of the quote was Gideon J. Tucker, an American lawyer, newspaper editor and politician, who as a Surrogate of New York in 1866 used the phrase in a decision in a case regarding a will. You can't always trust what you read in a history book, or on the internet. 
 

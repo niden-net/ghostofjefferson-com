@@ -7,7 +7,9 @@ date: '2013-09-04 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Policy
+  - WV
 ---
 I often hear from my friends on the left that "free markets" don't work. They even cite examples of what they call "market failure". What they are missing is that in order to have a free market, there must be true price discovery; the buyer and the seller must be free to negotiate price. When government interferes with the pricing mechanism, distortions ensue, leading to the erroneous assumption that there has been a market failure. 
 

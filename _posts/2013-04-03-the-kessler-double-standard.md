@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Dems
+  - WV
 ---
 When I was in the third grade I remember an incident where a classmate shot a spitball that stuck to the blackboard while the teacher had her back to the class. She was writing a lesson on the board. For those of you not familiar with what a spitball is, it is a little wad of paper that a kid will roll around in the mouth and then shoot it through a straw. The teacher whirled around as a couple of kids giggled. She demanded to know who the perpetrator was. She never found out, but in retribution, she canceled a class trip for the following week that all of us were looking forward to. We were all punished for the actions of one individual. 
 

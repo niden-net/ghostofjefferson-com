@@ -2,11 +2,14 @@
 layout: post
 title: The West Virginia Mailgate'
 author: esimon
-date: '2014-05-04 00:00:00'
+date: '2014-06-04 00:00:00'
 categories:
   - Archives
 tags:
+  - Local
   - Politics
+  - Ethics
+  - WV
 ---
 There is a story that has received considerable attention in other parts of West Virginia but not around here. The Washington Post even ran a piece on it. It's been dubbed "Mailgate" and it is about the recent revelations regarding the use of taxpayer funds by members of the West Virginia House of Delegates to communicate with constituents - or perhaps rather a select group of voters. 
 

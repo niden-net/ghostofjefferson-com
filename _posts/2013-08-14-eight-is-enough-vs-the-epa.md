@@ -6,7 +6,10 @@ date: '2013-08-14 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Regulation
+  - Policy
+  - Economics
+  - Legal
 ---
 West Virginia's Lois Alt is back in the news again. I've mentioned her before in this space. She is the plucky poultry farmer whose family owns the Eight is Enough chicken farm in Hardy County in the Eastern Panhandle of West Virginia. The farm is so named because the Alt family decided to stay small, limiting their production capacity to eight chicken houses. Small that they are, however, they have taken on the Leviathan in a David vs. Goliath style high stakes court battle. 
 

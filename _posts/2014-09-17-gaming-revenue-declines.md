@@ -6,7 +6,9 @@ date: '2014-09-17 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Local
+  - Taxes 
 ---
 Although we don't have free markets, market forces still prevail eventually in spite of all the interventions wrought by government. The laws of economics are as immutable as the laws of physics - ignore them at your peril. Like gravity, supply and demand and competition in the marketplace are forces that cannot be circumvented by the best laid plans of mice and men. 
 

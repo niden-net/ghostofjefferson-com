@@ -5,7 +5,10 @@ subtitle: Uncle Dan
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Taxes
+  - Economics
+  - Policy
+  - WV
 date: '2013-11-20 12:00:00'
 ---
 I had the pleasure of spending time with my uncle recently. He and I do not see eye to eye on most political or economic issues, but that isn't a problem. Born in 1923, my uncle has seen a lot, including service to our country during WWII. We got to talking one evening and he asked me why I felt that government was too big. He felt that as the population increases it would be only natural for government to get bigger as well. 

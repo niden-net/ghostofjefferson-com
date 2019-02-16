@@ -6,7 +6,10 @@ date: '2014-07-23 00:00:00'
 categories:
   - Archives
 tags:
+  - Local
   - Politics
+  - Ethics
+  - WV
 ---
 In early June I wrote about the "Mailgate" scandal in the West Virginia House of Delegates concerning allegations reported in the press that certain Democrats in the legislature had used, or some say abused, their franking privileges to electioneer. Franking is a time honored tradition in which public funds are available to enable legislators to communicate with constituents and to provide information. However, there were questions raised regarding the timing and sheer volume of the mailings. Additionally, based on his research through documents obtained through the Freedom of Information Act, WVGOP consultant Rob Cornelius believes that the mailings were targeted by Democrats in the legislature to constituents that are Democrats and that GOP voters were systematically excluded. According to WVGOP chair Conrad Lucas this is both unethical and illegal. 
 

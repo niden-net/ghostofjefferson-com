@@ -6,7 +6,10 @@ date: '2013-03-17 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Policy
+  - Regulation
+  - Economics
+  - WV
 ---
 I would like to make a correction regarding my previous column. Instead of "Food and Drug Administration", it should have read "Environmental Protection Agency". That said, in this missive, I will make mention of the FDA. 
 

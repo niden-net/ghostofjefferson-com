@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Local
+  - GOP
 ---
 At their last meeting the Jefferson County Republican Executive Committee voted to remove a sitting member, Chris Anders, one of two representative on the committee from the Shepherdstown Magisterial District. While there is some question as to whether or not they had the right to do this, there's an even more important question - was it the right thing to do? What they did was to kick out a member of the committee that had won that seat in a taxpayer funded election. 
 

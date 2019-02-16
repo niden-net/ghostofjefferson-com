@@ -2,11 +2,12 @@
 layout: post
 title: The Anti-Morrisey Bill
 author: esimon
-date: '2014-05-12 00:00:00'
+date: '2014-03-12 00:00:00'
 categories:
   - Archives
 tags:
   - Politics
+  - WV
 ---
 The legislative session in Charleston is now, for most intents and purposes, over. There is work yet left to be done on the budget but there won't be any more legislation to worry about for now. We can all breathe a sigh of relief and look over the damage or in some cases the good things that made it through the legislature...or didn't. Sometimes the good news lies in what didn't get passed. 
 

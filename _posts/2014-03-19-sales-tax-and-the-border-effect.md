@@ -2,11 +2,14 @@
 layout: post
 title: Sales Tax and the Border Effect'
 author: esimon
-date: '2014-05-19 00:00:00'
+date: '2014-03-19 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Policy
+  - Legislation
+  - WV
 ---
 As I stated previously, some of the best things that happen in Charleston are things that don't happen. A prime example is HB 4456, introduced by Delegate Jim Morgan (D - Cabell). Faced with a state budget shortfall, Morgan's legislation proposed raising the West Virginia state sales tax 1.00% from 6.00% to 7.00%. The bill was sent to the house Finance committee never to be heard from again. Had it become law, West Virginia would have had the highest sales tax in the nation, alongside five other states. 
 

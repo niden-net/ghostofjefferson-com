@@ -6,7 +6,10 @@ date: '2013-03-06 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Policy
+  - Regulation
+  - Economics
+  - WV
 ---
 I am a big fan of supporting local agriculture. Small local farms provide what I consider to be a healthier alternative to so-called factory farms. As much as possible, when I put something on my table, I prefer to know where it comes from. It is better for the environment and I also get added satisfaction knowing that I am doing business with a neighbor while contributing to the local economy. I buy organic when practical. These are personal choices that I have made - I am not making recommendations for others. 
 

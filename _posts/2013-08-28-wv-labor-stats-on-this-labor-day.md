@@ -7,7 +7,9 @@ date: '2013-08-28 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Policy
+  - WV
 ---
 Every year, on the first Monday in September, we celebrate a holiday called Labor Day. There isn't a consensus as to when the first Labor Day was observed or even who first came up with the idea; the first incarnations were enacted by municipal and state governments. It became a national holiday in 1894, during the Grover Cleveland administration, says Wikipedia, "to placate unionists following the Pullman Strike" where thousands of US Marshalls and US Army troops were mobilized by the federal government to put an end to it. Today, as it says on the US Department of Labor's website, we "pay tribute on Labor Day to...the American worker". 
 

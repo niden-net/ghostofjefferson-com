@@ -4,7 +4,10 @@ title: "Liberal vs Conservative: A Rose By Any Other Name..."
 author: esimon
 categories: Archives
 tags:
+  - Civics
   - Politics
+  - Progressivism
+  - Social
 date: '2013-06-26 12:00:00'
 ---
 > What's in a name? That which we call a rose 

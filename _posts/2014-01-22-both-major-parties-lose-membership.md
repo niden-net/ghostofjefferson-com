@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - GOP
+  - Dems
 ---
 Previously, I stated that the establishments of both major parties on the national level appear to be systematically alienating their rank and file. A recent Gallup Poll indicates that Independent is now the most popular voter affiliation in the nation at 42% on average for 2013. Democrats come in second at 31% with Republicans coming in third at 25%. Compare those numbers with twenty years ago and the change is quite remarkable. According to the Statistical Abstract of the United States, in 1994, the year that Republicans picked up an historic 54 seats in the House of Representatives, Independents comprised only 10% of the electorate, with the Democrats at 47% and Republicans at 43%. 
 

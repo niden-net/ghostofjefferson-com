@@ -7,7 +7,10 @@ date: '2013-05-15 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Policy
+  - Economics
+  - Regulation
+  - Local
 ---
 One of the important issues regarding the revision of the Jefferson County Comprehensive Plan has to do with growth. The Plan includes proposals to address how to accommodate future growth, or as some suggest, how to control it. One of the recurring themes I kept hearing at meetings is that we need to manage future growth. I would suggest that future growth is not assured, nor should we take it for granted. 
 

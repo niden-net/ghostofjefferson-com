@@ -6,7 +6,10 @@ date: '2013-05-22 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Regulation
+  - Policy
+  - Economics
+  - Legal
 ---
 The number of scandals is really starting to pile up, prompting some in the mainstream media to suggest that the president has lost control of his administration. The criticism is coming from sources one wouldn't expect. In response to the recent IRS scandal Piers Morgan said this to comedian Penn Jillette on his CNN program: "I've had some of the pro-gun lobbyists on here, saying to me, ‘Well, the reason we need to be armed is because of tyranny from our own government,' and I've always laughed at them. But, actually, this is vaguely tyrannical behavior by the American government, I think what the IRS did is bordering on tyrannical behavior." It's good to know that the mainstream media is beginning to realize that there is such a thing as a border. 
 

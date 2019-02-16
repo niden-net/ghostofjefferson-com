@@ -7,6 +7,8 @@ categories:
   - Archives
 tags:
   - Politics
+  - Local
+  - Policy
 ---
 There is going to be a new Sheriff in town, eventually. An interim Sheriff has been named, but the selection of a permanent successor, well, that's where things get complicated. Included In the agenda for the Jefferson County Commission meeting this week is discussion regarding the selection of the successor. According to counsel for the Commission in the minutes from last meeting, there is no process for succession outlined in the West Virginia state code; it is up to the County Commission to "design a process". 
 

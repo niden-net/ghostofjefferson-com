@@ -2,10 +2,11 @@
 layout: post
 title: Income Inequality and Red vs Blue
 author: esimon
-date: '2014-05-11 00:00:00'
+date: '2014-06-11 00:00:00'
 categories:
   - Archives
 tags:
+  - Economics
   - Politics
 ---
 There's been a lot of chatter in print lately as to whether or not, in the next election cycle or two, West Virginia is going to change from "blue state" to "red state". Over the weekend this headline appeared in the Pittsburgh Post-Gazette with a dateline posted from Clarksburg, WV: "GOP hopes to end Dems' hold on W.Va. - The party's recent policies, including those on the environment, seem to be helping turn blue state red." It included a quote from Congressman David McKinley who represents West Virginia's first congressional district, "I don't think West Virginia is leaving the Democratic Party as much as the Democratic Party is leaving West Virginia". 

@@ -7,7 +7,10 @@ date: '2013-11-27 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - History
+  - Culture
+  - Progressivism
+  - Economics
 ---
 I would like to take this opportunity to wish everyone a Happy Thanksgiving. I have much to be thankful for and I hope that you do too. This time of year reminds me of the song written by Irving Berlin that debuted in the 1954 film "White Christmas" called "Count Your Blessings (Instead of Sheep)". As the song goes - "When I'm worried and I can't sleep, I count my blessings instead of sheep. And I fall asleep counting my blessings". 
 

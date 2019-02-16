@@ -6,7 +6,9 @@ date: '2014-10-22 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Elections
+  - Progressivism
+  - WV
 ---
 MoveOn, recently ran a contest. Soliciting submissions from the public they said, "Together with our friends at MAYDAY.US, we're working to produce a powerful, 30-second ad about the problem of money in politics". By the way, MAYDAY.US on its website discloses that it has raised more than $10.5 Million and describes itself as a "Super PAC to end all Super PACs". Just as World War I was described as the war to end all wars. It's an interesting turn of phrase and I suspect not an accidental one. 
 

@@ -7,7 +7,11 @@ date: '2013-12-04 00:00:00'
 categories:
   - Archives
 tags:
+  - Dems
   - Politics
+  - Social
+  - Civics
+  - Local
 ---
 I hope that you had a wonderful Thanksgiving holiday. Thanksgiving is one of our most time honored American traditions. Traditions are important and evolve from moral values that are passed from generation to generation. The word tradition derives from the Latin verb "tradere", meaning to transmit, to hand over, to give for safekeeping. Safekeeping has a warm and fuzzy sound to it.
 
