@@ -52,7 +52,7 @@ collections:
             fields:
               - {label: "Identifier", name: "identifier", widget: "string"}
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Photo", name: "photo", widget: "string", required: false}
+              - {label: "Photo", name: "photo", widget: "image", required: false}
               - {label: "Website", name: "url", widget: "string", required: false}
               - {label: "Email", name: "email", widget: "string", required: false}
               - {label: "Twitter", name: "twitter", widget: "string", required: false}
