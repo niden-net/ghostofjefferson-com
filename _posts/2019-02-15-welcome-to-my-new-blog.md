@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to  my new Blog!
 author: esimon
-categories: Opinion
+categories: Current
 tags:
   - new beginning
   - blog
