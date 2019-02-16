@@ -55,7 +55,7 @@
                                 <a href="{{ recentNews.url }}">
                                     <span>{{ recentNews.date | date: "%Y-%m-%d" }}</span>
                                 </a>
-                                {{ recentNews.title }}
+                                {{ recentNews.title | strip }}
                             </p>
                         </li>
                         {% endfor %}
@@ -69,8 +69,8 @@
                 <div class="widget-alt widget-alt-about">
                     <div class="head">GOJ Authors</div>
                     <ul>
-                        {% for author in site.data.authors %}
-                        <li>{{ author[1].name }}</li>
+                        {% for author in site.data.authors.member %}
+                        <li>{{ author.name }}</li>
                         {% endfor %}
                     </ul>
                 </div>

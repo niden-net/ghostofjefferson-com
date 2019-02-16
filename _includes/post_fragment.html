@@ -5,17 +5,21 @@
 {% assign minutes_i = num_words    | divided_by: 200 %}
 {% assign diff      = minutes_f    | minus: minutes_i %}
 {% if diff >= 0.5 %}
-{% assign minutes = minutes_i | plus: 1 %}
+    {% assign minutes = minutes_i | plus: 1 %}
 {% else %}
-{% assign minutes = minutes_i %}
+    {% assign minutes = minutes_i %}
 {% endif %}
 
 {% if minutes <= 1 %}
-{% assign reading_time = '1' | append: ' minute' %}
+    {% assign reading_time = '1' | append: ' minute' %}
 {% else %}
-{% assign reading_time = minutes | append: ' minutes' %}
+    {% assign reading_time = minutes | append: ' minutes' %}
 {% endif %}
-
+{% for item in site.data.authors.member %}
+{% if post.author == item.identifier %}
+{% assign author = item %}
+{% endif %}
+{% endfor %}
                 <!-- post -->
                 <div class="item" itemscope="" itemtype="http://schema.org/BlogPosting">
                     <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
@@ -35,7 +39,7 @@
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </h2>
                             <div class="post-info">
-                                <span><i class="fa fa-user"></i>by {{ site.data.authors[post.author].name }}</span>
+                                <span><i class="fa fa-user"></i>by {{ author.name }}</span>
                                 <span itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
                                     {{ post.date | date: "%Y-%m-%d" }}
                                 </span>

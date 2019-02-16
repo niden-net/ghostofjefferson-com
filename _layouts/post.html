@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% for item in site.data.authors.member %}
+{% if page.author == item.identifier %}
+    {% assign author = item %}
+{% endif %}
+{% endfor %}
+
                 <!-- blog -->
                 <div class="blog single-item">
                     <!-- post -->
@@ -11,7 +17,7 @@ layout: default
                                 <h3><a href="{{ post.url }}">{{ page.subtitle | strip }}</a></h3>
                                 <div class="post-info">
                                     <span>
-                                        <i class="fa fa-user"></i>by {{ site.data.authors[page.author].name }}
+                                        <i class="fa fa-user"></i>by {{ author.name }}
                                     </span>
 									<span>{{ page.date | date: "%Y-%m-%d" }}</span>
 									<!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
@@ -44,13 +50,16 @@ layout: default
                     <!-- author-info -->
                     <div class="author-info">
                         <div class="clearfix">
-                            {% if site.data.authors[page.author].name %}
-                            <img src="{{ site.data.authors[page.author].name }}"
-                                 alt="{{ site.data.authors[page.author].name }}">
+                            {% if author.image %}
+                            <img src="{{ author.image }}"
+                                 alt="{{ author.image }}">
                             {% endif %}
                             <div class="text">
-                                <h2>{{ site.data.authors[page.author].name }}</h2>
-                                <p>{{ site.data.authors[page.author].name }} Bio</p>
+                                <h2>{{ author.name }}</h2>
+                                <p>
+                                    {{ author.bio | truncatewords: 40 }}
+                                    [<a href="/authors/{{ author.identifier }}">More...</a>]
+                                </p>
                                 <div class="cross"></div>
                                 <div class="social-button">
                                     <a href="#" class="social"><i class="fa fa-twitter"></i></a>
