@@ -1,6 +1,8 @@
 ---
 layout: default
 name: Elliot Simon
+url: 'https://ghostofjefferson.com'
+date: '2019-02-15'
 bio: >-
   Elliot Simon was a 2012 Republican candidate for District 67 of the West
   Virginia House of Delegates. He previously ran for election to House District
