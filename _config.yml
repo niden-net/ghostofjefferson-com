@@ -10,10 +10,14 @@ analytics: 'UA-132973672-1'
 paginate: 6
 paginate_path: '/page-:num'
 include:
+  - _authors
   - _pages
   - _redirects
 
 #excerpt_separator: <!--more-->
+collections:
+  authors:
+    output: true
 
 plugins:
   - jekyll-sitemap

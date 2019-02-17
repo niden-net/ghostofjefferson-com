@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{% assign articles = 0 %}
+{% for post in site.posts %}{% if post.author == 'esimon' %}{% assign articles = articles | plus: 1 %}{% endif %}{% endfor %}
+{% if articles > 1 %}{% assign articles = articles | append: ' articles' %}{% else %}{% assign articles = articles | append: ' article' %}{% endif %}
+                <!-- author info -->
+                <div class="author-info">
+                    <div class="clearfix">
+                        {% if page.photo %}
+                        <img src="{{ page.photo }}" alt="{{ page.name }}">
+                        {% else %}
+                        <img src="pic/authors/item-1.jpg" alt="{{ page.name }}">
+                        {% endif %}
+                        <div class="text">
+                            <h2><a href="{{ page.url }}">{{ page.name }}</a></h2>
+                            <h4>{{ articles }}</h4>
+                            <p>
+                                {{ page.content }}
+                            </p>
+                            <div class="cross"></div>
+                            <div class="social-button">
+                                <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                <a href="#" class="social"><i class="fa fa-skype"></i></a>
+                                <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                                <a href="#" class="social"><i class="fa fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/ author info -->
