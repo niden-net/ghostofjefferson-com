@@ -18,13 +18,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - label: "Author"
-        name: "author"
-        widget: "relation"
-        collection: "settings"
-        searchFields: ["name", "identifier"]
-        valueField: "identifier"
-        displayFields: ["name"]
+      - {label: "Author", name: "author", widget: "string"}
       - {label: "Categories", name: "categories", widget: "select", options: ["News", "Current", "Archives"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
