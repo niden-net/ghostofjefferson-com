@@ -2,10 +2,15 @@ name: 'The Ghost of Jefferson'
 author: ''
 description: 'The Ghost of Jefferson - We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.'
 keywords: 'jefferson, ghost, jefferson county, west virginia'
-email: ''
-facebook:
 rss: 'Ghost of Jefferson'
 analytics: 'UA-132973672-1'
+social:
+  email: 'editor@ghostofjefferson.com'
+  facebook: 'https://www.facebook.com/Ghost-of-Jefferson-312667989390380'
+  twitter: ''
+  gab: ''
+  youtube: ''
+  mewe: ''
 
 paginate: 6
 paginate_path: '/page-:num'

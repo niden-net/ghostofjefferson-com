@@ -9,15 +9,14 @@
                         <li>Ghost of Jefferson</li>
                         <li>West Virginia, USA</li>
                         <li>
-                            P: <br>
-                            <a href="#">E: </a><br>
+<!--                            P: <br>-->
+                            <a href="mailto:{{ site.social.email }}">E: {{ site.social.email }}</a><br>
                             <a href="https://ghostofjefferson.com">GhostOfJefferson.com</a>
                         </li>
                         <li>
-                            <a href="#" class="social"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="social"><i class="fa fa-facebook"></i></a>
-                            <!--<a href="#" class="social"><i class="fa fa-skype"></i></a>-->
-                            <a href="#" class="social"><i class="fa fa-rss"></i></a>
+                            <a href="{{ site.social.twitter }}" class="social"><i class="fa fa-twitter"></i></a>
+                            <a href="{{ site.social.facebook }}" class="social"><i class="fa fa-facebook"></i></a>
+                            <a href="/feed.xml" class="social"><i class="fa fa-rss"></i></a>
                         </li>
                     </ul>
                 </div>

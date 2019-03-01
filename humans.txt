@@ -10,4 +10,4 @@ From: Charles Town, WV, USA
 Last update: 2019-01-10
 Doctype: HTML5
 Standards: HTML5, CSS3
-Components: Jekyll, Netlify, NetlifyCMS, Twitter Bootstrap, jQuery, Google Fonts, highlight.js
+Components: Jekyll, Netlify, NetlifyCMS, Twitter Bootstrap Google Fonts
