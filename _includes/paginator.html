@@ -1,21 +1,27 @@
                 {% if paginator.total_pages > 1 %}
                 <!-- pagination -->
                 <div class="pagination">
-                    <a href="{% if paginator.previous_page %}{{ paginator.previous_page_path | relative_url }}{% else %}#{% endif %}" class="active">
-                        Previous
+                    {% if paginator.total_pages > 1 %}
+                        {% if paginator.first_page %}
+                    <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' }}">
+                        First
                     </a>
-                    {% for page in (1..paginator.total_pages) %}
-                        {% if page == paginator.page %}
-                    <a href="#" class="active">{{ page }}</a>
-                        {% elsif page == 1 %}
-                    <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
-                        {% else %}
-                    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
                         {% endif %}
-                    {% endfor %}
-                    <a href="{% if paginator.next_page %}{{ paginator.next_page_path | relative_url }}{% else %}#{% endif %}" class="active">
-                        Next
+
+                        {% if paginator.page_trail %}
+                        {% for trail in paginator.page_trail %}
+                    <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' }}" title="{{trail.title}}">
+                        {{ trail.num }}
                     </a>
+                        {% endfor %}
+                        {% endif %}
+
+                        {% if paginator.last_page %}
+                    <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' }}">
+                        Last
+                    </a>
+                        {% endif %}
+                    {% endif %}
                 </div>
                 {% endif %}
                 <!--/ pagination -->

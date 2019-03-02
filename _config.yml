@@ -12,12 +12,21 @@ social:
   youtube: ''
   mewe: ''
 
-paginate: 6
-paginate_path: '/page-:num'
 include:
   - _authors
   - _pages
   - _redirects
+
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: '/page-:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 
 #excerpt_separator: <!--more-->
 collections:
@@ -27,8 +36,7 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-archives
 
 jekyll-archives:
