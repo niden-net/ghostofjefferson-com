@@ -1,5 +1,6 @@
 ---
 layout: author
+author: esimon
 name: Elliot Simon
 url: 'https://ghostofjefferson.com'
 photo: 'https://ucarecdn.com/0541df61-f481-44ad-9d9b-e474e9512703/'
