@@ -69,7 +69,11 @@
                     <div class="head">GOJ Authors</div>
                     <ul>
                         {% for author in site.data.authors.member %}
-                        <li>{{ author.name }}</li>
+                        <li>
+                            <a href="/authors/{{ author.identifier }}">
+                                {{ author.name }}
+                            </a>
+                        </li>
                         {% endfor %}
                     </ul>
                 </div>
