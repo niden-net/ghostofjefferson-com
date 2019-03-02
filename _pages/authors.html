@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: /authors
+---
+                <!-- authors grid -->
+                <div class="grid-row">
+                    <ul class="authors-grid">
+                        {% for author in site.authors %}
+                        <li>
+                            <div class="author-info">
+                                <div class="clearfix">
+                                    {% if author.photo %}
+                                    <img src="{{ author.photo }}"
+                                         alt="{{ author.name }}">
+                                    {% endif %}
+                                    <div class="text">
+                                        <h2>
+                                            <a href="/authors/{{ author.identifier }}">
+                                                {{ author.name }}
+                                            </a>
+                                        </h2>
+                                        <p>
+                                            {{ author.content | truncatewords: 40 }}
+                                            [<a href="/authors/{{ author.identifier }}">More...</a>]
+                                        </p>
+                                        <div class="cross"></div>
+                                        <div class="social-button">
+                                            <a href="#" class="social"><i class="fa fa-twitter"></i></a>
+                                            <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                            <a href="#" class="social"><i class="fa fa-skype"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- /authors grid -->
