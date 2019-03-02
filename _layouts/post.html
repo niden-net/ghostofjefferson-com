@@ -30,14 +30,18 @@ layout: default
                             <!--/content-->
                             <span class="tag-links">
                                 {% for tag in page.tags %}
-                                <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+                                <a href="/tags/{{ tag | downcase | slugify }}">{{ tag }}</a>
                                 {% endfor %}
                             </span>
                             <!-- item footer -->
                             <div class="item-footer">
                                 <span>share on:</span>
-                                <a href="#" class="social"><i class="fa fa-twitter"></i></a>
-                                <a href="#" class="social"><i class="fa fa-facebook"></i></a>
+                                <a href="http://twitter.com/home?status={{ post.url | prepend: site.url | uri_escape}}"
+                                   target="_blank"
+                                   class="social"><i class="fa fa-facebook"></i></a>
+                                <a href="https://facebook.com/sharer/sharer.php?u={{ post.url | prepend: site.url | uri_escape }}"
+                                   target="_blank"
+                                   class="social"><i class="fa fa-facebook"></i></a>
 <!--                                <a href="/feed.rss" class="social"><i class="fa fa-rss"></i></a>-->
                             </div>
                             <!--/item footer -->
@@ -59,9 +63,9 @@ layout: default
                                 </p>
                                 <div class="cross"></div>
                                 <div class="social-button">
-                                    <a href="#" class="social"><i class="fa fa-twitter"></i></a>
-                                    <a href="#" class="social"><i class="fa fa-facebook"></i></a>
-                                    <a href="#" class="social"><i class="fa fa-rss"></i></a>
+<!--                                    <a href="#" class="social"><i class="fa fa-twitter"></i></a>-->
+<!--                                    <a href="#" class="social"><i class="fa fa-facebook"></i></a>-->
+<!--                                    <a href="#" class="social"><i class="fa fa-rss"></i></a>-->
                                 </div>
                             </div>
                         </div>
