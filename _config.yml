@@ -10,6 +10,8 @@ social:
   twitter: ''
   gab: ''
   mewe: ''
+  fb_likes: 20
+  tw_followers: 1
 
 include:
   - _authors
