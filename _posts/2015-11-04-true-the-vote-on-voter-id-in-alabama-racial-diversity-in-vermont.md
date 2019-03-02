@@ -6,7 +6,9 @@ date: '2015-11-04 00:00:00'
 categories:
   - Archives
 tags:
+  - Elections
   - Politics
+  - Social
 image: 'https://ucarecdn.com/51f40e01-cd3b-416e-b914-270ae0c5c6ce/'
 ---
 How about this headline from CNN last month, "Clinton: Alabama voting restrictions 'a blast from the Jim Crow past'" Beyond divisive, it's incendiary. It's also disingenuous and just plain wrong. The article goes on to say, "The Alabama Law Enforcement Agency announced last week that an $11 million cut in the budget would force the closing of 31 part-time, county-owned satellite locations at which residents can obtain or renew their licenses…Democrats have charged that the governor's decision to close identification offices is politically motivated due to the state's strict voter identification laws and will disproportionately affect African-American voters".

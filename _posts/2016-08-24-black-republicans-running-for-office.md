@@ -6,13 +6,14 @@ categories:
   - Archives
 tags:
   - Politics
+  - Elections
 date: '2016-08-24 00:00:00'
 ---
 According to the website for the City of Ranson, the African American Heritage Festival takes place annually on the third Saturday of August. That was this past Saturday. My wife and I participated as part of the Jefferson County GOP contingent. The GOP float contained signs bearing the names of current candidates. There were also signs bearing the names and faces of prominent African American Republicans; historic figures such as Frederick Douglas and Martin Luther King Jr. However, African American participation in the GOP is not just a thing of the past. 
 
 The Jefferson County Republican Executive Committee (JCREC) states on its website that it is "the elected body established by WV state code and tasked with maintaining the Republican Party's organization on the county level. It is comprised of one man and one woman from each of the five Magisterial Districts within Jefferson County". 
 
-There are ten seats on the Jefferson County Republican Executive Committee – two of which are currently held by African Americans. One of those, Jill Upson, is a member of the West Virginia House of Delegates. Doing the math, that means that 20% of the county Republican Executive Committee members are African American. According to the US Census, the 2015 estimate of the black population of our county is 6.8%. There aren't any African Americans on the Executive Committee of the Jefferson County Democrats. 
+There are ten seats on the Jefferson County Republican Executive Committee - two of which are currently held by African Americans. One of those, Jill Upson, is a member of the West Virginia House of Delegates. Doing the math, that means that 20% of the county Republican Executive Committee members are African American. According to the US Census, the 2015 estimate of the black population of our county is 6.8%. There aren't any African Americans on the Executive Committee of the Jefferson County Democrats. 
 
 In fact, according to BlackDemographics.com, in 2012, the percentage of blacks registered as Republicans was higher than it had been since 1960. The site provides a new data point for each presidential election year. It will be interesting to see their update for 2016. In spite of the popularity of FDR among blacks, in 1940 black voter registration was evenly split between the Democrats and Republicans at 42% each. 
 

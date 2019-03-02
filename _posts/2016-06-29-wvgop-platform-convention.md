@@ -6,9 +6,11 @@ categories:
   - Archives
 tags:
   - Politics
-date: '2016-07-29 00:00:00'
+  - Policy
+  - WV
+date: '2016-06-29 00:00:00'
 ---
-I attended the West Virginia GOP convention this past Saturday in Charleston serving as a delegate from the Harpers Ferry district. The main purpose of the convention was to draft and adopt the party's platform. It is held every four years – the previous one was in Beckley in 2012.
+I attended the West Virginia GOP convention this past Saturday in Charleston serving as a delegate from the Harpers Ferry district. The main purpose of the convention was to draft and adopt the party's platform. It is held every four years - the previous one was in Beckley in 2012.
 
 The WVGOP is an organization that is on the rise. One of the reasons for that is that the platform process is open and transparent. Selection of delegates is done at the local level. The Jefferson County Republican Executive Committee held a local convention several weeks back and delegates were selected to attend the state party convention. 
 
@@ -32,13 +34,13 @@ During the debate it became clear that this clause was aimed at the subsidies pr
 
 Kerchival adds, "Tomblin is connected to the greyhound industry. His late mother, Freda, operated a kennel in Logan County for years. After her death, Tomblin's nephew, Carl Tomblin II, assumed operation of the kennel". So, the outgoing governor, a Democrat, has diverted funds that were intended for the horse racing industry, an industry that is part our local economy, to an industry with a personal family connection. 
 
-Now, about those so-called subsidies to the gambling industry. Member of the House of Delegates, Mike Folk from Berkeley County provided some good insight into this issue. What he said is that the gambling industry is taxed differently than other industries in the state. He pointed out that the state taxes that industry at a rate of over 50% and it is calculated on the top line – the revenue line – not the bottom line, the profits. The state takes its take before expenses. 
+Now, about those so-called subsidies to the gambling industry. Member of the House of Delegates, Mike Folk from Berkeley County provided some good insight into this issue. What he said is that the gambling industry is taxed differently than other industries in the state. He pointed out that the state taxes that industry at a rate of over 50% and it is calculated on the top line - the revenue line - not the bottom line, the profits. The state takes its take before expenses. 
 
-Based on the fact that state takes more than half of the revenue – again understand that this more than half of revenue, not the profits – the state of West Virginia is in essence the majority shareholder of the entire gaming industry. That isn't really "state sponsored gambling", it's something else. Therefore, any funds that the state provides for the gaming industry aren't really subsidies, to my mind they can be looked at as shareholder contributions to capital improvements. 
+Based on the fact that state takes more than half of the revenue - again understand that this more than half of revenue, not the profits - the state of West Virginia is in essence the majority shareholder of the entire gaming industry. That isn't really "state sponsored gambling", it's something else. Therefore, any funds that the state provides for the gaming industry aren't really subsidies, to my mind they can be looked at as shareholder contributions to capital improvements. 
 
 In my humble opinion, the state should normalize the industry tax-wise, therefore truly privatizing it. That would end the "state sponsored" qualification referenced in the platform item. It would also free up capital that the industry could then reinvest to make the local industry more competitive with the new competition that is coming on board in neighboring states. Just my two cents. 
 
 All in all, the WVGOP platform is a good one that helps keep the momentum going. The 2012 platform provided the basis for a successful election cycle for the WVGOP and the 2016 edition should help to continue that success. Our job as voters is to hold candidates and elected officials accountable to the party platform. If we do, West Virginia is on the right track. 
 
-West Virginia recently had a birthday – happy 153rd to our great state. This weekend we celebrate the birth of our great nation, born 240 years ago. I wish everyone a great Independence Day and Fourth of July weekend. 
+West Virginia recently had a birthday - happy 153rd to our great state. This weekend we celebrate the birth of our great nation, born 240 years ago. I wish everyone a great Independence Day and Fourth of July weekend. 
 

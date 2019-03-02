@@ -6,7 +6,10 @@ date: '2015-12-23 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Local
+  - Second Amendment
+  - Media
+  - 2A
 ---
 Voltaire was, according to Wikipedia a "French enlightenment writer, historian and philosopher." He believed in freedom of religion, freedom of expression and separation of Church and State just like our Founding Fathers. He was a versatile writer, producing works in almost every literary form, including plays, poems, novels, essays, and historical and scientific works.
 

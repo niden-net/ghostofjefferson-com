@@ -5,7 +5,8 @@ author: esimon
 categories:
   - Archives
 tags:
-  - Politics
+  - Property Rights
+  - Constitution
 date: '2016-09-21 00:00:00'
 image: 'https://ucarecdn.com/e2297a02-6288-4776-b618-62184f811200/'
 ---
@@ -33,7 +34,7 @@ Regarding West Virginia, the Institute for Justice recommends that, "first, law 
 
 The recommendation regarding placing the revenue in a neutral fund like the state's general fund is a good one. One of the reforms implemented by Attorney General Patrick Morrisey shortly after taking office did just that. His predecessor kept all funds collected in judgments "in house", in a department account. By contrast, Morrisey has turned over millions of dollars collected in judgments to the state's general fund. 
 
-With state and local governments experiencing budgetary shortfalls, the temptation to generate revenue through civil asset forfeiture will increase. I think it's astonishing that we need laws to protect citizens from this sort of government abuse. Our need to curb drug abuse –and we certainly need to find solutions to that problem -- should not allow government to trample property rights. Property rights are a cornerstone of civilization. 
+With state and local governments experiencing budgetary shortfalls, the temptation to generate revenue through civil asset forfeiture will increase. I think it's astonishing that we need laws to protect citizens from this sort of government abuse. Our need to curb drug abuse -and we certainly need to find solutions to that problem -- should not allow government to trample property rights. Property rights are a cornerstone of civilization. 
 
 In our Constitution, in the Fourth Amendment of the Bill of Rights, it says, "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized." Any questions?
 

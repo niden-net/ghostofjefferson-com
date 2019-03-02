@@ -6,11 +6,12 @@ categories:
   - Archives
 tags:
   - Politics
+  - International
 date: '2016-06-22 00:00:00'
 ---
 Most financial advisors will tell you that it is extremely difficult, if not impossible, to time markets. It's hard to predict when the top (or bottom) is in. Human phenomena, social movements, economic ups and downs and political changes, even wars tend to run in cycles. To everything, "turn, turn, turn". We usually see inflection points through the lens of history, in hindsight. And often we underestimate the tremendous amount of inertia involved. 
 
-As the progressive economist John Maynard Keynes once said, "Markets can remain irrational longer than you can remain solvent". That's another way of saying don't try to predict when any particular phase, like market ups and downs, will end. However, I think we can apply that insight to governments and groups of people as well – that can stay irrational for much longer than we might hope or expect. 
+As the progressive economist John Maynard Keynes once said, "Markets can remain irrational longer than you can remain solvent". That's another way of saying don't try to predict when any particular phase, like market ups and downs, will end. However, I think we can apply that insight to governments and groups of people as well - that can stay irrational for much longer than we might hope or expect. 
 
 In 1841, Scottish journalist Charles Mackay published his most famous work, Extraordinary Popular Delusions and the Madness of Crowds. It had three parts, "National Delusions", "Peculiar Follies" and "Philosophical Delusions". If Mackay were alive today I wonder what he would think of "Reality" television. 
 
@@ -30,5 +31,5 @@ According to one report, it is estimated that there are some 700,000 people on v
 
 During her news conference Clinton stated, "We may have our disagreements about gun safety regulations, but we should all be able to agree on a few essential things." Absolutely. We need to agree that the Constitution is the law of the land. The Fifth Amendment, that enshrines due process as an inalienable right; it protects us from politicians like Joe Manchin and Hillary Clinton. Attempts to circumvent the Bill of Rights are disgraceful. If you want to repeal an amendment, there is due process for that also. 
 
-Now I realize that there are those that see themselves as "conservative" that are guilty of similar offenses. That's a subject for another day. For now, I'm getting tired of progressives giving lip service to democracy while working to undermine it – as well as national sovereignty and the rule of law. 
+Now I realize that there are those that see themselves as "conservative" that are guilty of similar offenses. That's a subject for another day. For now, I'm getting tired of progressives giving lip service to democracy while working to undermine it - as well as national sovereignty and the rule of law. 
 

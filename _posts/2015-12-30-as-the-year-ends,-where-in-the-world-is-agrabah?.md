@@ -7,6 +7,7 @@ categories:
   - Archives
 tags:
   - Politics
+  - Education
 ---
 Previously I wrote about Travis Bishop, the proprietor of the gun shop in Martinsburg that reported an alleged attempted straw purchase of a firearm - in violation of federal law. In the column I noted that local television station, NBC affiliate WHAG based in Hagerstown Maryland had not responded to an invitation to cover the story and according to Bishop were not interested in covering the story. I had reached out to WHAG to get their input for my column and had not heard from them prior to my deadline to submit my column to the Spirit. 
 

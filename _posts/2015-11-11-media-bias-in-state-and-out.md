@@ -6,7 +6,8 @@ date: '2015-11-11 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Media
+  - WV
 ---
 The presidential debate featuring the Republican presidential hopefuls conducted by cable television outlet CNBC, an NBC network affiliate caused a bit of stir. The conduct of the "moderators", an interesting and ironic term that in this case is misapplied, was downright offensive. So much so that the Republican National Committee severed ties with the network citing "bad faith". My how journalism has fallen.
 

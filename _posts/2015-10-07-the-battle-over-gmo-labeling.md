@@ -6,7 +6,8 @@ date: '2015-10-07 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Food
+  - Education
 ---
 There's a controversial bill, HR 1599, named the "Safe and Accurate Food Labeling Act of 2015" that has passed the US House of Representatives and is now under consideration by the US Senate. To some the title of the bill is Orwellian - its detractors have called it the "Deny Americans the Right to Know" or "Dark Act". The controversy that surrounds the legislation concerns genetically modified food - otherwise known as "GMOs" (which actually stands for "Genetically Modified Organisms"). 
 

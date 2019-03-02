@@ -6,7 +6,9 @@ date: '2015-12-02 00:00:00'
 categories:
   - Archives
 tags:
+  - Education
   - Politics
+  - WV
 ---
 I hope everyone had a wonderful Thanksgiving. However, while we were celebrating the holiday congress was at it again. It's another, we have to pass the bill to see what's in it - but with additional intrigue thrown in for good measure. 
 

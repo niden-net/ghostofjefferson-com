@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Boone County WV Elects a Republican Delegate For the First Time Ever
+subtitle: WV to GOP - Right to Work
 author: esimon
 date: '2014-12-17 00:00:00'
 categories:

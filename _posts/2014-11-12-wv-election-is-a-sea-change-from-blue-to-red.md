@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WV Election is a Sea Change from Blue to Red
+subtitle: Skinner - Money in Politics
 author: esimon
 date: '2014-11-12 00:00:00'
 categories:

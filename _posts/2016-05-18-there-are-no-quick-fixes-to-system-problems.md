@@ -5,7 +5,9 @@ author: esimon
 categories:
   - Archives
 tags:
-  - Politics
+  - WV
+  - Policy
+  - Economics
 date: '2016-05-18 00:00:00'
 ---
 Most people understand that the environment is a dynamic system and that there are consequences to actions, most people do not understand that the economy is also a dynamic system. If you try to engineer it, you often get results that aren't pleasant. In fact, sometimes they are downright ugly. 

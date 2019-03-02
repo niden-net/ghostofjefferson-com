@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mailgate Revisited
+subtitle: Walker - Householder
 author: esimon
 date: '2014-07-23 00:00:00'
 categories:

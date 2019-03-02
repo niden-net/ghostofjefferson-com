@@ -1,6 +1,7 @@
 ---
 layout: post
 title: And the State Ranked "Most Socialist" Is...
+subtitle: S. Blair - Sobbel
 author: esimon
 date: '2014-12-03 00:00:00'
 categories:

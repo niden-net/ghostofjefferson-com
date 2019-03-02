@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Progressivism's Population Redux
+subtitle: Malthus - Pianka
 author: esimon
 date: '2014-10-15 00:00:00'
 categories:

@@ -6,7 +6,8 @@ date: '2015-09-09 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Sports
+  - Social
 ---
 Labor Day has come and gone and football season is upon us. During the off season there have been several high profile domestic violence incidents involving NFL players that are marquee names. One of those is Ray Rice, former star running back of the Baltimore Ravens. 
 

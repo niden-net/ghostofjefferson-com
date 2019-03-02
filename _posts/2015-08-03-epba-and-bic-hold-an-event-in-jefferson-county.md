@@ -6,7 +6,10 @@ date: '2015-08-03 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Economics
+  - Civics
+  - Taxes
+  - WV
 ---
 There's a sign that is familiar to most of us as we cross the border on our way home to West Virginia from neighboring states. It says: "West Virginia - Open for Business". There are similar signs that dot the landscape as we drive from one county to another declaring the local county to be a "certified business location". I'm tempted to ask the rhetorical question: "Certified by whom?" However, it doesn't matter. The marketplace has its own way of certifying localities as to how open they are for business - or not. 
 

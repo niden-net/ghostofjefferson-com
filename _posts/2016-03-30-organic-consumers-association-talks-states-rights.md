@@ -5,7 +5,8 @@ author: esimon
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - States Rights
 date: '2016-03-30 00:00:00'
 ---
 Progressives, otherwise known as modern liberals, tend to view the world as being made up of very big pieces. They like their government to be big and take every opportunity to make it as powerful and intrusive as possible. And, whether they like to admit it or not, they like their corporations big also. That makes their beloved big and powerful unions possible. 
@@ -14,7 +15,7 @@ Conservatives, also known as classical liberals, tend to break the world up into
 
 When it comes to politics, however, sometimes you can't tell the players without a scorecard. On many issues, conservatives and progressives get caught off-side. Progressives start talking like conservatives and conservatives start talking like progressives. It makes for some interesting rhetorical moments. 
 
-Take for example the recent vote in the senate regarding the labeling of GMOs – genetically modified food. The state of Vermont has a new law that goes in to effect on July 1st that will require all foods that have GMO content to be labeled as such. Sounds reasonable enough. To my mind, one of the few legitimate functions of government is to ensure adequate disclosure so that consumers can make educated decisions. Vermont's law doesn't ban GMOs, it simply requires that products that contain them be labeled. 
+Take for example the recent vote in the senate regarding the labeling of GMOs - genetically modified food. The state of Vermont has a new law that goes in to effect on July 1st that will require all foods that have GMO content to be labeled as such. Sounds reasonable enough. To my mind, one of the few legitimate functions of government is to ensure adequate disclosure so that consumers can make educated decisions. Vermont's law doesn't ban GMOs, it simply requires that products that contain them be labeled. 
 
 In response to the Vermont GMO labeling law, there were two pieces of legislation introduced in congress, one in the house and one in the senate that aimed at nullifying it. In the house it was HR 1599 and in the senate is was S 2609. Each bill became known by its detractors as the "Deny Americans the Right to Know" or "DARK" Act. 
 

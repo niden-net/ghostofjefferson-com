@@ -6,7 +6,9 @@ date: '2015-06-24 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Education
+  - WV
+  - Common Core
 ---
 According to an article that appeared in the Charleston Gazette a couple weeks back, there are eleven counties in West Virginia that will be "reverting to traditional high school math classes...that predated the national Common Core". Those eleven counties include, Brooke, Calhoun, Greenbrier, Hardy, Harrison, Kanawha, Mason, Morgan, Pendleton, Putnam and Ritchie. There are 15 counties, including Berkeley that have indicated that they will stay with the new "integrated" courses of Math I, II and III. Jefferson County has not indicated which way it will go regarding the teaching of Math. 
 

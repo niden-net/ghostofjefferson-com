@@ -6,7 +6,8 @@ date: '2015-09-16 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Constitution
+  - States Rights
 ---
 Anti-Washington sentiment is sweeping the nation. According to a very recent Rasmussen poll, only 2% of "likely voters" believe that congress is doing an "excellent" job, while another 7% believe it is doing a "good" job. There are 25% that rate its performance as "fair" and 63% call it "poor". Apparently there are 3% that can't bring themselves to even think about it. I don't blame them. 
 

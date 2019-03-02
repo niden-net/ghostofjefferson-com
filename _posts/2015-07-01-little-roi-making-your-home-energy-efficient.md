@@ -4,7 +4,9 @@ title: Little ROI Making Your Home Energy Efficient
 author: esimon
 categories: Archives
 tags:
-  - Politics
+  - Science
+  - Policy
+  - Economics
 date: '2015-07-01 04:00:00'
 ---
 With all of the hoopla surrounding recent Supreme Court Decisions, it's hard to keep up. One of the most recent is Michigan v. EPA. Reacting to the decision, West Virginia Attorney General Patrick Morrisey said, "I am thrilled that, for the second year in a row, the Supreme Court agreed with my Office's argument that the EPA violated the Clean Air Act in imposing a costly regulation on the American people". He added that the decision means that, "the U.S. Environmental Protection Agency must consider the economic costs of complying with the regulations it imposes".

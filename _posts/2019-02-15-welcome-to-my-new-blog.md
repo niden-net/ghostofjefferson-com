@@ -4,9 +4,9 @@ title: Welcome to  my new Blog!
 author: esimon
 categories: Current
 tags:
-  - new beginning
-  - blog
-  - commentary
+  - New Beginning
+  - Blog
+  - Commentary
 date: '2019-02-15 03:52:10'
 image: 'https://ucarecdn.com/957bbdc0-0e08-46bd-b358-dae2736c84da/'
 ---
@@ -27,10 +27,10 @@ However, the next example, in my humble opinion a more egregious one, involved t
 
 So, who is Mr. Riley?  Prior to quoting Politifact, I wrote... "the left leaning Politifact evaluated the claim of journalist Jason Riley, an African American, regarding voter ID laws".
 
-Now here comes the rub.  After submitting the article to the Spirit, the words "an African American" were edited out.  The editor didn’t feel that I should say that and refused to allow those words to remain in the article.
+Now here comes the rub.  After submitting the article to the Spirit, the words "an African American" were edited out.  The editor didn't feel that I should say that and refused to allow those words to remain in the article.
 
 I'll leave it to you dear reader to draw your own conclusions regarding this edit.  As for me, I could not accept it.  I need to be free to express myself, otherwise there is no point to it.  The editor proposed that we meet to resolve the issue.  I said to name the time and place and I'll be there.  Never heard back.
 
-With apologies to Paul Harvey, now you know "the rest of the story". But that was then and this is now.  No hard feelings.  A big thank you to the Spirit and especially to Rob Snyder for including me in the Spirit’s editorial presentations – he was great to work with.  
+With apologies to Paul Harvey, now you know "the rest of the story". But that was then and this is now.  No hard feelings.  A big thank you to the Spirit and especially to Rob Snyder for including me in the Spirit's editorial presentations - he was great to work with.  
 
 Welcome to my new residence on the internet.  I'm going to pick up where I left off in late 2016.  There is a lot to write about!

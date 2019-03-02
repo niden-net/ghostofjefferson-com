@@ -6,7 +6,11 @@ date: '2015-08-12 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Climate
+  - Science
+  - Policy
+  - Progressivism
 ---
 Thomas Hobbes writing in his famous work Leviathan said, "They that approve a private opinion, call it opinion; but they that mislike it, heresy: and yet heresy signifies no more than private opinion".  Leviathan was published in 1651 and the "private opinions" it espoused caused the English bishops to use their influence in the House of Lords to sponsor a motion to have him burned as a heretic. However, they had to settle for a mere condemnation by Parliament - and Hobbes was ordered to stop publishing such controversial books. He lived to be 91. 
 

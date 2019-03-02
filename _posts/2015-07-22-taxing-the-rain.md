@@ -6,17 +6,16 @@ date: '2015-07-22 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Taxes
+  - Economics
+  - Local
 ---
 The Beatles once recorded a song called "Taxman", written by one of their own, the late George Harrison. It appeared on their Revolver album (yes, it was indeed a gun reference). The lyrics go, 
 
- If you drive a car, I'll tax the street
-
- If you try to sit, I'll tax your seat
-
- If you get too cold, I'll tax the heat
-
- If you take a walk, I'll tax your feet
+> If you drive a car, I'll tax the street
+> If you try to sit, I'll tax your seat
+> If you get too cold, I'll tax the heat
+> If you take a walk, I'll tax your feet
 
 The Beatles could hardly be accused of being politically conservative, but the song was a strident protest against the progressive tax system in the UK. It was also somewhat prescient, as in today's world there is what is referred to as a "rain tax" - the first such tax having been enacted in Maryland more than three years ago. The tax was in response to the Chesapeake Bay initiative and was imposed on what are referred to as "impervious surfaces" - like the skulls of some politicians. 
 

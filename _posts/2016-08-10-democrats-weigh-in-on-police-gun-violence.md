@@ -7,6 +7,9 @@ categories:
 tags:
   - Democrats
   - Gun Control
+  - Politics
+  - Second Amendment
+  - 2A
 date: '2016-08-10 00:00:00'
 ---
 According to the Associated Press on July 21: "_Philadelphia's police union is condemning Hillary Clinton for allowing relatives of people killed by police to speak at the Democratic National Convention without giving equal time to families of fallen officers. John McNesby, president of the Fraternal Order of Police Lodge No. 5, said the union is insulted by the decision to exclude families of officers killed in the line of duty._"
@@ -39,7 +42,7 @@ According to a 2014 Washington Post article called "Shedding Light on the Use of
   
 Of equal concern has to do with the alarming trend of the arming of federal agencies.  A Wall Street Journal op-ed piece co-written by former Oklahoma Sen. Tom Coburn asked, "Why Does the IRS Need Guns?" and tells us that "(the) number of non-Defense Department federal officers authorized to make arrests and carry firearms (200,000) now exceeds the number of U.S. Marines (182,000)." In asking the question, "AR-15 Rifles for IRS agents?" the article notes that, "In its escalating arms and ammo stockpiling, this federal arms race is unlike anything in history. Over the last 20 years, the number of these federal officers with arrest-and-firearm authority has nearly tripled to over 200,000 today, from 74,500 in 1996." The article asks the question: "What is the Obama administration up to?" I might add, this is a domestic arms race aimed at U.S. citizens.
   
-From the Boston Globe in June this headline: "The (Food and Drug Administration) is stockpiling military weapons - and it's not alone." The article goes on to list the tens of millions of dollars spent arming such as agencies as the FDA, the Department of Agriculture, the IRS, the Bureau of Public Debt and so on. And has the FDA conducted armed SWAT Raids? According to several reports, yes – against a couple of dairy farms for producing raw milk. You can't make this stuff up.
+From the Boston Globe in June this headline: "The (Food and Drug Administration) is stockpiling military weapons - and it's not alone." The article goes on to list the tens of millions of dollars spent arming such as agencies as the FDA, the Department of Agriculture, the IRS, the Bureau of Public Debt and so on. And has the FDA conducted armed SWAT Raids? According to several reports, yes - against a couple of dairy farms for producing raw milk. You can't make this stuff up.
   
 I attended a luncheon this past weekend hosted by the West Virginia Citizens Defense League, the state-based advocacy organization dedicated to the protection of our gun rights. Art Thomm, the organization's vice president conducted the meeting. While pointing to the organization's success in the Legislature regarding HB 4145, the constitutional carry bill, Thomm also pointed out a couple of interesting statistics, among them that FBI statistics show that in 2011 the total number of gun deaths from all rifles combined, including so-called "assault rifles" was 323. That's right, 323. And that includes all long guns, such as shotguns, not just "assault" rifles. According to Thomm, the number of homicides committed with a hammer that year was in excess of 600. By 2014, the long-gun deaths category had dropped to 248. He didn't elaborate on the hammer statistics for that year.
   

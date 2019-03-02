@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Assault With a Deadly Crayon
+subtitle: 5 Year Old Gun Drawing
 author: esimon
 date: '2014-12-10 00:00:00'
 categories:

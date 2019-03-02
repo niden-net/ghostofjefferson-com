@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Bloomberg: There Isn't Enough Intellectural Diversity at Harvard"
+title: "Bloomberg: There Isn't Enough Intellectual Diversity at Harvard"
+subtitle: Bloomberg - Liberal Intolerance
 author: esimon
 categories: Archives
 tags:

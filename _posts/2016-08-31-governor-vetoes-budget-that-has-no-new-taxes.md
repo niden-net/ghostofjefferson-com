@@ -5,7 +5,9 @@ author: esimon
 categories:
   - Archives
 tags:
-  - Politics
+  - WV
+  - Taxes
+  - Legislation
 date: '2016-08-31 00:00:00'
 image: 'https://ucarecdn.com/50888e1a-b380-4cbe-b001-b17fc3807257/'
 ---
@@ -17,13 +19,13 @@ Now, to be sure, the thought of the government "raking in more tax revenue from 
 
 The idea that cutting taxes spurs economic growth is not a new one. Ironically, in his book, Unleashing Capitalism: Why Prosperity Stops at the West Virginia Border and What We Can Do to Fix It, then West Virginia University economics professor Russell Sobel included a brief section entitled, Charleston WV, Versus Charlotte, NC: A Tale of Two Cities. He goes all the way back to 1920, shortly before the reign of the Democrats in West Virginia began. 
 
-According to Sobel, "Because of their similar histories, the cities of Charleston, West Virginia and Charlotte, North Carolina are interesting to compare. In 1920 both cities had approximately the same average incomes, educational levels, and populations". He goes on to say, "Over the subsequent eight decades, however, Charlotte has grown into a crowning jewel of the South, with a population ten times the size of Charleston (53,421 versus 540,828)". Eight decades – that's almost how long the Democrats had been in charge of the West Virginia legislature. 
+According to Sobel, "Because of their similar histories, the cities of Charleston, West Virginia and Charlotte, North Carolina are interesting to compare. In 1920 both cities had approximately the same average incomes, educational levels, and populations". He goes on to say, "Over the subsequent eight decades, however, Charlotte has grown into a crowning jewel of the South, with a population ten times the size of Charleston (53,421 versus 540,828)". Eight decades - that's almost how long the Democrats had been in charge of the West Virginia legislature. 
 
 Sobel concludes, "What made it possible for Charlotte to sustain a higher rate of growth over such a long period of time? The answer is simply that North Carolina had a set of policies in place that were more conducive to economic growth". Taxes played a big part. 
 
 According to Sobel's book, taxes cost more than they take in. In Chapter 5, "one dollar of taxes costs the West Virginia economy somewhere between $1.60 and $1.82". And while making the point that "High tax counties and states tend to grow slower and have less business activity and employment" he also points out that, "Almost every measure of tax burden indicates that West Virginia is at a competitive disadvantage in attracting businesses and households compared to other states". The book was published almost ten years ago. Had we acted on it's recommendations then, West Virginia would be a much more prosperous place today. 
 
-Last year, in the Fact Checker feature of the Washington Post, there appeared an article headlined, "Rand Paul's claim that Reagan's tax cuts produced ‘more revenue' and ‘tens of millions of jobs'". Fact Checker has been exposed as being notoriously biased --- toward the left. They remind me of the quote most often attributed to Mark Twain – figures don't lie, but liars figure. But let's explore their response to Rand Paul's claim. 
+Last year, in the Fact Checker feature of the Washington Post, there appeared an article headlined, "Rand Paul's claim that Reagan's tax cuts produced ‘more revenue' and ‘tens of millions of jobs'". Fact Checker has been exposed as being notoriously biased --- toward the left. They remind me of the quote most often attributed to Mark Twain - figures don't lie, but liars figure. But let's explore their response to Rand Paul's claim. 
 
 At the time, Paul was one of the many Republican candidates for President. Upon hearing Paul's claim, Fact Checker went right to work in trying to prove him wrong. So much for Fact Checking. Identifying economist Stephen Moore as the source of the claim, they quote him: "…the government's budget numbers show that tax receipts expanded from $517 billion in 1980 to $909 billion in 1988 — close to a 75 percent change (25 percent after inflation)."  Fact Checker's begrudging response? "We checked the historical records of the White House budget office, and those numbers are right. But it's devoid of important context". I refer you to Mark Twain. 
 

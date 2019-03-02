@@ -6,7 +6,9 @@ date: '2015-07-15 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Media
+  - Social
+  - Constitution
 ---
 Although July 4th is now a couple of weeks past, this is my first column post-holiday. I hope that you and yours had a good one. Independence Day commemorates the birth of our great nation for as the song goes, Uncle Sam was "born on the 4th of July". Regarding the song "America", the first stanza begins, "My country ‘tis of thee, sweet land of liberty" and ends with "From every mountain top, let freedom ring". 
 

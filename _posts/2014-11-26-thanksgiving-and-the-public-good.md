@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thanksgiving and the Public Good
+subtitle: Socialism - WV and the colonies
 author: esimon
 date: '2014-11-26 00:00:00'
 categories:

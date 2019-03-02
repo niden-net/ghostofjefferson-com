@@ -6,7 +6,8 @@ date: '2015-10-14 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Elections
+  - Constitution
 ---
 My how time flies. We're in the final quarter of 2015 - which means that we are right around the halfway point of the census period. In all likelihood, when the numbers are collected at the end of the current decade and the task of redistricting is begun, West Virginia will lose one of its members in the US House of Representatives. Relative to other states, West Virginia's population has stagnated. In fact, during the census period that ended in 2010, West Virginia became the first state ever to record more deaths than births. Without significant numbers of folks wanting to re-locate to our state, we will continue to lose ground with to other states with regard to population. 
 

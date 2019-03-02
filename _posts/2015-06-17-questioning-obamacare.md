@@ -6,7 +6,10 @@ date: '2015-06-17 00:00:00'
 categories:
   - Archives
 tags:
-  - Politics
+  - Social
+  - Obamacare
+  - Economics
+  - Policy
 ---
 The Supreme Court has agreed to hear King v. Burwell - a case that could unravel the Patient Protection and Affordable Care Act - also known as Obamacare. This has caused considerable angst across the progressive mainstream media. At the heart of what is being argued before the court is language in the Act as to whether or not the government can legally subsidize healthcare insurance premiums in states that have not set up their own exchanges. 
 

@@ -6,7 +6,10 @@ date: '2015-10-21 00:00:00'
 categories:
   - Archives
 tags:
+  - Progressivism
+  - Economics
   - Politics
+  - Democrats
 ---
 I had no intention of watching the Democrat presidential debate last week. However, my wife started to watch and it wasn't long before morbid curiosity got the better of me. It was like watching reruns of television shows - like Criminal Minds for example - that I had avoided the first time around. 
 
