@@ -9,7 +9,7 @@ How to contact Ghost of Jefferson
 We welcome comments and suggestions. Feel free to interact with us on our social media pages:
 <br>
 <br>
-Twitter: 
+Twitter: <a href="https://twitter.com/ghstofjefferson">@ghstofjefferson</a> 
 <br>
 Facebook: <a href="https://facebook.com/GhostOfJefferson">https://facebook.com/GhostOfJefferson</a> 
 <br>
