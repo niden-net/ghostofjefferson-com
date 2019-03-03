@@ -18,8 +18,8 @@ layout: default
                                     <span>
                                         <i class="fa fa-user"></i>by {{ author.name }}
                                     </span>
-									<span>{{ page.date | date: "%Y-%m-%d" }}</span>
-									<!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
+                                    <span>{{ page.date | date: "%Y-%m-%d" }}</span>
+                                    <!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
                                 </div>
                             </div>
                             <!--/blog item header -->
@@ -93,5 +93,12 @@ layout: default
                         </div>
                     </div>
                     <!--/choose-info -->
+                    <!-- comments -->
+                    <div class="comments">
+                        <div class="fb-comments" 
+                             data-href="https://ghostofjefferson.com{{ page.url | replace: 'index.html', '' }}" 
+                             data-numposts="10"></div>
+                    </div>
+                    <!--/comments -->
                 </div>
                 <!--/blog -->
