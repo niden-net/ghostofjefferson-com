@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Teachers’ Unions Have a Credibility Problem
-author: Elliot Simon
+author: esimon
 categories: Current
 tags:
   - Education
