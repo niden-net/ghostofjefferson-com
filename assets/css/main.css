@@ -8098,3 +8098,10 @@ a:hover {
 	background: #3f3f3f;
 	color: #c1c0b4;
 }
+
+/**/
+/* custom stuff */
+/**/
+.content a {
+	text-decoration: underline;
+}
