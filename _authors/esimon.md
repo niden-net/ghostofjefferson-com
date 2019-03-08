@@ -3,6 +3,7 @@ layout: author
 identifier: esimon
 name: Elliot Simon
 url: 'https://ghostofjefferson.com'
+twitter: 'https://twitter.com/ghstofjefferson'
 photo: 'https://ucarecdn.com/0541df61-f481-44ad-9d9b-e474e9512703/'
 ---
 I'm a retired executive and consultant.  My wife and I have lived up on
@@ -17,4 +18,4 @@ seem to agree on anything.  So for what it's worth, I will be offering my
 opinions in this space as often as time permits.  
 
 
-You can contact me at [editor@ghostofjefferson.com](mailto=editor@ghostofjefferson.com).
+You can contact me at <a href="mailto:editor@ghostofjefferson.com">editor@ghostofjefferson.com</a>.
