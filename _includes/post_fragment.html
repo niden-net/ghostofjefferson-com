@@ -15,7 +15,7 @@
 {% else %}
     {% assign reading_time = minutes | append: ' minutes' %}
 {% endif %}
-{% for item in site.data.authors.member %}
+{% for item in site.data.authors %}
 {% if post.author == item.identifier %}
 {% assign author = item %}
 {% endif %}
@@ -39,7 +39,10 @@
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                             </h2>
                             <div class="post-info">
-                                <span><i class="fa fa-user"></i>by {{ author.name }}</span>
+                                <span>
+                                    <i class="fa fa-user"></i>by
+                                    <a href="/authors/{{ author.identifier }}">{{ author.name }}</span>
+                                </span>
                                 <span itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
                                     {{ post.date | date: "%Y-%m-%d" }}
                                 </span>

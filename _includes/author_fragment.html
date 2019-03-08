@@ -1,6 +1,6 @@
 {% assign articles = 0 %}
 {% for countPost in site.posts %}
-    {% if countPost.author == page.author %}
+    {% if countPost.author == page.identifier %}
         {% assign articles = articles | plus: 1 %}
     {% endif %}
 {% endfor %}
@@ -25,9 +25,12 @@
                             </p>
                             <div class="cross"></div>
                             <div class="social-button">
-                                {% if page.twitter %}<a href="#" class="social"><i class="fa fa-twitter"></i></a>{% endif %}
-                                {% if page.facebook %}<a href="#" class="social"><i class="fa fa-facebook"></i></a>{% endif %}
-                                {% if page.rss %}<a href="#" class="social"><i class="fa fa-rss"></i></a>{% endif %}
+                                {% if page.twitter %}<a href="{{ page.twitter }}" class="social">
+                                    <i class="fa fa-twitter"></i>
+                                </a>{% endif %}
+                                {% if page.facebook %}<a href="{{ page.facebook }}" class="social">
+                                    <i class="fa fa-facebook"></i>
+                                </a>{% endif %}
                             </div>
                         </div>
                     </div>
