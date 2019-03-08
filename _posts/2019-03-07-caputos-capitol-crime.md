@@ -7,15 +7,14 @@ tags:
   - West Virginia
   - Capitol
   - GOP Day
-  - protest
-  - ''
+  - Protest
 date: '2019-03-07 10:43:36'
 image: 'https://ucarecdn.com/f6683175-87da-4299-8e6f-d8fae316ffbb/'
 ---
 [According to Bloomberg News earlier this week](https://www.bloomberg.com/news/articles/2019-03-04/democrats-said-to-plan-anti-semitism-measure-after-omar-remarks), "House leaders are planning a vote as soon as Wednesday \[March 5th] on a resolution to condemn anti-Semitism, a senior Democratic aide said, after a series of controversies involving remarks made by first-term Representative Ilhan Omar of Minnesota." The resolution was being worked on over the weekend by staff for Speaker Nancy Pelosi, Majority Leader Steny Hoyer and others.  
-
+<!-- more -->
 So while the Democrats in Congress were considering on a resolution condemning anti-Semitism, three Democrats in the West Virginia House of Delegates attacked a 67 year old Jewish woman, protesting against anti-Semitism during GOP Day at the Capitol. Those Delegates were Michael Angelucci (D – Marion, 50), Mike Caputo (D – Marion, 50) and Mike Pushkin (D – Kanawha, 37). 
-<!-- more -->
+
 Said Brenda Arthur in her press release describing the incident: "I'm Brenda Arthur and I am a native West Virginian, an American, a Jewish woman, who came to Charleston to participate in GOP Day at the capitol. I came to peacefully protest hate speech and anti-Semitism.  I came in peace, but instead I am the target of a vicious smear campaign orchestrated by Democrats who serve in the legislature and who acted violently without provocation. Because of their violence, a member of the capitol staff wound up in the hospital."  She was there for the same reason that Nancy Pelosi and Majority Leader Steny Hoyer were considering a resolution condemning Rep. Omar. 
 
 Appearing on the Tom Roten radio program on Huntington's WVHU, [Brenda Arthur described](https://800wvhu.iheart.com/featured/the-tom-roten-morning-show/content/2019-03-05-enraged-democrat-delegates-verbally-attack-jewish-woman-with-f-bombs/) how Delegates Pushkin and Angelucci approached her in a menacing manner saying "I was glad there was a table between me and them".  She said they acted "like bullies…with a lack of civility and the rule of law".  
