@@ -22,7 +22,7 @@ Contrast that with the stance taken by the Shepherdstown Observer.  Apparently M
 > "Brenda:
 >
 > To put it mildly, we all know your name (though it will be forgotten next week, thankfully) because you're an unaccountable bigot.
-> \
+> 
 > YOU CHOSE to do it - and now you're whining like a little brat (inspired by your president, I'm sure) because the state and the world condemns YOUR behavior. As they should ... well, save for a small and soon-to-be-extinct group of similar bigots that slither through this country. They indeed probably love you.
 >
 > Anyway, as the curtain sets on your worldview, we bid you, and your ilk, a not-so-fond farewell.
