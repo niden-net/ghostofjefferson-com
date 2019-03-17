@@ -19,15 +19,17 @@ Rather than put words in Ms. Arthur's mouth, you can read her side of the story 
 
 Contrast that with the stance taken by the Shepherdstown Observer.  Apparently Ms. Arthur submitted that same press release to the Observer.  She posted the response she received by email from editor Mike Chalmers on Facebook:
 
-> "Brenda:\
+> "Brenda:
 >
 > To put it mildly, we all know your name (though it will be forgotten next week, thankfully) because you're an unaccountable bigot.
 > \
 > YOU CHOSE to do it - and now you're whining like a little brat (inspired by your president, I'm sure) because the state and the world condemns YOUR behavior. As they should ... well, save for a small and soon-to-be-extinct group of similar bigots that slither through this country. They indeed probably love you.
-> \
+>
 > Anyway, as the curtain sets on your worldview, we bid you, and your ilk, a not-so-fond farewell.
-> \
+>
 > You won't be missed. And your silly little press release won't be published.
+>
+>
 > Go back to your hole. Crawl into it. And shut up."
 
 Mr. Chalmer's email oozes hatred and it's directed at a 67 year old Jewish woman.  So when he tells her to "go back to your hole. Crawl into it. And shut up", there is a whiff of misogyny to it.  I'll give him a pass regarding anti-Semitism.  For now.  But when he says that the curtain is setting on her world view, the Jewish calendar goes back 5779 years.  As Ms. Arthur's press release states, she went to the West Virginia capitol that day to protest anti-Semitism.  Does Mike Chalmers have a problem with that?  Did he even bother to read it?  
