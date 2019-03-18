@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% for item in site.data.authors.member %}
+
+{% for item in site.authors %}
 {% if page.author == item.identifier %}
 {% assign author = item %}
 {% endif %}
@@ -16,7 +17,8 @@ layout: default
                                 <h3><a href="{{ post.url }}">{{ page.subtitle | strip }}</a></h3>
                                 <div class="post-info">
                                     <span>
-                                        <i class="fa fa-user"></i>by {{ author.name }}
+                                        <i class="fa fa-user"></i>by
+                                        <a href="/authors/{{ author.identifier }}">{{ author.name }}</a>
                                     </span>
                                     <span>{{ page.date | date: "%Y-%m-%d" }}</span>
                                     <!--<span><i class="fa fa-comment"></i>2 Comments</span>-->
@@ -58,12 +60,14 @@ layout: default
                             <div class="text">
                                 <h2>{{ author.name }}</h2>
                                 <p>
-                                    {{ author.bio | truncatewords: 40 }}
+                                    {{ author.content | truncatewords: 40 }}
                                     [<a href="/authors/{{ author.identifier }}">More...</a>]
                                 </p>
                                 <div class="cross"></div>
                                 <div class="social-button">
-<!--                                    <a href="#" class="social"><i class="fa fa-twitter"></i></a>-->
+                                    {% if author.twitter %}
+                                    <a href="{{ author.twitter }}" class="social"><i class="fa fa-twitter"></i></a>
+                                    {% endif %}
 <!--                                    <a href="#" class="social"><i class="fa fa-facebook"></i></a>-->
 <!--                                    <a href="#" class="social"><i class="fa fa-rss"></i></a>-->
                                 </div>
