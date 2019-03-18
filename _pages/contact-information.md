@@ -4,14 +4,11 @@ title: Contact Information
 permalink: /contact
 ---
 How to contact Ghost of Jefferson
-<br>
-<br>
+
 We welcome comments and suggestions. Feel free to interact with us on our social media pages:
-<br>
-<br>
-Twitter: <a href="https://twitter.com/ghstofjefferson">@ghstofjefferson</a> 
-<br>
-Facebook: <a href="https://facebook.com/GhostOfJefferson">https://facebook.com/GhostOfJefferson</a> 
-<br>
-<br>
-You can also email us at <a href='mailto:editor@ghostofjefferson.com'>editor@ghostofjefferson.com</a>.
+
+Twitter: [@{{ site.social.twitter }}](https://twitter.com/{{ site.social.twitter }}) 
+
+Facebook: [{{ site.social.facebook }}]({{ site.social.facebook }}) 
+
+You can also email us at [editor@ghostofjefferson.com](mailto:editor@ghostofjefferson.com).
