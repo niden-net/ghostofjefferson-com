@@ -12,11 +12,11 @@ tags:
 date: '2019-05-21 09:27:12'
 image: 'https://ucarecdn.com/751f6385-d032-4ae0-8d8a-c04d50c6e6ba/'
 ---
-When you get behind the wheel of a car you need to be responsible as to how you drive.  If not you can get pulled over.  The same is true of journalism.  Journalists need to be responsible in their approach to their trade.  Earlier this month Ryan Quinn wrote [an article](https://www.wvgazettemail.com/news/education/wv-senate-ed-chair-may-have-plagiarized-pro-charter-school/article_27a4d73d-3220-5c58-a5fb-7506d6ac02ea.html) that was printed in the Charleston Gazette Mail accusing Senator Patricia Rucker of plagiarism.  Out of context, that sounds like a serious charge and it can be.  But within the context of what Quinn alleges, it is much ado about nothing.  Unless Mr. Quinn would like to accuse me of plagiarizing Shakespeare.  
+When you get behind the wheel of a car you need to be responsible as to how you drive.  If not you can get pulled over.  The same is true of journalism.  Journalists need to be responsible in their approach to their trade.  Earlier this month Ryan Quinn wrote [an article](https://www.wvgazettemail.com/news/education/wv-senate-ed-chair-may-have-plagiarized-pro-charter-school/article_27a4d73d-3220-5c58-a5fb-7506d6ac02ea.html) that was printed in the Charleston Gazette Mail accusing Senator Patricia Rucker of plagiarism.  Out of context, that sounds like a serious charge and it can be.  But within the context of what Quinn alleges, it is much ado about nothing, unless Mr. Quinn would like to accuse me of plagiarizing Shakespeare.  
 
 I wrote a letter to the editor and submitted it to the Gazette Mail expressing my views on this matter and the newspaper refused to print it.  Failure to print an opposing view is not responsible journalism.  So in the spirit of the driving offenses on the books in many states pertaining to careless or reckless driving, I am hereby presenting a citizen's citation to Ryan Quinn and the Gazette Mail for careless or reckless journalism.  I feel confident that Mr. Quinn is aware of what careless driving entails.  
 
-Here is my letter to the editor that the Gazette Mail refused to print: 
+Below is my letter to the editor that the Gazette Mail refused to print: 
 
 We all use expressions like “it ain’t over ‘til it’s over” – or – “to thine own self be true”.  They appear in print all the time without attribution.  We quote from the Bible all the time without even knowing it.  We repeat things we hear.  We absorb things from what we read and it becomes part of the public discourse in which we participate and engage.  
 
