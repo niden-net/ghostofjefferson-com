@@ -20,7 +20,7 @@ Did he really say that?  Maybe Senator Unger needs a remedial course in reading.
 
 He unilaterally declares the bill to be unconstitutional. His opinion as to the constitutionality of the bill is simply that.  An opinion.  As the saying goes, everyone has one.  If you know what I mean.  An opinion has been issued by the Attorney General’s office regarding the bill’s constitutionality.  The legal opinion rendered (Senator Unger is not an attorney) is that it is constitutional.  
 
-Further, Senator Unger _ass_erts that the teachers were “promised” a pay raise “right before the election”.  My question to Senator Unger is: who promised that pay raise?  Right before the election? If Senator Unger promised a pay raise right before the election in order to buy votes I would consider that unethical.  Politicians should not be promising pay raises to buy votes.  Senator Unger, did you make that promise?    
+Further, Senator Unger _ass_erts that the teachers were “promised” a pay raise “right before the election”.  My question to Senator Unger is: who promised that pay raise?  Right before the election? If Senator Unger promised a pay raise right before the election in order to buy votes I would consider that unethical.  Politicians should not be promising pay raises to buy votes.    
 
 Senator Unger should extricate his mind from his (ASS) misconception.  He also needs to stop being an obstructionist and allow for education reform and innovation.  He’s holding up progress.  The children of West Virginia are depending on legislators to do the right thing and vote for the bill.  
 
