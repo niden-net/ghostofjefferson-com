@@ -12,7 +12,7 @@ tags:
 date: '2019-06-01 05:29:03'
 image: 'https://ucarecdn.com/376e1a47-181a-42a5-9705-9eaa1effabc6/'
 ---
-John Unger posted the following on his Facebook Page:  
+West Virginia State John Unger posted the following on his Facebook Page:  
 
 “Senator Rucker’s Act for Student Success (ASS) legislation is unconstitutional.”  
 
