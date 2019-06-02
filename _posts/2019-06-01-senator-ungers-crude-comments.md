@@ -14,7 +14,7 @@ image: 'https://ucarecdn.com/376e1a47-181a-42a5-9705-9eaa1effabc6/'
 ---
 West Virginia State John Unger [posted the following](https://www.facebook.com/johnungerforwv/) on his Facebook Page:  
 
-> "Senator Rucker's Act for Student Success (ASS) legislation is unconstitutional."  
+> Senator Rucker's Act for Student Success (ASS) legislation is unconstitutional.
 
 Did he really say that?  Maybe Senator Unger needs a remedial course in reading.  Or maybe the Ordained Minister needs to get his head out of the gutter. The legislation is called the Student Success Act or SSA.  It is therefore advisable to take the rest of his opinion about the bill with a grain of salt.  He really does have it (ASS) backward.  
 
@@ -27,10 +27,7 @@ Senator Unger should extricate his mind from his (ASS) misconception.  He also n
 You can read his FB post [here](https://www.facebook.com/johnungerforwv/).  I've also pasted the rest of it below:  
 
 > It is in violation of West Virginia Constitution 6-30: "Acts to embrace but one object: No act hereafter passed shall embrace more than one object, and that shall be expressed in the title..."
-Therefore the multiple provisions of this Omnibus bill need to be separated to allow each to be voted on so they can each stand or fall on their own merits.
->
-> Also, it is in violation of West Virginia Constitution 12-10 where charter school's (sic) are defined by the Act for Student Success (ASS) as an "independent free school organization." Since the state constitution prohibits the creation of an independent school organization without the consent of the school board of the county in which the charter school will operate, and a majority of the voters in the county, the procedure for the authorization of charter schools contained in the ASS is unconstitutional.
->
-> Once again, this is a maneuver to deny the teachers and service personnel a pay raise that was promised right before the election.
->
-> I will not suspend a constitutional rule that requires a bill to be read three separate days on a bill that violates the constitution!
+  Therefore the multiple provisions of this Omnibus bill need to be separated to allow each to be voted on so they can each stand or fall on their own merits.
+  Also, it is in violation of West Virginia Constitution 12-10 where charter school's (sic) are defined by the Act for Student Success (ASS) as an "independent free school organization." Since the state constitution prohibits the creation of an independent school organization without the consent of the school board of the county in which the charter school will operate, and a majority of the voters in the county, the procedure for the authorization of charter schools contained in the ASS is unconstitutional.
+  Once again, this is a maneuver to deny the teachers and service personnel a pay raise that was promised right before the election.
+  I will not suspend a constitutional rule that requires a bill to be read three separate days on a bill that violates the constitution!
