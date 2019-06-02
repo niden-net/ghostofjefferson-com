@@ -33,4 +33,4 @@ Therefore the multiple provisions of this Omnibus bill need to be separated to a
 >
 > Once again, this is a maneuver to deny the teachers and service personnel a pay raise that was promised right before the election.
 >
-> I will not suspend a constitutional rule that requires a bill to be read three separate days on a bill that violates the constitution!"
+> I will not suspend a constitutional rule that requires a bill to be read three separate days on a bill that violates the constitution!
