@@ -4,6 +4,7 @@ description: 'The Ghost of Jefferson - We hold these truths to be self-evident, 
 keywords: 'jefferson, ghost, jefferson county, west virginia'
 rss: 'Ghost of Jefferson'
 analytics: 'UA-132973672-1'
+timezone: 'America/New_York'
 social:
   email: 'editor@ghostofjefferson.com'
   facebook: 'https://facebook.com/GhostOfJefferson'
