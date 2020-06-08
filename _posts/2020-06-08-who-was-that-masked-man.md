@@ -16,8 +16,9 @@ tags:
 date: 2020-06-08T05:28:19.000Z
 image: https://ucarecdn.com/4e993d92-62d4-438b-ae7f-199f3be9dd13/
 ---
-I'm back.  
-Today I brought my 18 year old Honda Accord in for repairs.  There's this noise in the front end…
+I'm back!
+
+Today I brought my 18 year old Honda Accord in for repairs.  There's this noise in the front end...
 
 As I was talking with the shop owner about the work to be done I noticed a man pull into the lot, park his car and walk over to the shop's waiting room.  His car caught my attention because the back of it was covered with bumper stickers.  One of them said: Teach Peace.  Amen brother.  He had the look of an aging hippie - with long silver hair arranged in a ponytail.  He was wearing a mask.
 
