@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delegate Doyle Made Rockwool Possible
+title: Delegate Doyle's Part in Making Rockwool Possible
 author: esimon
 categories: News
 tags:
