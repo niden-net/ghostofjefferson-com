@@ -1,0 +1,28 @@
+---
+layout: post
+title: Mountain State Values - Big Money in Local Politics
+author: esimon
+categories: News
+tags:
+  - Mountain State Values
+  - AFT
+  - Senator Rucker
+  - politics
+  - West Virginia
+  - money in politics
+date: 2020-10-07 05:43:21
+image: https://ucarecdn.com/5dc7d241-4540-468f-a184-c49f5eb3267f/
+---
+“Mountain State Values” is an Independent Expenditure Committee.  What that means is that, while it cannot make donations to a candidate it can spend unlimited amounts of money on “issues”.  There are no limits on the amounts any given individual, corporation or group can donate to an Independent Expenditure Committee.  There, for all intents and purposes, Mountain State Values is a “SuperPAC” receiving [almost half of its money from other PACS](https://cfrs.wvsos.gov/index.html#/exploreCommitteeDetail/26155/0/0/0/null).  It’s a PAC of PACs if you will. It is registered to do business here in West Virginia and it has launched a tsunami of negative advertising against Senate candidates across the state of West Virginia, all of whom are Republican. In our area incumbent Senator Patricia Rucker is in their cross hairs. In their reports filed with the Secretary of State’s office they have already spent over $150 thousand dollars spewing out vitriol against her.
+
+Here are some facts about Mountain State Values that are available on the [website](https://cfrs.wvsos.gov/index.html#/exploreCommitteeDetail/26155/0/0/0/null) of the West Virginia Secretary of State. They’ve raised over two million dollars - $2,256,929.24 to be exact – as of this writing.  Almost exactly half of that money, over a million dollars, has come from out of state.  A good chunk of it comes the swamp in Washington DC.  Mountain State Values indeed.  
+
+Almost all of the contributions to the Super PAC come from unions.  Those include the IBEW, IUPAT, UMW, AFL-CIO and the NEA (National Education Association).  At their national convention in Houston last year, [a resolution was put forth](https://www.aei.org/education/k-12-schooling/nea-embraces-the-woke-agenda-but-votes-down-student-learning/) to the 6,000 delegates in attendance that the NEA “re-dedicate itself to the pursuit of increased student learning in every public school in America” and that the  “NEA will make student learning the priority of the Association”.  It failed.  Really.  Learning is no longer the number one priority of educators.  
+
+Speaking of priorities, by far the largest contributor to the Mountain State Values Super PAC is the American Federation of Teachers (AFT).  They are one fifth of the entire PAC, dollar wise, with two thirds of that coming from its national Solidarity Fund.  In looking through [their financials](https://www.aft.org/sites/default/files/agency_fee_2020_state_memo_and_audit_8.31.20.pdf) one can see that they also have a “Militancy Fund”.  Their words.  The purpose of the Militancy Fund is to provide resources for teacher strikes.  This is a “woke” organization and they are preparing for….fill in the blank.     
+
+In some parts of the country [teachers unions are calling for defunding the police](https://nypost.com/2020/07/13/la-teachers-union-wants-more-money-by-defunding-the-police/).  [United Teachers of Los Angeles](<United Teachers of Los Angeles>) (UTLA) has called for schools to remain closed (sounds like a strike to me) until their demands are met.  The Chicago Teachers Union (CTU) has also called for defunding the police; [read about it here](https://www.ctulocal1.org/wp-content/uploads/2020/07/CTU-Same-Storm-Different-Boat-FINALx.pdf) (page 8).   Both unions are affiliated with the AFT.  The West Virginia chapter is [scrambling to distance itself](http://wv.aft.org/news/statement-national-aft-resolution) from the national AFT, but the cat is already out of the bag.  The WV chapter still kicked in $150,000 to join with the national AFT Solidarity fund to provide money for the Mountain State Values SuperPAC.  But no matter how they try, the WV chapter of the AFT can’t distance themselves from the rest of the National AFT’s left wing agenda, an agenda that leans to [the left of the Democrat Party](https://www.newsweek.com/american-federation-teachers-puts-class-warfare-before-class-opinion-1524760); an agenda that is [extremely well funded](https://www.influencewatch.org/labor-union/american-federation-of-teachers/).   However, indications are that the tide of [public opinion may be starting to turn against teachers unions.](https://townhall.com/tipsheet/katiepavlich/2020/08/11/americans-continue-to-lose-patience-over-demanding-teachers-unions-n2574124)  People are getting fed up and they are standing up to the AFT and other militant unions.  
+
+Mountain State Values has spent $152,206.48 in “opposition advertising” against Senator Patricia Rucker in her re-election bid.  So far.  Opposition advertising is the polite word for it.  Most people have already seen the ads. They are “hit pieces” aimed at bullying the candidate.  One piece references a bill, SB 609 that never even became law. When you take the money that this SuperPac has spent and add that to the money raised by the Dougherty campaign, you’re north of a quarter million dollars.  And the Democrats complain about money in politics.  
+
+Senator Rucker has been a champion for West Virginia parents.  She has stood up to the power brokers in the state.  As the Chair of the Senate Education Committee she has accomplished what no one thought possible.  That is why you see those attack ads.  They hate her and they will spend every last dime they can get a hold of to bring her down.  Can the voters be bought?  We’ll soon find out.
