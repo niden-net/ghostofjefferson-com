@@ -28,4 +28,4 @@ We live in a world where people make accusations for the very things that they t
 
 I am a strong supporter of our constitutional right to free speech.  But words and actions have consequences.  If you invite CAIR to visit, you are inviting an organization that would like nothing better than to see the state of Israel cease to exist.  You are therefore sending a powerful anti-Israel message to the people of West Virginia.
 
-[*This article has been updated with regard to the sergeant at arms and includes a link to an op-ed with her side of the story - Editor*].
+[*This article has been updated with regard to the events involving the sergeant at arms; and includes a link to an op-ed with her entire account of the incident - Editor*].
